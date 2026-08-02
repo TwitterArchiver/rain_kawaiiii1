@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-02T00:48:47",
+  "last_updated": "2026-08-02T00:58:01",
   "html": {
     "https://web.archive.org/web/20260415040427if_/https://twitter.com/rain_kawaiiii1/status/2044265569336373744": {
       "status": "done",
@@ -4444,9 +4444,9 @@
       "referenced_by": [
         "20260503060836_twitter_com_rain_kawaiiii1_status_2050819795822739659.json"
       ],
-      "last_updated": "2026-08-02T00:20:44",
+      "last_updated": "2026-08-02T00:58:00",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260503060836/https://video.twimg.com/amplify_video/2050819697558659072/vid/avc1/720x1280/kbn-HufDzhLuaWLp.mp4?tag=27",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://video.twimg.com/ext_tw_video/2051332459535683584/pu/vid/avc1/800x600/vMLSb30EQtJcNvGh.mp4?tag=25": {
       "status": "done",
@@ -4467,9 +4467,9 @@
       "referenced_by": [
         "20260622023208_twitter_com_rain_kawaiiii1_status_2068884715755671726.json"
       ],
-      "last_updated": "2026-08-02T00:20:44",
+      "last_updated": "2026-08-02T00:58:01",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260622023208/https://video.twimg.com/amplify_video/2068884545932509184/vid/avc1/1280x720/wrNHSZsS4-hyefUd.mp4",
-      "miss_count": 1
+      "miss_count": 2
     }
   },
   "avatars": {
