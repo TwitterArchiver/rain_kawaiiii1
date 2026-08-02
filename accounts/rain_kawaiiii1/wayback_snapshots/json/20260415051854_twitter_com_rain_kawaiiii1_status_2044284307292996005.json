@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043915964559835136",
+    "conversation_id": "2044079057147703556",
+    "created_at": "2026-04-15T05:18:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T06:18:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044284307292996005"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1918698637737295872",
+          "start": 0,
+          "username": "UU_28231"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044284307292996005",
+    "in_reply_to_user_id": "1918698637737295872",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044079057147703556",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UU_28231 我也是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043915964559835136",
+        "conversation_id": "2044079057147703556",
+        "created_at": "2026-04-15T05:18:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T06:18:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044284307292996005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1918698637737295872",
+              "start": 0,
+              "username": "UU_28231"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044284307292996005",
+        "in_reply_to_user_id": "1918698637737295872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044079057147703556",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UU_28231 我也是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918698637737295872",
+        "conversation_id": "2044079057147703556",
+        "created_at": "2026-04-14T15:43:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T16:43:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044079057147703556"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044079057147703556",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 259814,
+          "like_count": 864,
+          "quote_count": 6,
+          "reply_count": 224,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "我的推是咋了，老是刷新不出新内容，一直刷都是同样的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "3.0 我无语了\n前世@rain_kawaii1\n扩餐券地雷🔪🩸💊\n不安定｜LGBT全友好｜扩列只扩互关｜欢迎同类互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "rain_kawaii1"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "location": "天国",
+        "name": "tong_u._.u_（3.0别封我了",
+        "pinned_tweet_id": "2044052979767226710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043920464872148992/gUpWTpWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 50,
+          "like_count": 52,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 46
+        },
+        "username": "rain_kawaiiii1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-03T16:07:12.000Z",
+        "description": "",
+        "id": "1918698637737295872",
+        "location": "🚪",
+        "name": "jallica",
+        "pinned_tweet_id": "1989164206789423119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013834394247815168/WWfkqgS3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3625,
+          "following_count": 66,
+          "like_count": 2295,
+          "listed_count": 13,
+          "media_count": 179,
+          "tweet_count": 1223
+        },
+        "username": "UU_28231",
+        "verified": false
+      }
+    ]
+  }
+}

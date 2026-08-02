@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047225725682700289",
+        "3_2047225725108056064"
+      ],
+      "media_source_tweet_id": [
+        "2047225739855143020",
+        "2047225739855143020"
+      ]
+    },
+    "author_id": "2043915964559835136",
+    "conversation_id": "2047274894019514539",
+    "created_at": "2026-04-23T11:22:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T12:22:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047274894019514539"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2043300901050322944",
+          "start": 3,
+          "username": "lindong2200"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/10vpAdb4fS",
+          "end": 54,
+          "expanded_url": "https://x.com/lindong2200/status/2047225739855143020/photo/1",
+          "media_key": "3_2047225725682700289",
+          "start": 31,
+          "url": "https://t.co/10vpAdb4fS"
+        },
+        {
+          "display_url": "pic.x.com/10vpAdb4fS",
+          "end": 54,
+          "expanded_url": "https://x.com/lindong2200/status/2047225739855143020/photo/1",
+          "media_key": "3_2047225725108056064",
+          "start": 31,
+          "url": "https://t.co/10vpAdb4fS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047274894019514539",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047225739855143020",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lindong2200: 我靠了誰幫我重生\n我已陣亡 https://t.co/10vpAdb4fS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047225725682700289",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGk082pb0AEgtzC.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2047225725108056064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGk080gbcAAkA2N.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047225725682700289",
+            "3_2047225725108056064"
+          ],
+          "media_source_tweet_id": [
+            "2047225739855143020",
+            "2047225739855143020"
+          ]
+        },
+        "author_id": "2043915964559835136",
+        "conversation_id": "2047274894019514539",
+        "created_at": "2026-04-23T11:22:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T12:22:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047274894019514539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2043300901050322944",
+              "start": 3,
+              "username": "lindong2200"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/10vpAdb4fS",
+              "end": 54,
+              "expanded_url": "https://x.com/lindong2200/status/2047225739855143020/photo/1",
+              "media_key": "3_2047225725682700289",
+              "start": 31,
+              "url": "https://t.co/10vpAdb4fS"
+            },
+            {
+              "display_url": "pic.x.com/10vpAdb4fS",
+              "end": 54,
+              "expanded_url": "https://x.com/lindong2200/status/2047225739855143020/photo/1",
+              "media_key": "3_2047225725108056064",
+              "start": 31,
+              "url": "https://t.co/10vpAdb4fS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047274894019514539",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047225739855143020",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lindong2200: 我靠了誰幫我重生\n我已陣亡 https://t.co/10vpAdb4fS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047225725682700289",
+            "3_2047225725108056064"
+          ]
+        },
+        "author_id": "2043300901050322944",
+        "conversation_id": "2047225739855143020",
+        "created_at": "2026-04-23T08:07:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T09:07:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047225739855143020"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/10vpAdb4fS",
+              "end": 37,
+              "expanded_url": "https://x.com/lindong2200/status/2047225739855143020/photo/1",
+              "media_key": "3_2047225725682700289",
+              "start": 14,
+              "url": "https://t.co/10vpAdb4fS"
+            },
+            {
+              "display_url": "pic.x.com/10vpAdb4fS",
+              "end": 37,
+              "expanded_url": "https://x.com/lindong2200/status/2047225739855143020/photo/1",
+              "media_key": "3_2047225725108056064",
+              "start": 14,
+              "url": "https://t.co/10vpAdb4fS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047225739855143020",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我靠了誰幫我重生\n我已陣亡 https://t.co/10vpAdb4fS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "🔪🩸💊\n线下查无此人｜不安定｜LGBTQ全友好｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 45,
+                "username": "rain_kawaii1"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "location": "天国",
+        "name": "tong_u._.u_",
+        "pinned_tweet_id": "2044953614591115710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043920464872148992/gUpWTpWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 110,
+          "like_count": 561,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 233
+        },
+        "username": "rain_kawaiiii1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-12T12:11:32.000Z",
+        "description": "前世@Xilne_cc慘遭攻擊，不過不必擔心我說我要當千年老王八所以我重生了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "Xilne_cc"
+              }
+            ]
+          }
+        },
+        "id": "2043300901050322944",
+        "name": "凜冬2.0（千年老王八重生版）",
+        "pinned_tweet_id": "2047225739855143020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043301538345455616/cvpqHzFf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 27,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 11
+        },
+        "username": "lindong2200",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043915964559835136",
+    "conversation_id": "2049046452316553663",
+    "created_at": "2026-04-28T09:42:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T10:42:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049061725178323008"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2047894021457211393",
+          "start": 0,
+          "username": "FanQie_QianQian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049061725178323008",
+    "in_reply_to_user_id": "2047894021457211393",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049046452316553663",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FanQie_QianQian 我趣刚刷到新号怎么就😿😿😿。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043915964559835136",
+        "conversation_id": "2049046452316553663",
+        "created_at": "2026-04-28T09:42:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T10:42:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049061725178323008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2047894021457211393",
+              "start": 0,
+              "username": "FanQie_QianQian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049061725178323008",
+        "in_reply_to_user_id": "2047894021457211393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049046452316553663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FanQie_QianQian 我趣刚刷到新号怎么就😿😿😿。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047894021457211393",
+        "conversation_id": "2049046452316553663",
+        "created_at": "2026-04-28T08:41:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T09:41:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049046452316553663"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049046452316553663",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 812,
+          "like_count": 11,
+          "quote_count": 5,
+          "reply_count": 12,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "謝謝你們陪著我 要是我成功了請務必替我好好活著"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "线下查无此人｜不安定｜LGBTQ全友好🌈👩‍❤️‍👩｜扩列只扩互关｜欢迎同类互fo（寻回中\n3.0 前世@rain_kawaii1\nbluesky：tongchan-2008 ←🔪🩸💊都放在这里",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 52,
+                "username": "rain_kawaii1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tong_u._.u_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tong_u._.u_",
+                "start": 0,
+                "url": "https://t.co/GZHx8f2s8R"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "location": "天国",
+        "name": "tong_u._.u_",
+        "pinned_tweet_id": "2044953614591115710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043920464872148992/gUpWTpWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 133,
+          "like_count": 723,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 306
+        },
+        "url": "https://t.co/GZHx8f2s8R",
+        "username": "rain_kawaiiii1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "重生之8.0\n11年 順女 LGBTQ全友好 前世互關尋回",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_1",
+                "start": 0,
+                "url": "https://t.co/JbrJBgq8ZL"
+              }
+            ]
+          }
+        },
+        "id": "2047894021457211393",
+        "location": "🚪",
+        "name": "飯企鵝8.0",
+        "pinned_tweet_id": "2048007891450483082",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047913417026256896/nhgiZEyi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 15,
+          "like_count": 245,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 83
+        },
+        "url": "https://t.co/JbrJBgq8ZL",
+        "username": "FanQie_QianQian",
+        "verified": false
+      }
+    ]
+  }
+}

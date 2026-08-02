@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043915964559835136",
+    "conversation_id": "2046492858455367689",
+    "created_at": "2026-04-21T07:37:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T08:37:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046493573596733465"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2046493573596733465",
+    "in_reply_to_user_id": "2043915964559835136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046492858455367689",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "下单之后客服会问你一些问题 关于处方单的不用管 回答别的就行 一直发确定就能通过"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2046492848619765760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGaaZy1bwAAr7gT.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043915964559835136",
+        "conversation_id": "2046492858455367689",
+        "created_at": "2026-04-21T07:37:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T08:37:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046493573596733465"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046493573596733465",
+        "in_reply_to_user_id": "2043915964559835136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046492858455367689",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "下单之后客服会问你一些问题 关于处方单的不用管 回答别的就行 一直发确定就能通过"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046492848619765760"
+          ]
+        },
+        "author_id": "2043915964559835136",
+        "conversation_id": "2046492858455367689",
+        "created_at": "2026-04-21T07:34:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T08:34:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046492858455367689"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DtGRufBTNC",
+              "end": 40,
+              "expanded_url": "https://x.com/rain_kawaiiii1/status/2046492858455367689/photo/1",
+              "media_key": "3_2046492848619765760",
+              "start": 17,
+              "url": "https://t.co/DtGRufBTNC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046492858455367689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "叮当快药还可以买普瑞 不需要处方 https://t.co/DtGRufBTNC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "description": "🔪🩸💊\n线下查无此人｜不安定｜LGBTQ全友好｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 45,
+                "username": "rain_kawaii1"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "location": "天国",
+        "name": "tong_u._.u_",
+        "pinned_tweet_id": "2044953614591115710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043920464872148992/gUpWTpWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 106,
+          "like_count": 441,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 198
+        },
+        "username": "rain_kawaiiii1",
+        "verified": false
+      }
+    ]
+  }
+}

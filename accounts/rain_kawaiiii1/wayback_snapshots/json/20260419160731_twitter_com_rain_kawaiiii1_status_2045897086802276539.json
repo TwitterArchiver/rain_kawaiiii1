@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043915964559835136",
+    "conversation_id": "2045833097271501217",
+    "created_at": "2026-04-19T16:07:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T17:07:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045897086802276539"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2031715041196875776",
+          "start": 0,
+          "username": "wu_si114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045897086802276539",
+    "in_reply_to_user_id": "2031715041196875776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045833097271501217",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wu_si114514 这个才是真正的人类猫条"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2045833097271501217].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2045833097271501217",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2045833097271501217"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043915964559835136",
+        "conversation_id": "2045833097271501217",
+        "created_at": "2026-04-19T16:07:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T17:07:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045897086802276539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2031715041196875776",
+              "start": 0,
+              "username": "wu_si114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045897086802276539",
+        "in_reply_to_user_id": "2031715041196875776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045833097271501217",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wu_si114514 这个才是真正的人类猫条"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "🔪🩸💊\n线下查无此人｜不安定｜LGBTQ全友好｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 45,
+                "username": "rain_kawaii1"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "location": "天国",
+        "name": "tong_u._.u_",
+        "pinned_tweet_id": "2044953614591115710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043920464872148992/gUpWTpWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 93,
+          "like_count": 342,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 156
+        },
+        "username": "rain_kawaiiii1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-11T12:53:23.000Z",
+        "description": "@rinii165892 的最强嘴替 少关心我 【大号正常期间锁推】\nxtx/无证含糖/od&sh/生产日期 2012/09/17/全家都是精神病/没素质见人就骂的cs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "rinii165892"
+              }
+            ]
+          }
+        },
+        "id": "2031715041196875776",
+        "location": "msk坟头",
+        "name": "2.雨木木（完全仇恨邪恶msk）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031760424920883200/DV4uG4Xo_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 354,
+          "like_count": 1283,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 883
+        },
+        "username": "wu_si114514",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043915964559835136",
+    "conversation_id": "2046986451003560027",
+    "created_at": "2026-04-24T02:40:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T03:40:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047506005064565118"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2039983567586164737",
+          "start": 0,
+          "username": "zyuyuouo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047506005064565118",
+    "in_reply_to_user_id": "2039983567586164737",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046986451003560027",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zyuyuouo 🙋🙋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043915964559835136",
+        "conversation_id": "2046986451003560027",
+        "created_at": "2026-04-24T02:40:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T03:40:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047506005064565118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2039983567586164737",
+              "start": 0,
+              "username": "zyuyuouo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047506005064565118",
+        "in_reply_to_user_id": "2039983567586164737",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046986451003560027",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zyuyuouo 🙋🙋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039983567586164737",
+        "conversation_id": "2046986451003560027",
+        "created_at": "2026-04-22T16:16:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T17:16:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046986451003560027"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xilne_cc/statu…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/xilne_cc/status/2046984456431673805",
+              "start": 13,
+              "url": "https://t.co/gxW7aCgrwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046986451003560027",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2526,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046984456431673805",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "小号在此…小痂痂找互关中 https://t.co/gxW7aCgrwQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "🔪🩸💊\n线下查无此人｜不安定｜LGBTQ全友好｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 45,
+                "username": "rain_kawaii1"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "location": "天国",
+        "name": "tong_u._.u_",
+        "pinned_tweet_id": "2044953614591115710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043920464872148992/gUpWTpWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 112,
+          "like_count": 567,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 241
+        },
+        "username": "rain_kawaiiii1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-03T08:30:51.000Z",
+        "description": "",
+        "id": "2039983567586164737",
+        "name": "愛的本質是給予",
+        "pinned_tweet_id": "2046986451003560027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039984216675655680/H1MqGkDk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 69,
+          "like_count": 62,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 42
+        },
+        "username": "zyuyuouo",
+        "verified": false
+      }
+    ]
+  }
+}

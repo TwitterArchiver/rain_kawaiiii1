@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043915964559835136",
+    "conversation_id": "2045385974281298341",
+    "created_at": "2026-04-18T09:49:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T10:49:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045439471286689859"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1357176687318888448",
+          "start": 0,
+          "username": "FuckChina8964_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045439471286689859",
+    "in_reply_to_user_id": "1357176687318888448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045416707205001647",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FuckChina8964_ 太坏了。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043915964559835136",
+        "conversation_id": "2045385974281298341",
+        "created_at": "2026-04-18T09:49:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T10:49:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045439471286689859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1357176687318888448",
+              "start": 0,
+              "username": "FuckChina8964_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045439471286689859",
+        "in_reply_to_user_id": "1357176687318888448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045416707205001647",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FuckChina8964_ 太坏了。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1357176687318888448",
+        "conversation_id": "2045385974281298341",
+        "created_at": "2026-04-18T08:18:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T09:18:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045416707205001647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2043915964559835136",
+              "start": 0,
+              "username": "rain_kawaiiii1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045416707205001647",
+        "in_reply_to_user_id": "2043915964559835136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045385974281298341",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rain_kawaiiii1 这种名字带氮平的药都很恶毒，吃了必胖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "description": "🔪🩸💊\n线下查无此人｜不安定｜LGBTQ全友好｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 45,
+                "username": "rain_kawaii1"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "location": "天国",
+        "name": "tong_u._.u_",
+        "pinned_tweet_id": "2044953614591115710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043920464872148992/gUpWTpWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 92,
+          "like_count": 231,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 121
+        },
+        "username": "rain_kawaiiii1",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-04T03:58:47.000Z",
+        "description": "/顺直/土逼/精分/残疾",
+        "id": "1357176687318888448",
+        "location": "骂我的下辈子还是中国人",
+        "name": "集美猪蹄改花刀十三刀没出血",
+        "pinned_tweet_id": "2044412599518019682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796513060435496961/0u01y7cZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 400,
+          "like_count": 1704,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 827
+        },
+        "username": "FuckChina8964_",
+        "verified": false
+      }
+    ]
+  }
+}

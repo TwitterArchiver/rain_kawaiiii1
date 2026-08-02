@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043915964559835136",
+    "conversation_id": "2049167319306584495",
+    "created_at": "2026-04-28T16:49:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T17:49:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049169168918778145"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2027464565290909696",
+          "start": 0,
+          "username": "setsukadare"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049169168918778145",
+    "in_reply_to_user_id": "2027464565290909696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049168402875666479",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@setsukadare 😇😇也挺好的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043915964559835136",
+        "conversation_id": "2049167319306584495",
+        "created_at": "2026-04-28T16:49:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T17:49:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049169168918778145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2027464565290909696",
+              "start": 0,
+              "username": "setsukadare"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049169168918778145",
+        "in_reply_to_user_id": "2027464565290909696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049168402875666479",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@setsukadare 😇😇也挺好的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2027464565290909696",
+        "conversation_id": "2049167319306584495",
+        "created_at": "2026-04-28T16:46:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T17:46:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049168402875666479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2043915964559835136",
+              "start": 0,
+              "username": "rain_kawaiiii1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049168402875666479",
+        "in_reply_to_user_id": "2043915964559835136",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049167319306584495",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rain_kawaiiii1 👶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "description": "线下查无此人｜不安定｜LGBTQ全友好🌈👩‍❤️‍👩｜扩列只扩互关｜欢迎同类互fo（寻回中\n3.0 前世@rain_kawaii1\nbluesky：tongchan-2008 ←🔪🩸💊都放在这里",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 52,
+                "username": "rain_kawaii1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tong_u._.u_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tong_u._.u_",
+                "start": 0,
+                "url": "https://t.co/GZHx8f2s8R"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "location": "天国",
+        "name": "tong_u._.u_",
+        "pinned_tweet_id": "2044953614591115710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043920464872148992/gUpWTpWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 134,
+          "like_count": 762,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 312
+        },
+        "url": "https://t.co/GZHx8f2s8R",
+        "username": "rain_kawaiiii1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-27T19:24:36.000Z",
+        "description": "碎碎念",
+        "id": "2027464565290909696",
+        "location": "美好的世界",
+        "name": "setsuka",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048795075996745728/v6rI_dVC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 72,
+          "like_count": 208,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 80
+        },
+        "username": "setsukadare",
+        "verified": false
+      }
+    ]
+  }
+}

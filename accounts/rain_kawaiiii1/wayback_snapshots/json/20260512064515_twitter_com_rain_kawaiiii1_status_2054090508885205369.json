@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052332536706355200"
+      ],
+      "media_source_tweet_id": [
+        "2052332545438867823"
+      ]
+    },
+    "author_id": "2043915964559835136",
+    "conversation_id": "2054090508885205369",
+    "created_at": "2026-05-12T06:45:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T07:45:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054090508885205369"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1988925214374412288",
+          "start": 3,
+          "username": "kitty_a2a"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cZFV5QhDZf",
+          "end": 43,
+          "expanded_url": "https://x.com/kitty_a2a/status/2052332545438867823/photo/1",
+          "media_key": "3_2052332536706355200",
+          "start": 20,
+          "url": "https://t.co/cZFV5QhDZf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054090508885205369",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 210
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052332545438867823",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @kitty_a2a: 쇼코바니 https://t.co/cZFV5QhDZf"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2054090508885205369].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2054090508885205369",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2054090508885205369"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052332536706355200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHtZkYNb0AAygiV.jpg",
+        "width": 1998
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052332536706355200"
+          ]
+        },
+        "author_id": "1988925214374412288",
+        "conversation_id": "2052332545438867823",
+        "created_at": "2026-05-07T10:19:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T11:19:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052332545438867823"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cZFV5QhDZf",
+              "end": 28,
+              "expanded_url": "https://x.com/kitty_a2a/status/2052332545438867823/photo/1",
+              "media_key": "3_2052332536706355200",
+              "start": 5,
+              "url": "https://t.co/cZFV5QhDZf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052332545438867823",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 95,
+          "impression_count": 17329,
+          "like_count": 1375,
+          "quote_count": 3,
+          "reply_count": 1,
+          "retweet_count": 210
+        },
+        "reply_settings": "following",
+        "text": "쇼코바니 https://t.co/cZFV5QhDZf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "description": "线下查无此人｜不安定｜LGBTQ全友好🌈👩‍❤️‍👩｜扩列只扩互关｜欢迎同类互fo（寻回中\n3.0 前世@rain_kawaii1\nbluesky：tongchan-2008 ←🔪🩸💊都放在这里",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 52,
+                "username": "rain_kawaii1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tong_u._.u_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tong_u._.u_",
+                "start": 0,
+                "url": "https://t.co/GZHx8f2s8R"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "location": "天国",
+        "name": "tong_u._.u_",
+        "pinned_tweet_id": "2044953614591115710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043920464872148992/gUpWTpWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 149,
+          "like_count": 1004,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 373
+        },
+        "url": "https://t.co/GZHx8f2s8R",
+        "username": "rain_kawaiiii1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-13T11:01:44.000Z",
+        "description": "Main account→ @kitty_a1a",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "kitty_a1a"
+              }
+            ]
+          }
+        },
+        "id": "1988925214374412288",
+        "name": "Cho",
+        "pinned_tweet_id": "2033851151624585493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051852671536230400/8So5j5VW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4518,
+          "following_count": 42,
+          "like_count": 9124,
+          "listed_count": 11,
+          "media_count": 128,
+          "tweet_count": 648
+        },
+        "username": "kitty_a2a",
+        "verified": false
+      }
+    ]
+  }
+}

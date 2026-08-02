@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043915964559835136",
+    "conversation_id": "2047640488879255792",
+    "created_at": "2026-04-24T15:34:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T16:34:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047700744921624864"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2047617385851756544",
+          "start": 0,
+          "username": "mingfeilu0427"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047700744921624864",
+    "in_reply_to_user_id": "2047617385851756544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047640488879255792",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mingfeilu0427 陪跑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043915964559835136",
+        "conversation_id": "2047640488879255792",
+        "created_at": "2026-04-24T15:34:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T16:34:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047700744921624864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2047617385851756544",
+              "start": 0,
+              "username": "mingfeilu0427"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047700744921624864",
+        "in_reply_to_user_id": "2047617385851756544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047640488879255792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mingfeilu0427 陪跑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047617385851756544",
+        "conversation_id": "2047640488879255792",
+        "created_at": "2026-04-24T11:35:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T12:35:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047640488879255792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1864056935647264768",
+              "start": 2,
+              "username": "hirycena22779"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047640488879255792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1068,
+          "like_count": 32,
+          "quote_count": 2,
+          "reply_count": 25,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "这是@hirycena22779第二世 没想到发了第一个自介贴就被封了，这一世就随缘互fo了，免得再被封，抽个奖起个流吧。自介就是oder自残文艺b长发男4i性别认知偏差\n\n一等奖：52r（一份）\n \n二等奖：随便你想要的物品吧30r以内的可以折现（两份）\n\n三等奖：5.2r（三份）\n \n赞＋fo＋评＋转即可参加\n\n5.1开奖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "🔪🩸💊\n线下查无此人｜不安定｜LGBTQ全友好｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 45,
+                "username": "rain_kawaii1"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "location": "天国",
+        "name": "tong_u._.u_",
+        "pinned_tweet_id": "2044953614591115710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043920464872148992/gUpWTpWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 113,
+          "like_count": 592,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 247
+        },
+        "username": "rain_kawaiiii1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-24T10:03:41.000Z",
+        "description": "重度双相强迫焦虑/被害妄想/性别认知偏差/od自餐/文艺逼 长发男 4i/m/健全人勿扰",
+        "id": "2047617385851756544",
+        "location": "床",
+        "name": "明非路",
+        "pinned_tweet_id": "2047640488879255792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047620414290214912/sc3LavHg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 6,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 10
+        },
+        "username": "mingfeilu0427",
+        "verified": false
+      }
+    ]
+  }
+}

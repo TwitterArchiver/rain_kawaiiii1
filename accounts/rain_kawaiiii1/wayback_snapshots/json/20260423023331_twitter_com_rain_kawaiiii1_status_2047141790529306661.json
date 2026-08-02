@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046924560109625344"
+      ],
+      "media_source_tweet_id": [
+        "2046924892516626821"
+      ]
+    },
+    "author_id": "2043915964559835136",
+    "conversation_id": "2047141790529306661",
+    "created_at": "2026-04-23T02:33:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T03:33:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047141790529306661"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2023431978410991616",
+          "start": 3,
+          "username": "_CuicuiMiao_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bWVetfi9Fo",
+          "end": 85,
+          "expanded_url": "https://x.com/_CuicuiMiao_/status/2046924892516626821/photo/1",
+          "media_key": "3_2046924560109625344",
+          "start": 62,
+          "url": "https://t.co/bWVetfi9Fo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047141790529306661",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046924892516626821",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_CuicuiMiao_: 我操阿？！\n我都買了premium了還封我號。\n好生氣好生氣我想我的互關們了嗚嗚嗚嗚。 https://t.co/bWVetfi9Fo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2164,
+        "media_key": "3_2046924560109625344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGgjCtdbYAAUQ_n.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046924560109625344"
+          ],
+          "media_source_tweet_id": [
+            "2046924892516626821"
+          ]
+        },
+        "author_id": "2043915964559835136",
+        "conversation_id": "2047141790529306661",
+        "created_at": "2026-04-23T02:33:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T03:33:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047141790529306661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2023431978410991616",
+              "start": 3,
+              "username": "_CuicuiMiao_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bWVetfi9Fo",
+              "end": 85,
+              "expanded_url": "https://x.com/_CuicuiMiao_/status/2046924892516626821/photo/1",
+              "media_key": "3_2046924560109625344",
+              "start": 62,
+              "url": "https://t.co/bWVetfi9Fo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047141790529306661",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046924892516626821",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_CuicuiMiao_: 我操阿？！\n我都買了premium了還封我號。\n好生氣好生氣我想我的互關們了嗚嗚嗚嗚。 https://t.co/bWVetfi9Fo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046924560109625344"
+          ]
+        },
+        "author_id": "2023431978410991616",
+        "conversation_id": "2046924892516626821",
+        "created_at": "2026-04-22T12:11:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T13:11:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046924892516626821"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bWVetfi9Fo",
+              "end": 67,
+              "expanded_url": "https://x.com/_CuicuiMiao_/status/2046924892516626821/photo/1",
+              "media_key": "3_2046924560109625344",
+              "start": 44,
+              "url": "https://t.co/bWVetfi9Fo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046924892516626821",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6751,
+          "like_count": 71,
+          "quote_count": 1,
+          "reply_count": 39,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "我操阿？！\n我都買了premium了還封我號。\n好生氣好生氣我想我的互關們了嗚嗚嗚嗚。 https://t.co/bWVetfi9Fo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "🔪🩸💊\n线下查无此人｜不安定｜LGBTQ全友好｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 45,
+                "username": "rain_kawaii1"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "location": "天国",
+        "name": "tong_u._.u_",
+        "pinned_tweet_id": "2044953614591115710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043920464872148992/gUpWTpWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 119,
+          "like_count": 530,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 229
+        },
+        "username": "rain_kawaiiii1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-16T16:19:32.000Z",
+        "description": "11年 順女 LGBTQ全友好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_",
+                "start": 0,
+                "url": "https://t.co/uA1KIy2FVt"
+              }
+            ]
+          }
+        },
+        "id": "2023431978410991616",
+        "location": "🚪",
+        "name": "番茄操蛋6.0",
+        "pinned_tweet_id": "2046955466845262078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026058493871218688/LzgDzWIh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 14,
+          "like_count": 112,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 31
+        },
+        "url": "https://t.co/uA1KIy2FVt",
+        "username": "_CuicuiMiao_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043915964559835136",
+    "conversation_id": "2067725903065444798",
+    "created_at": "2026-06-19T13:51:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T14:51:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067968493430206973"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2057700995300270080",
+          "start": 0,
+          "username": "vomitkink_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067968493430206973",
+    "in_reply_to_user_id": "2057700995300270080",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067725903065444798",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vomitkink_ ？"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15535,
+        "height": 1280,
+        "media_key": "7_2066979594457296896",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2066979594457296896/pu/img/J-kKgaDYcFbaspYs.jpg",
+        "public_metrics": {
+          "view_count": 5095106
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2066979594457296896/pu/vid/avc1/320x568/s0r_ZoSPicYCuZgu.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2066979594457296896/pu/vid/avc1/480x852/ndT8ZydZc7_wy34t.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2066979594457296896/pu/vid/avc1/720x1280/qpZxzA6UXAnW_EaV.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2066979594457296896/pu/pl/5NRhuLikXBpbBZO2.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043915964559835136",
+        "conversation_id": "2067725903065444798",
+        "created_at": "2026-06-19T13:51:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T14:51:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067968493430206973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2057700995300270080",
+              "start": 0,
+              "username": "vomitkink_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067968493430206973",
+        "in_reply_to_user_id": "2057700995300270080",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067725903065444798",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vomitkink_ ？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2066979594457296896"
+          ],
+          "media_source_tweet_id": [
+            "2066979620487069972"
+          ]
+        },
+        "author_id": "2057700995300270080",
+        "conversation_id": "2067725903065444798",
+        "created_at": "2026-06-18T21:47:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T22:47:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067725903065444798"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9mVvdjdjVG",
+              "end": 58,
+              "expanded_url": "https://x.com/shennaichuan_/status/2066979620487069972/video/1",
+              "media_key": "7_2066979594457296896",
+              "start": 35,
+              "url": "https://t.co/9mVvdjdjVG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067725903065444798",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1038,
+          "impression_count": 377982,
+          "like_count": 3129,
+          "quote_count": 18,
+          "reply_count": 58,
+          "retweet_count": 239
+        },
+        "reply_settings": "everyone",
+        "text": "Me when im banned from eating poop https://t.co/9mVvdjdjVG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "线下查无此人｜不安定｜LGBTQ全友好🌈👩‍❤️‍👩｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1\nbluesky：tongchan-2008 ←🔪🩸💊",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "rain_kawaii1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tong_u._.u_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tong_u._.u_",
+                "start": 0,
+                "url": "https://t.co/GZHx8f2s8R"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "location": "天国",
+        "name": "tong_u._.u_",
+        "pinned_tweet_id": "2044953614591115710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043920464872148992/gUpWTpWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 147,
+          "like_count": 1164,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 473
+        },
+        "url": "https://t.co/GZHx8f2s8R",
+        "username": "rain_kawaiiii1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-22T05:52:02.000Z",
+        "description": "Sweaty shota feet in my mouth 😅💪",
+        "id": "2057700995300270080",
+        "name": "SodomizeElonWithMuttKnotsGroyper",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063956224366817281/6BifMN3B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 59,
+          "like_count": 3378,
+          "listed_count": 1,
+          "media_count": 136,
+          "tweet_count": 1261
+        },
+        "url": "",
+        "username": "vomitkink_",
+        "verified": false
+      }
+    ]
+  }
+}

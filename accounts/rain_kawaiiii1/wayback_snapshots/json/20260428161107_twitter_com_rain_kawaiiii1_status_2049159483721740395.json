@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043915964559835136",
+    "conversation_id": "2049099358340292934",
+    "created_at": "2026-04-28T16:11:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T17:11:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049159483721740395"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2032033299980566528",
+          "start": 0,
+          "username": "rinii165892"
+        },
+        {
+          "end": 22,
+          "id": "1891311621991219200",
+          "start": 13,
+          "username": "Numiouo1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049159483721740395",
+    "in_reply_to_user_id": "2032033299980566528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049099358340292934",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rinii165892 @Numiouo1 糯米糖纸循环之室"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2049099358340292934].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2049099358340292934",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2049099358340292934"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043915964559835136",
+        "conversation_id": "2049099358340292934",
+        "created_at": "2026-04-28T16:11:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T17:11:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049159483721740395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2032033299980566528",
+              "start": 0,
+              "username": "rinii165892"
+            },
+            {
+              "end": 22,
+              "id": "1891311621991219200",
+              "start": 13,
+              "username": "Numiouo1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049159483721740395",
+        "in_reply_to_user_id": "2032033299980566528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049099358340292934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rinii165892 @Numiouo1 糯米糖纸循环之室"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "线下查无此人｜不安定｜LGBTQ全友好🌈👩‍❤️‍👩｜扩列只扩互关｜欢迎同类互fo（寻回中\n3.0 前世@rain_kawaii1\nbluesky：tongchan-2008 ←🔪🩸💊都放在这里",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 52,
+                "username": "rain_kawaii1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tong_u._.u_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tong_u._.u_",
+                "start": 0,
+                "url": "https://t.co/GZHx8f2s8R"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "location": "天国",
+        "name": "tong_u._.u_",
+        "pinned_tweet_id": "2044953614591115710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043920464872148992/gUpWTpWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 134,
+          "like_count": 745,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 309
+        },
+        "url": "https://t.co/GZHx8f2s8R",
+        "username": "rain_kawaiiii1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-12T09:58:00.000Z",
+        "description": "不发帖就是被抓进精神病院了【寻回推u】\n- ✰*🎀 ੈ✩🍥✰*💗 ੈ✩- \n互联网蛆虫，查成分回fo/低龄糖逼，十分抱歉\n宇宙严重失眠 -12现役初中生\n备用号@YiJin_0v0\n^✟❀灵宠@dbdbsjbsja❀烟灰缸@hg3551019177402✿永远纪念@wu_si787878❀✟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 80,
+                "username": "YiJin_0v0"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "dbdbsjbsja"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "hg3551019177402"
+              },
+              {
+                "end": 144,
+                "start": 132,
+                "username": "wu_si787878"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ii_rin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ii_rin",
+                "start": 0,
+                "url": "https://t.co/Ks0tpHwbNp"
+              }
+            ]
+          }
+        },
+        "id": "2032033299980566528",
+        "location": "你看看你身后",
+        "name": "霖（完全病娇邪恶中2.0）",
+        "pinned_tweet_id": "2038261710612729866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047879655378870272/U6xQrdPQ_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1438,
+          "following_count": 915,
+          "like_count": 9452,
+          "listed_count": 4,
+          "media_count": 213,
+          "tweet_count": 5139
+        },
+        "url": "https://t.co/Ks0tpHwbNp",
+        "username": "rinii165892",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-17T02:20:21.000Z",
+        "description": "成分请看@Numiouo @Numiouo2 \n同类都会回 关注限制只能一批批回\n致举报者：你大可以继续当老鼠偷偷视奸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 4,
+                "username": "Numiouo"
+              },
+              {
+                "end": 22,
+                "start": 13,
+                "username": "Numiouo2"
+              }
+            ]
+          }
+        },
+        "id": "1891311621991219200",
+        "name": "糯米2.0（句末为叠甲 同类请无视）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031380479656730624/btRtgWSN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 535,
+          "following_count": 487,
+          "like_count": 284,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 237
+        },
+        "username": "Numiouo1",
+        "verified": false
+      }
+    ]
+  }
+}

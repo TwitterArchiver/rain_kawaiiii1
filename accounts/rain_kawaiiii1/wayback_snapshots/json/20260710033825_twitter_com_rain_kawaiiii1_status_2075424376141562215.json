@@ -1,0 +1,117 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043915964559835136",
+    "conversation_id": "2075424376141562215",
+    "created_at": "2026-07-10T03:38:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T04:38:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075424376141562215"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2075424376141562215",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我爹一早上跟我道歉说自己喝多了再也不说我了别生他气了 要是酒精真能这么让人失控那不应该早就列管了吗 我怀疑就是在借着幌子说心里话 但是为什么还会道歉我活这么大他第一次跟我道歉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043915964559835136",
+        "conversation_id": "2075424376141562215",
+        "created_at": "2026-07-10T03:38:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T04:38:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075424376141562215"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075424376141562215",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我爹一早上跟我道歉说自己喝多了再也不说我了别生他气了 要是酒精真能这么让人失控那不应该早就列管了吗 我怀疑就是在借着幌子说心里话 但是为什么还会道歉我活这么大他第一次跟我道歉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "description": "线下查无此人｜不安定｜LGBTQ全友好🌈👩‍❤️‍👩｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1\nbluesky：tongchan-2008 ←🔪🩸💊",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "rain_kawaii1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tong_u._.u_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tong_u._.u_",
+                "start": 0,
+                "url": "https://t.co/GZHx8f2s8R"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "location": "天国",
+        "name": "tong_u._.u_",
+        "pinned_tweet_id": "2044953614591115710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043920464872148992/gUpWTpWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 125,
+          "like_count": 1243,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 538
+        },
+        "url": "https://t.co/GZHx8f2s8R",
+        "username": "rain_kawaiiii1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043915964559835136",
+    "conversation_id": "2047328745497981006",
+    "created_at": "2026-04-23T14:56:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T15:56:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047328745497981006"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2013517011729465344",
+          "start": 3,
+          "username": "RfbxaUauj41685"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047328745497981006",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047305779175391720",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RfbxaUauj41685: 没想到这么快就100fo了\n兑现一下诺言再开个奖吧\n\n转发评论关注\n抽一人10r红包\n抽三人5.2r红包"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043915964559835136",
+        "conversation_id": "2047328745497981006",
+        "created_at": "2026-04-23T14:56:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T15:56:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047328745497981006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2013517011729465344",
+              "start": 3,
+              "username": "RfbxaUauj41685"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047328745497981006",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047305779175391720",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RfbxaUauj41685: 没想到这么快就100fo了\n兑现一下诺言再开个奖吧\n\n转发评论关注\n抽一人10r红包\n抽三人5.2r红包"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013517011729465344",
+        "conversation_id": "2047305779175391720",
+        "created_at": "2026-04-23T13:25:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T14:25:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047305779175391720"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047305779175391720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 420,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "没想到这么快就100fo了\n兑现一下诺言再开个奖吧\n\n转发评论关注\n抽一人10r红包\n抽三人5.2r红包"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "🔪🩸💊\n线下查无此人｜不安定｜LGBTQ全友好｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 45,
+                "username": "rain_kawaii1"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "location": "天国",
+        "name": "tong_u._.u_",
+        "pinned_tweet_id": "2044953614591115710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043920464872148992/gUpWTpWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 111,
+          "like_count": 563,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 236
+        },
+        "username": "rain_kawaiiii1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-20T07:40:54.000Z",
+        "description": "男/mtx 前世：@rednightmare962",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 9,
+                "username": "rednightmare962"
+              }
+            ]
+          }
+        },
+        "id": "2013517011729465344",
+        "name": "洛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036639177761333249/V3qDiwX6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 53,
+          "like_count": 268,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 157
+        },
+        "username": "RfbxaUauj41685",
+        "verified": false
+      }
+    ]
+  }
+}

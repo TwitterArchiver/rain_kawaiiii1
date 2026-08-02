@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043915964559835136",
+    "conversation_id": "2047888657181528299",
+    "created_at": "2026-04-25T04:01:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T05:01:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047888657181528299"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1932959085374418944",
+          "start": 3,
+          "username": "shuigehaijao124"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047888657181528299",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047316078678941733",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shuigehaijao124: 每天就在微信和X上面来回切 下意识点开微信根本就没有人给我发信息就回到X 依旧没有人理我 然后如此反复。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043915964559835136",
+        "conversation_id": "2047888657181528299",
+        "created_at": "2026-04-25T04:01:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T05:01:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047888657181528299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1932959085374418944",
+              "start": 3,
+              "username": "shuigehaijao124"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047888657181528299",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047316078678941733",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shuigehaijao124: 每天就在微信和X上面来回切 下意识点开微信根本就没有人给我发信息就回到X 依旧没有人理我 然后如此反复。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932959085374418944",
+        "conversation_id": "2047316078678941733",
+        "created_at": "2026-04-23T14:06:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T15:06:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047316078678941733"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047316078678941733",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1863,
+          "like_count": 61,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "每天就在微信和X上面来回切 下意识点开微信根本就没有人给我发信息就回到X 依旧没有人理我 然后如此反复。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "🔪🩸💊\n线下查无此人｜不安定｜LGBTQ全友好｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 45,
+                "username": "rain_kawaii1"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "location": "天国",
+        "name": "tong_u._.u_",
+        "pinned_tweet_id": "2044953614591115710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043920464872148992/gUpWTpWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 114,
+          "like_count": 610,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 247
+        },
+        "username": "rain_kawaiiii1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-12T00:32:25.000Z",
+        "description": "想要很多钱和很多爱｜可以叫我叛逆｜07｜天蝎座｜xp是扇脸掐脖子粗口｜恋哥癖手控声控重度依赖^^🥣：周末接瓦｜不闲聊别骚扰 \n老婆：@Babyzxixim",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 66,
+                "username": "Babyzxixim"
+              }
+            ]
+          }
+        },
+        "id": "1932959085374418944",
+        "location": "不约不线下 🚪152/288/520/1314",
+        "name": "老公叛逆被判有妻徒刑",
+        "pinned_tweet_id": "2041802938516226108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999446331384094720/w_KrKy3-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1890,
+          "following_count": 64,
+          "like_count": 1044,
+          "listed_count": 3,
+          "media_count": 137,
+          "tweet_count": 768
+        },
+        "username": "shuigehaijao124",
+        "verified": false
+      }
+    ]
+  }
+}

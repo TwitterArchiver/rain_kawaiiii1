@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043915964559835136",
+    "conversation_id": "2051948891969667576",
+    "created_at": "2026-05-07T04:59:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T05:59:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052251994149282240"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2029031867601829888",
+          "start": 0,
+          "username": "Wu5fwc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052251994149282240",
+    "in_reply_to_user_id": "2029031867601829888",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051948891969667576",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wu5fwc 1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043915964559835136",
+        "conversation_id": "2051948891969667576",
+        "created_at": "2026-05-07T04:59:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T05:59:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052251994149282240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2029031867601829888",
+              "start": 0,
+              "username": "Wu5fwc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052251994149282240",
+        "in_reply_to_user_id": "2029031867601829888",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051948891969667576",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wu5fwc 1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029031867601829888",
+        "conversation_id": "2051948891969667576",
+        "created_at": "2026-05-06T08:55:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T09:55:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051948891969667576"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051948891969667576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 4519,
+          "like_count": 136,
+          "quote_count": 0,
+          "reply_count": 101,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "40粉fo：\n1:白兔一盒（折现80）\n2:自选一盒药（折现60）\n3:巧克力（折现50）\n4:转盘两次（最大40）\n5:小礼物（折现30）\n\n安慰奖2（折现各20）\n时限5.6——5.10\n\n私信扣1参加"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "线下查无此人｜不安定｜LGBTQ全友好🌈👩‍❤️‍👩｜扩列只扩互关｜欢迎同类互fo（寻回中\n3.0 前世@rain_kawaii1\nbluesky：tongchan-2008 ←🔪🩸💊都放在这里",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 52,
+                "username": "rain_kawaii1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tong_u._.u_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tong_u._.u_",
+                "start": 0,
+                "url": "https://t.co/GZHx8f2s8R"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "location": "天国",
+        "name": "tong_u._.u_",
+        "pinned_tweet_id": "2044953614591115710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043920464872148992/gUpWTpWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 141,
+          "like_count": 930,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 352
+        },
+        "url": "https://t.co/GZHx8f2s8R",
+        "username": "rain_kawaiiii1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-04T03:12:47.000Z",
+        "description": "| 中文中國🇨🇳 | 19+｜Transformers | Negative Emotions | My Girlfriend |#shtwt｜我很有钱！嗯！来找我互fofo吧喵",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 71,
+                "start": 65,
+                "tag": "shtwt"
+              }
+            ]
+          }
+        },
+        "id": "2029031867601829888",
+        "name": "我需要更多pr（互fo",
+        "pinned_tweet_id": "2044685713304912265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051953924408807424/Hw8z5VyU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 188,
+          "like_count": 1983,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 159
+        },
+        "url": "",
+        "username": "Wu5fwc",
+        "verified": false
+      }
+    ]
+  }
+}

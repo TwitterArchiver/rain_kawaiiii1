@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045439605122727936"
+      ]
+    },
+    "author_id": "2043915964559835136",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2045439618108346475",
+    "created_at": "2026-04-18T09:49:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T10:49:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045439618108346475"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jeID9SO4tG",
+          "end": 31,
+          "expanded_url": "https://x.com/rain_kawaiiii1/status/2045439618108346475/photo/1",
+          "media_key": "3_2045439605122727936",
+          "start": 8,
+          "url": "https://t.co/jeID9SO4tG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045439618108346475",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "随手开的收了🤔 https://t.co/jeID9SO4tG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2045439605122727936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGLce9DbAAAoggj.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045439605122727936"
+          ]
+        },
+        "author_id": "2043915964559835136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2045439618108346475",
+        "created_at": "2026-04-18T09:49:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T10:49:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045439618108346475"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jeID9SO4tG",
+              "end": 31,
+              "expanded_url": "https://x.com/rain_kawaiiii1/status/2045439618108346475/photo/1",
+              "media_key": "3_2045439605122727936",
+              "start": 8,
+              "url": "https://t.co/jeID9SO4tG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045439618108346475",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "随手开的收了🤔 https://t.co/jeID9SO4tG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "description": "🔪🩸💊\n线下查无此人｜不安定｜LGBTQ全友好｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 45,
+                "username": "rain_kawaii1"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "location": "天国",
+        "name": "tong_u._.u_",
+        "pinned_tweet_id": "2044953614591115710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043920464872148992/gUpWTpWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 92,
+          "like_count": 232,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 122
+        },
+        "username": "rain_kawaiiii1",
+        "verified": false
+      }
+    ]
+  }
+}

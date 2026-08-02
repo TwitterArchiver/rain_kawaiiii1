@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043915964559835136",
+    "conversation_id": "2059156173488796148",
+    "created_at": "2026-05-26T11:23:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T12:23:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059234000942817481"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "3012350599",
+          "start": 0,
+          "username": "__Ju___Ju__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059234000942817481",
+    "in_reply_to_user_id": "3012350599",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059156173488796148",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@__Ju___Ju__ 好可爱呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2059156125212356608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJOXlgRaMAAP2Ar.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043915964559835136",
+        "conversation_id": "2059156173488796148",
+        "created_at": "2026-05-26T11:23:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T12:23:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059234000942817481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "3012350599",
+              "start": 0,
+              "username": "__Ju___Ju__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059234000942817481",
+        "in_reply_to_user_id": "3012350599",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059156173488796148",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__Ju___Ju__ 好可爱呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059156125212356608"
+          ]
+        },
+        "author_id": "3012350599",
+        "conversation_id": "2059156173488796148",
+        "created_at": "2026-05-26T06:14:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T07:14:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059156173488796148"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tBgXvZXCa9",
+              "end": 89,
+              "expanded_url": "https://x.com/__Ju___Ju__/status/2059156173488796148/photo/1",
+              "media_key": "3_2059156125212356608",
+              "start": 66,
+              "url": "https://t.co/tBgXvZXCa9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059156173488796148",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 142,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "过几天要出门两星期，收拾行李时开始纠结带哪只兔熊。\n家里有两只大兔，两只中等尺寸兔熊，还有八个小兔崽子。单独带哪个好像都不太好…… https://t.co/tBgXvZXCa9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "线下查无此人｜不安定｜LGBTQ全友好🌈👩‍❤️‍👩｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1\n👭 @setsukadare\nbluesky：tongchan-2008 ←🔪🩸💊",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "rain_kawaii1"
+              },
+              {
+                "end": 76,
+                "start": 64,
+                "username": "setsukadare"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tong_u._.u_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tong_u._.u_",
+                "start": 0,
+                "url": "https://t.co/GZHx8f2s8R"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "location": "天国",
+        "name": "tong_u._.u_",
+        "pinned_tweet_id": "2044953614591115710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043920464872148992/gUpWTpWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 147,
+          "like_count": 1051,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 406
+        },
+        "url": "https://t.co/GZHx8f2s8R",
+        "username": "rain_kawaiiii1",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-07T12:20:03.000Z",
+        "description": "为什么我不能只是一只毛绒小兔子？🐰🍊/#すこ部 推し /可以叫我桔桔/我要出去玩了！！\n💕@GiveProofToLove \n🫎@mukdengise\n🐑@jinpingslutflop",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 23,
+                "start": 19,
+                "tag": "すこ部"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 61,
+                "start": 45,
+                "username": "GiveProofToLove"
+              },
+              {
+                "end": 75,
+                "start": 64,
+                "username": "mukdengise"
+              },
+              {
+                "end": 93,
+                "start": 77,
+                "username": "jinpingslutflop"
+              }
+            ]
+          }
+        },
+        "id": "3012350599",
+        "location": "Daegu, Republic of Korea",
+        "name": "小学桔🧃",
+        "pinned_tweet_id": "1571850748140621824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029526662673752064/dKy6IwX3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4465,
+          "following_count": 496,
+          "like_count": 43545,
+          "listed_count": 16,
+          "media_count": 3294,
+          "tweet_count": 46243
+        },
+        "username": "__Ju___Ju__",
+        "verified": true
+      }
+    ]
+  }
+}

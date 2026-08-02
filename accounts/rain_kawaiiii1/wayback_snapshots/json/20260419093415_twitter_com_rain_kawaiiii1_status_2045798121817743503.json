@@ -1,0 +1,122 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043915964559835136",
+    "conversation_id": "2045798121817743503",
+    "created_at": "2026-04-19T09:34:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T10:34:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045798121817743503"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2045798121817743503",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你们说跟你们一点关系都没有 那我想问  说我人品败坏 乐子 情商低又说我贱的是谁 这就是你们所谓的好意 出了事比谁跑得都快又委屈上了问我为什么单删 你的脸呢我要吐了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043915964559835136",
+        "conversation_id": "2045798121817743503",
+        "created_at": "2026-04-19T09:34:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T10:34:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045798121817743503"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045798121817743503",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们说跟你们一点关系都没有 那我想问  说我人品败坏 乐子 情商低又说我贱的是谁 这就是你们所谓的好意 出了事比谁跑得都快又委屈上了问我为什么单删 你的脸呢我要吐了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "🔪🩸💊\n线下查无此人｜不安定｜LGBTQ全友好｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 45,
+                "username": "rain_kawaii1"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "location": "天国",
+        "name": "tong_u._.u_",
+        "pinned_tweet_id": "2044953614591115710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043920464872148992/gUpWTpWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 94,
+          "like_count": 326,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 150
+        },
+        "username": "rain_kawaiiii1",
+        "verified": false
+      }
+    ]
+  }
+}

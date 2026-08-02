@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043915964559835136",
+    "conversation_id": "2047508443339395403",
+    "created_at": "2026-04-24T02:50:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T03:50:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047508443339395403"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1505767450385690625",
+          "start": 3,
+          "username": "Alistai33955292"
+        },
+        {
+          "end": 43,
+          "id": "2046995754498084864",
+          "start": 33,
+          "username": "Lizi__QwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047508443339395403",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047471959295037836",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Alistai33955292: 暂避风头锁推，只在二号机@Lizi__QWQ上活动，看到的宝宝麻烦帮我转一下呀谢谢你们🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043915964559835136",
+        "conversation_id": "2047508443339395403",
+        "created_at": "2026-04-24T02:50:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T03:50:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047508443339395403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1505767450385690625",
+              "start": 3,
+              "username": "Alistai33955292"
+            },
+            {
+              "end": 43,
+              "id": "2046995754498084864",
+              "start": 33,
+              "username": "Lizi__QwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047508443339395403",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047471959295037836",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Alistai33955292: 暂避风头锁推，只在二号机@Lizi__QWQ上活动，看到的宝宝麻烦帮我转一下呀谢谢你们🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1505767450385690625",
+        "conversation_id": "2047471959295037836",
+        "created_at": "2026-04-24T00:25:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T01:25:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047471959295037836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 22,
+              "id": "2046995754498084864",
+              "start": 12,
+              "username": "Lizi__QWQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047471959295037836",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "暂避风头锁推，只在二号机@Lizi__QWQ上活动，看到的宝宝麻烦帮我转一下呀谢谢你们🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "🔪🩸💊\n线下查无此人｜不安定｜LGBTQ全友好｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 45,
+                "username": "rain_kawaii1"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "location": "天国",
+        "name": "tong_u._.u_",
+        "pinned_tweet_id": "2044953614591115710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043920464872148992/gUpWTpWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 113,
+          "like_count": 571,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 244
+        },
+        "username": "rain_kawaiiii1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-21T04:45:18.000Z",
+        "description": "06丨重焦重抑丨餐券(暂时戒割中)丨同性有浪漫倾向无性恋丨全性别友好丨社交极度恐惧……欢迎互fo！丨🚪52纯绿陪聊可加lxfs丨希望爱我的我爱的人永远幸福",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nnbn17594",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nnbn17594",
+                "start": 0,
+                "url": "https://t.co/Xu9CGM7srL"
+              }
+            ]
+          }
+        },
+        "id": "1505767450385690625",
+        "location": "天国",
+        "name": "🌰",
+        "pinned_tweet_id": "2040861103748731388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045141613958340608/DmfkJuqE_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 564,
+          "like_count": 2311,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 2668
+        },
+        "url": "https://t.co/Xu9CGM7srL",
+        "username": "Alistai33955292",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-22T16:53:34.000Z",
+        "description": "od丨餐券丨海量帖子以及黑泥负能注意❗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nnbn17594",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nnbn17594",
+                "start": 0,
+                "url": "https://t.co/MyMz3qs4ez"
+              }
+            ]
+          }
+        },
+        "id": "2046995754498084864",
+        "location": "天國",
+        "name": "🌰 2.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047202603084492800/bxzKb87G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 22,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 16
+        },
+        "url": "https://t.co/MyMz3qs4ez",
+        "username": "Lizi__QwQ",
+        "verified": false
+      }
+    ]
+  }
+}

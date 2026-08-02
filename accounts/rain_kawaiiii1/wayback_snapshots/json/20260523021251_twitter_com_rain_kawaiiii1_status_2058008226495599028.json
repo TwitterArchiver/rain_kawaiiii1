@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043915964559835136",
+    "conversation_id": "2058008226495599028",
+    "created_at": "2026-05-23T02:12:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T03:12:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058008226495599028"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1557839863151337473",
+          "start": 3,
+          "username": "scutigera_kuma"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058008226495599028",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057753019056615913",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @scutigera_kuma: 某些oder吃完药之后的顿悟belike：我发现喝完水会尿尿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043915964559835136",
+        "conversation_id": "2058008226495599028",
+        "created_at": "2026-05-23T02:12:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T03:12:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058008226495599028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1557839863151337473",
+              "start": 3,
+              "username": "scutigera_kuma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058008226495599028",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057753019056615913",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @scutigera_kuma: 某些oder吃完药之后的顿悟belike：我发现喝完水会尿尿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557839863151337473",
+        "conversation_id": "2057753019056615913",
+        "created_at": "2026-05-22T09:18:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T10:18:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057753019056615913"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057753019056615913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 7947,
+          "like_count": 184,
+          "quote_count": 2,
+          "reply_count": 11,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "某些oder吃完药之后的顿悟belike：我发现喝完水会尿尿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "description": "线下查无此人｜不安定｜LGBTQ全友好🌈👩‍❤️‍👩｜扩列只扩互关｜欢迎同类互fo（寻回中\n3.0 前世@rain_kawaii1\nbluesky：tongchan-2008 ←🔪🩸💊都放在这里",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 52,
+                "username": "rain_kawaii1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tong_u._.u_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tong_u._.u_",
+                "start": 0,
+                "url": "https://t.co/GZHx8f2s8R"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "location": "天国",
+        "name": "tong_u._.u_",
+        "pinned_tweet_id": "2044953614591115710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043920464872148992/gUpWTpWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 147,
+          "like_count": 1040,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 400
+        },
+        "url": "https://t.co/GZHx8f2s8R",
+        "username": "rain_kawaiiii1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/中文/日本语/お幸せに/网络喷子被骂你活该但是我对正常人很正常/@mentallychels重度依赖ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 39,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "九真_クマ",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022283211133599744/IMwyHZy0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5010,
+          "following_count": 3311,
+          "like_count": 34315,
+          "listed_count": 6,
+          "media_count": 470,
+          "tweet_count": 9145
+        },
+        "username": "scutigera_kuma",
+        "verified": false
+      }
+    ]
+  }
+}

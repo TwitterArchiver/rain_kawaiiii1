@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043915964559835136",
+    "conversation_id": "2056036632017653793",
+    "created_at": "2026-05-18T00:29:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T01:29:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056170203764129916"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "3012350599",
+          "start": 0,
+          "username": "__Ju___Ju__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056170203764129916",
+    "in_reply_to_user_id": "3012350599",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056036632017653793",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@__Ju___Ju__ 🤤🤤🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2056036574006272000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIiCXuba4AADZ-V.jpg",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "media_key": "3_2056036573758791680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIiCXtgaoAAWWXa.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043915964559835136",
+        "conversation_id": "2056036632017653793",
+        "created_at": "2026-05-18T00:29:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T01:29:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056170203764129916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "3012350599",
+              "start": 0,
+              "username": "__Ju___Ju__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056170203764129916",
+        "in_reply_to_user_id": "3012350599",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056036632017653793",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@__Ju___Ju__ 🤤🤤🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056036574006272000",
+            "3_2056036573758791680"
+          ]
+        },
+        "author_id": "3012350599",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2056036632017653793",
+        "created_at": "2026-05-17T15:38:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T16:38:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056036632017653793"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lbG0cdy7AC",
+              "end": 39,
+              "expanded_url": "https://x.com/__Ju___Ju__/status/2056036632017653793/photo/1",
+              "media_key": "3_2056036574006272000",
+              "start": 16,
+              "url": "https://t.co/lbG0cdy7AC"
+            },
+            {
+              "display_url": "pic.x.com/lbG0cdy7AC",
+              "end": 39,
+              "expanded_url": "https://x.com/__Ju___Ju__/status/2056036632017653793/photo/1",
+              "media_key": "3_2056036573758791680",
+              "start": 16,
+              "url": "https://t.co/lbG0cdy7AC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056036632017653793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 211,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "家人买了很多雪糕( ̀⌄ ́) https://t.co/lbG0cdy7AC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "线下查无此人｜不安定｜LGBTQ全友好🌈👩‍❤️‍👩｜扩列只扩互关｜欢迎同类互fo（寻回中\n3.0 前世@rain_kawaii1\nbluesky：tongchan-2008 ←🔪🩸💊都放在这里",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 52,
+                "username": "rain_kawaii1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tong_u._.u_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tong_u._.u_",
+                "start": 0,
+                "url": "https://t.co/GZHx8f2s8R"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "location": "天国",
+        "name": "tong_u._.u_",
+        "pinned_tweet_id": "2044953614591115710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043920464872148992/gUpWTpWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 147,
+          "like_count": 1034,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 388
+        },
+        "url": "https://t.co/GZHx8f2s8R",
+        "username": "rain_kawaiiii1",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-07T12:20:03.000Z",
+        "description": "毛绒娃娃回家计划🐰🍊/#すこ部 推し /💕@GiveProofToLove 🫎@mukdengise🐑@jinpingslutflop 可以叫我桔桔/我要出去玩了！！",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 15,
+                "start": 11,
+                "tag": "すこ部"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 37,
+                "start": 21,
+                "username": "GiveProofToLove"
+              },
+              {
+                "end": 50,
+                "start": 39,
+                "username": "mukdengise"
+              },
+              {
+                "end": 67,
+                "start": 51,
+                "username": "jinpingslutflop"
+              }
+            ]
+          }
+        },
+        "id": "3012350599",
+        "location": "Daegu, Republic of Korea",
+        "name": "小学桔🧃",
+        "pinned_tweet_id": "1571850748140621824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029526662673752064/dKy6IwX3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4460,
+          "following_count": 492,
+          "like_count": 43341,
+          "listed_count": 17,
+          "media_count": 3274,
+          "tweet_count": 45943
+        },
+        "username": "__Ju___Ju__",
+        "verified": true
+      }
+    ]
+  }
+}

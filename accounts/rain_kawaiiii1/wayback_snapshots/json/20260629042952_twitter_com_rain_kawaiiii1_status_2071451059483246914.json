@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043915964559835136",
+    "conversation_id": "2071240918741479588",
+    "created_at": "2026-06-29T04:29:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T05:29:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071451059483246914"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1738415420523048960",
+          "start": 0,
+          "username": "DarnelFriman"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071451059483246914",
+    "in_reply_to_user_id": "1738415420523048960",
+    "lang": "it",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071240918741479588",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DarnelFriman fumofumo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1944,
+        "media_key": "3_2071240799035990016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL6GiGbWIAAA-6o.jpg",
+        "width": 2592
+      },
+      {
+        "height": 1944,
+        "media_key": "3_2071240894439620608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL6Gnp1WAAAb1B9.jpg",
+        "width": 2592
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043915964559835136",
+        "conversation_id": "2071240918741479588",
+        "created_at": "2026-06-29T04:29:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T05:29:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071451059483246914"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1738415420523048960",
+              "start": 0,
+              "username": "DarnelFriman"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071451059483246914",
+        "in_reply_to_user_id": "1738415420523048960",
+        "lang": "it",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071240918741479588",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DarnelFriman fumofumo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071240799035990016",
+            "3_2071240894439620608"
+          ]
+        },
+        "author_id": "1738415420523048960",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "2071240918741479588",
+        "created_at": "2026-06-28T14:34:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T15:34:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071240918741479588"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "fumo"
+            },
+            {
+              "end": 13,
+              "start": 6,
+              "tag": "parsee"
+            },
+            {
+              "end": 21,
+              "start": 14,
+              "tag": "水橋パルスィ"
+            },
+            {
+              "end": 32,
+              "start": 22,
+              "tag": "東方Project"
+            },
+            {
+              "end": 49,
+              "start": 33,
+              "tag": "ParseeMizuhashi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wRcd2atjZd",
+              "end": 85,
+              "expanded_url": "https://x.com/DarnelFriman/status/2071240918741479588/photo/1",
+              "media_key": "3_2071240799035990016",
+              "start": 62,
+              "url": "https://t.co/wRcd2atjZd"
+            },
+            {
+              "display_url": "pic.x.com/wRcd2atjZd",
+              "end": 85,
+              "expanded_url": "https://x.com/DarnelFriman/status/2071240918741479588/photo/1",
+              "media_key": "3_2071240894439620608",
+              "start": 62,
+              "url": "https://t.co/wRcd2atjZd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071240918741479588",
+        "lang": "ru",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 179,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "#fumo #parsee #水橋パルスィ #東方Project #ParseeMizuhashi\n\nя вернулся https://t.co/wRcd2atjZd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "线下查无此人｜不安定｜LGBTQ全友好🌈👩‍❤️‍👩｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1\nbluesky：tongchan-2008 ←🔪🩸💊",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "rain_kawaii1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tong_u._.u_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tong_u._.u_",
+                "start": 0,
+                "url": "https://t.co/GZHx8f2s8R"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "location": "天国",
+        "name": "tong_u._.u_",
+        "pinned_tweet_id": "2044953614591115710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043920464872148992/gUpWTpWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 129,
+          "like_count": 1196,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 509
+        },
+        "url": "https://t.co/GZHx8f2s8R",
+        "username": "rain_kawaiiii1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-23T04:25:22.000Z",
+        "description": "Fumoposter from Russia",
+        "id": "1738415420523048960",
+        "location": "Ryazan",
+        "name": "ParuParu.ru",
+        "pinned_tweet_id": "2062602678107295797",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063363972175462401/vpcRtF8J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 86,
+          "like_count": 2435,
+          "listed_count": 1,
+          "media_count": 186,
+          "tweet_count": 1292
+        },
+        "url": "",
+        "username": "DarnelFriman",
+        "verified": false
+      }
+    ]
+  }
+}

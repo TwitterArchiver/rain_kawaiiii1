@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070899547690389504"
+      ],
+      "media_source_tweet_id": [
+        "2070899549879886072"
+      ]
+    },
+    "author_id": "2043915964559835136",
+    "conversation_id": "2070925899076337897",
+    "created_at": "2026-06-27T17:43:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T18:43:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070925899076337897"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1313122922886643714",
+          "start": 3,
+          "username": "x_angelkawaii_x"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1HAEdbNcCg",
+          "end": 44,
+          "expanded_url": "https://x.com/x_angelkawaii_x/status/2070899549879886072/photo/1",
+          "media_key": "3_2070899547690389504",
+          "start": 21,
+          "url": "https://t.co/1HAEdbNcCg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070925899076337897",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 730
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070899549879886072",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @x_angelkawaii_x: https://t.co/1HAEdbNcCg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1140,
+        "media_key": "3_2070899547690389504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL1QKqGaUAA9kCg.png",
+        "width": 1924
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070899547690389504"
+          ],
+          "media_source_tweet_id": [
+            "2070899549879886072"
+          ]
+        },
+        "author_id": "2043915964559835136",
+        "conversation_id": "2070925899076337897",
+        "created_at": "2026-06-27T17:43:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T18:43:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070925899076337897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1313122922886643714",
+              "start": 3,
+              "username": "x_angelkawaii_x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1HAEdbNcCg",
+              "end": 44,
+              "expanded_url": "https://x.com/x_angelkawaii_x/status/2070899549879886072/photo/1",
+              "media_key": "3_2070899547690389504",
+              "start": 21,
+              "url": "https://t.co/1HAEdbNcCg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070925899076337897",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 730
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070899549879886072",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @x_angelkawaii_x: https://t.co/1HAEdbNcCg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070899547690389504"
+          ]
+        },
+        "author_id": "1313122922886643714",
+        "conversation_id": "2070899549879886072",
+        "created_at": "2026-06-27T15:58:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T16:58:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070899549879886072"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1HAEdbNcCg",
+              "end": 23,
+              "expanded_url": "https://x.com/x_angelkawaii_x/status/2070899549879886072/photo/1",
+              "media_key": "3_2070899547690389504",
+              "start": 0,
+              "url": "https://t.co/1HAEdbNcCg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070899549879886072",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 232,
+          "impression_count": 64133,
+          "like_count": 3330,
+          "quote_count": 41,
+          "reply_count": 21,
+          "retweet_count": 730
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/1HAEdbNcCg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "description": "线下查无此人｜不安定｜LGBTQ全友好🌈👩‍❤️‍👩｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1\nbluesky：tongchan-2008 ←🔪🩸💊",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "rain_kawaii1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tong_u._.u_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tong_u._.u_",
+                "start": 0,
+                "url": "https://t.co/GZHx8f2s8R"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "location": "天国",
+        "name": "tong_u._.u_",
+        "pinned_tweet_id": "2044953614591115710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043920464872148992/gUpWTpWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 129,
+          "like_count": 1192,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 508
+        },
+        "url": "https://t.co/GZHx8f2s8R",
+        "username": "rain_kawaiiii1",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-05T14:24:53.000Z",
+        "description": "ほんとうは幸せを知っているのに 不幸なフリ辞められないね 26年4月アニメ『NEEDY GIRL OVERDOSE』放送 https://t.co/KhVI5ZulVh",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "needygirl-anime.com",
+                "end": 84,
+                "expanded_url": "https://needygirl-anime.com",
+                "start": 61,
+                "url": "https://t.co/KhVI5ZulVh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "whysoserious.jp/needy/",
+                "end": 23,
+                "expanded_url": "https://whysoserious.jp/needy/",
+                "start": 0,
+                "url": "https://t.co/8bCc8wtt5c"
+              }
+            ]
+          }
+        },
+        "id": "1313122922886643714",
+        "location": "キミのぱそこん",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009461989219897344/sUb2gJ2x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 537355,
+          "following_count": 1,
+          "like_count": 1,
+          "listed_count": 1167,
+          "media_count": 789,
+          "tweet_count": 1897
+        },
+        "url": "https://t.co/8bCc8wtt5c",
+        "username": "x_angelkawaii_x",
+        "verified": true
+      }
+    ]
+  }
+}

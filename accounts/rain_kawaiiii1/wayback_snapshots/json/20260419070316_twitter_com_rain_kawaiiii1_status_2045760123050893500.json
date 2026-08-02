@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044376014630088704"
+      ],
+      "media_source_tweet_id": [
+        "2044376056078258341"
+      ]
+    },
+    "author_id": "2043915964559835136",
+    "conversation_id": "2045760123050893500",
+    "created_at": "2026-04-19T07:03:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T08:03:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045760123050893500"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1893580687200157696",
+          "start": 3,
+          "username": "kittsayes"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/W6OJdxUBs2",
+          "end": 49,
+          "expanded_url": "https://x.com/kittsayes/status/2044376056078258341/photo/1",
+          "media_key": "3_2044376014630088704",
+          "start": 26,
+          "url": "https://t.co/W6OJdxUBs2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045760123050893500",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044376056078258341",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kittsayes: 我上传了一则新自介。 https://t.co/W6OJdxUBs2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2044376014630088704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF8VJ1ta8AAZSBk.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044376014630088704"
+          ],
+          "media_source_tweet_id": [
+            "2044376056078258341"
+          ]
+        },
+        "author_id": "2043915964559835136",
+        "conversation_id": "2045760123050893500",
+        "created_at": "2026-04-19T07:03:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T08:03:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045760123050893500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1893580687200157696",
+              "start": 3,
+              "username": "kittsayes"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/W6OJdxUBs2",
+              "end": 49,
+              "expanded_url": "https://x.com/kittsayes/status/2044376056078258341/photo/1",
+              "media_key": "3_2044376014630088704",
+              "start": 26,
+              "url": "https://t.co/W6OJdxUBs2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045760123050893500",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044376056078258341",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kittsayes: 我上传了一则新自介。 https://t.co/W6OJdxUBs2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044376014630088704"
+          ]
+        },
+        "author_id": "1893580687200157696",
+        "conversation_id": "2044376056078258341",
+        "created_at": "2026-04-15T11:23:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T12:23:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044376056078258341"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W6OJdxUBs2",
+              "end": 34,
+              "expanded_url": "https://x.com/kittsayes/status/2044376056078258341/photo/1",
+              "media_key": "3_2044376014630088704",
+              "start": 11,
+              "url": "https://t.co/W6OJdxUBs2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044376056078258341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3348,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "我上传了一则新自介。 https://t.co/W6OJdxUBs2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "🔪🩸💊\n线下查无此人｜不安定｜LGBTQ全友好｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 45,
+                "username": "rain_kawaii1"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "location": "天国",
+        "name": "tong_u._.u_",
+        "pinned_tweet_id": "2044953614591115710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043920464872148992/gUpWTpWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 91,
+          "like_count": 293,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 139
+        },
+        "username": "rain_kawaiiii1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-23T08:36:54.000Z",
+        "description": "cn杨诺/可颂\n｜10年高一｜双相｜目前已休学｜\n｜03.11｜双鱼｜infp｜od｜自残｜碎碎念｜\n喜欢跟同类互fo 萌妹纸和萌弟子也可以来呀（查成分回 ）\n二次深空沈星回高浓度激推梦女 纸性恋已有老公\n加联系过🚪过🚪过🚪我很缺钱我妈不给钱\n所以我还是希望能有点钱。谢谢你们❗️\n欢迎提问👇🏻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/croissant56414",
+                "end": 23,
+                "expanded_url": "https://ngl.link/croissant56414",
+                "start": 0,
+                "url": "https://t.co/3pRf1TkeZk"
+              }
+            ]
+          }
+        },
+        "id": "1893580687200157696",
+        "location": "🚪52纯绿  获得一个碎碎念的我",
+        "name": "Croissant",
+        "pinned_tweet_id": "2044376056078258341",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044355523835985920/3SvZJ1av_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 941,
+          "following_count": 712,
+          "like_count": 4337,
+          "listed_count": 0,
+          "media_count": 212,
+          "tweet_count": 2021
+        },
+        "url": "https://t.co/3pRf1TkeZk",
+        "username": "kittsayes",
+        "verified": false
+      }
+    ]
+  }
+}

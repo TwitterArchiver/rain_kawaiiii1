@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048779866288566272"
+      ],
+      "media_source_tweet_id": [
+        "2048779883485216933"
+      ]
+    },
+    "author_id": "2043915964559835136",
+    "conversation_id": "2048795546211790913",
+    "created_at": "2026-04-27T16:04:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T17:04:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048795546211790913"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2027464565290909696",
+          "start": 3,
+          "username": "setsukadare"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/F5ZdN11CXw",
+          "end": 40,
+          "expanded_url": "https://x.com/setsukadare/status/2048779883485216933/photo/1",
+          "media_key": "3_2048779866288566272",
+          "start": 17,
+          "url": "https://t.co/F5ZdN11CXw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048795546211790913",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048779883485216933",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @setsukadare: https://t.co/F5ZdN11CXw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2048779866288566272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG66bvkaMAAOBZU.jpg",
+        "width": 1474
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048779866288566272"
+          ],
+          "media_source_tweet_id": [
+            "2048779883485216933"
+          ]
+        },
+        "author_id": "2043915964559835136",
+        "conversation_id": "2048795546211790913",
+        "created_at": "2026-04-27T16:04:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T17:04:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048795546211790913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2027464565290909696",
+              "start": 3,
+              "username": "setsukadare"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/F5ZdN11CXw",
+              "end": 40,
+              "expanded_url": "https://x.com/setsukadare/status/2048779883485216933/photo/1",
+              "media_key": "3_2048779866288566272",
+              "start": 17,
+              "url": "https://t.co/F5ZdN11CXw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048795546211790913",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048779883485216933",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @setsukadare: https://t.co/F5ZdN11CXw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048779866288566272"
+          ]
+        },
+        "author_id": "2027464565290909696",
+        "conversation_id": "2048779883485216933",
+        "created_at": "2026-04-27T15:02:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T16:02:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048779883485216933"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F5ZdN11CXw",
+              "end": 23,
+              "expanded_url": "https://x.com/setsukadare/status/2048779883485216933/photo/1",
+              "media_key": "3_2048779866288566272",
+              "start": 0,
+              "url": "https://t.co/F5ZdN11CXw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048779883485216933",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/F5ZdN11CXw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "description": "线下查无此人｜不安定｜LGBTQ全友好｜扩列只扩互关｜欢迎同类互fo（寻回中\n3.0 前世@rain_kawaii1\nbluesky：tongchan-2008 ←🔪🩸💊都放在这里",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 45,
+                "username": "rain_kawaii1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tong_u._.u_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tong_u._.u_",
+                "start": 0,
+                "url": "https://t.co/GZHx8f2s8R"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "location": "天国",
+        "name": "tong_u._.u_",
+        "pinned_tweet_id": "2044953614591115710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043920464872148992/gUpWTpWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 126,
+          "like_count": 713,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 305
+        },
+        "url": "https://t.co/GZHx8f2s8R",
+        "username": "rain_kawaiiii1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-27T19:24:36.000Z",
+        "description": "碎碎念",
+        "id": "2027464565290909696",
+        "location": "美好的世界",
+        "name": "setsuka",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048795075996745728/v6rI_dVC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 66,
+          "like_count": 184,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 54
+        },
+        "username": "setsukadare",
+        "verified": false
+      }
+    ]
+  }
+}

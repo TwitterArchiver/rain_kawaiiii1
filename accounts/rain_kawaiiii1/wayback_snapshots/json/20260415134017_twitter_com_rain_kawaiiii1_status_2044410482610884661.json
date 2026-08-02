@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043915964559835136",
+    "conversation_id": "2044377571253793047",
+    "created_at": "2026-04-15T13:40:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T14:40:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044410482610884661"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2032033299980566528",
+          "start": 0,
+          "username": "rinii165892"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044410482610884661",
+    "in_reply_to_user_id": "2032033299980566528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044377571253793047",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rinii165892 这么厉害！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043915964559835136",
+        "conversation_id": "2044377571253793047",
+        "created_at": "2026-04-15T13:40:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T14:40:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044410482610884661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2032033299980566528",
+              "start": 0,
+              "username": "rinii165892"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044410482610884661",
+        "in_reply_to_user_id": "2032033299980566528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044377571253793047",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rinii165892 这么厉害！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032033299980566528",
+        "conversation_id": "2044377571253793047",
+        "created_at": "2026-04-15T11:29:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T12:29:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044377571253793047"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044377571253793047",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2490,
+          "like_count": 58,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "两万块奖学金为什么是减免学费而不是折现给我？我哭了呃。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "3.0 我无语了\n前世@rain_kawaii1\n扩餐券地雷🔪🩸💊\n不安定｜LGBT全友好｜扩列只扩互关｜欢迎同类互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "rain_kawaii1"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "location": "天国",
+        "name": "tong_u._.u_（3.0别封我了",
+        "pinned_tweet_id": "2044052979767226710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043920464872148992/gUpWTpWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 55,
+          "like_count": 61,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 52
+        },
+        "username": "rain_kawaiiii1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-12T09:58:00.000Z",
+        "description": "已完成今日大学习【寻回推u】🔪\n- ✰*🎀 ੈ✩🍥✰*💗 ੈ✩- \n生活在互联网！看成分互fo喵!/我是低龄糖逼大傻福，实在抱歉！\n超级严重失眠 -12现役初中生\n^✟❀信徒@Fislonely_❀灵宠@dbdbsjbsja❀小号@hg3551019177402✿永远纪念@wu_si787878❀✟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 87,
+                "username": "Fislonely_"
+              },
+              {
+                "end": 112,
+                "start": 101,
+                "username": "dbdbsjbsja"
+              },
+              {
+                "end": 131,
+                "start": 115,
+                "username": "hg3551019177402"
+              },
+              {
+                "end": 148,
+                "start": 136,
+                "username": "wu_si787878"
+              }
+            ]
+          }
+        },
+        "id": "2032033299980566528",
+        "location": "你看看你身后",
+        "name": "霖（完全病娇邪恶中2.0）",
+        "pinned_tweet_id": "2038261710612729866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040872269401276416/xul0eQRI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1178,
+          "following_count": 741,
+          "like_count": 5516,
+          "listed_count": 4,
+          "media_count": 116,
+          "tweet_count": 2973
+        },
+        "username": "rinii165892",
+        "verified": false
+      }
+    ]
+  }
+}

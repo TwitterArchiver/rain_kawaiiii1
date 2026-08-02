@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043915964559835136",
+    "conversation_id": "2070215517487731107",
+    "created_at": "2026-06-26T09:15:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T10:15:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070435802723852531"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1638959586140098560",
+          "start": 0,
+          "username": "fanwei_17"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070435802723852531",
+    "in_reply_to_user_id": "1638959586140098560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070215517487731107",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fanwei_17 庆祝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043915964559835136",
+        "conversation_id": "2070215517487731107",
+        "created_at": "2026-06-26T09:15:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T10:15:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070435802723852531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1638959586140098560",
+              "start": 0,
+              "username": "fanwei_17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070435802723852531",
+        "in_reply_to_user_id": "1638959586140098560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070215517487731107",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fanwei_17 庆祝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1638959586140098560",
+        "conversation_id": "2070215517487731107",
+        "created_at": "2026-06-25T18:40:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T19:40:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070215517487731107"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070215517487731107",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 857,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "陪50mg庆祝一下这个特殊的日子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "线下查无此人｜不安定｜LGBTQ全友好🌈👩‍❤️‍👩｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1\nbluesky：tongchan-2008 ←🔪🩸💊",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "rain_kawaii1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tong_u._.u_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tong_u._.u_",
+                "start": 0,
+                "url": "https://t.co/GZHx8f2s8R"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "location": "天国",
+        "name": "tong_u._.u_",
+        "pinned_tweet_id": "2044953614591115710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043920464872148992/gUpWTpWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 144,
+          "like_count": 1189,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 493
+        },
+        "url": "https://t.co/GZHx8f2s8R",
+        "username": "rain_kawaiiii1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-23T17:43:19.000Z",
+        "description": "无性别enby/药理help/互动互fo/偏爱:@Numiouoo/友跨友同友全部",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 24,
+                "username": "Numiouoo"
+              }
+            ]
+          }
+        },
+        "id": "1638959586140098560",
+        "location": "Thrillingly pointless",
+        "name": "反胃的Sisyphus",
+        "pinned_tweet_id": "2051091519847698605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043493826246082560/syYxrkxW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2457,
+          "following_count": 1556,
+          "like_count": 5652,
+          "listed_count": 3,
+          "media_count": 47,
+          "tweet_count": 2536
+        },
+        "url": "",
+        "username": "fanwei_17",
+        "verified": false
+      }
+    ]
+  }
+}

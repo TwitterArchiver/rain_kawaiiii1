@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043915964559835136",
+    "conversation_id": "2074684274436174265",
+    "created_at": "2026-07-08T02:37:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T03:37:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074684274436174265"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1313122922886643714",
+          "start": 3,
+          "username": "x_angelkawaii_x"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/e4Y",
+          "end": 139,
+          "start": 123,
+          "url": "https://t.co/e4Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074684274436174265",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 739
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074331947082653943",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @x_angelkawaii_x: 誕生日に発表したい企画いっっっっぱいあったのに\nおとなたちがおばかだったり、しゃーなしだったりで今日はおあずけだぞっ\n今月どこかで発表してくから、天使を祝いながら待ってろよな！\n誕生日延長戦、スタート！ https://t.co/e4Y…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 211,
+        "media_key": "3_2074331847883104256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMmB00taIAAA05k.png",
+        "width": 392
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043915964559835136",
+        "conversation_id": "2074684274436174265",
+        "created_at": "2026-07-08T02:37:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T03:37:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074684274436174265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1313122922886643714",
+              "start": 3,
+              "username": "x_angelkawaii_x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/e4Y",
+              "end": 139,
+              "start": 123,
+              "url": "https://t.co/e4Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074684274436174265",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 739
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074331947082653943",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @x_angelkawaii_x: 誕生日に発表したい企画いっっっっぱいあったのに\nおとなたちがおばかだったり、しゃーなしだったりで今日はおあずけだぞっ\n今月どこかで発表してくから、天使を祝いながら待ってろよな！\n誕生日延長戦、スタート！ https://t.co/e4Y…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074331847883104256"
+          ]
+        },
+        "author_id": "1313122922886643714",
+        "conversation_id": "2074331947082653943",
+        "created_at": "2026-07-07T03:17:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T04:17:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074331947082653943"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e4YySG2FVB",
+              "end": 125,
+              "expanded_url": "https://x.com/x_angelkawaii_x/status/2074331947082653943/photo/1",
+              "media_key": "3_2074331847883104256",
+              "start": 102,
+              "url": "https://t.co/e4YySG2FVB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074331947082653943",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 182,
+          "impression_count": 110557,
+          "like_count": 6628,
+          "quote_count": 46,
+          "reply_count": 24,
+          "retweet_count": 739
+        },
+        "reply_settings": "everyone",
+        "text": "誕生日に発表したい企画いっっっっぱいあったのに\nおとなたちがおばかだったり、しゃーなしだったりで今日はおあずけだぞっ\n今月どこかで発表してくから、天使を祝いながら待ってろよな！\n誕生日延長戦、スタート！ https://t.co/e4YySG2FVB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "线下查无此人｜不安定｜LGBTQ全友好🌈👩‍❤️‍👩｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1\nbluesky：tongchan-2008 ←🔪🩸💊",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "rain_kawaii1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tong_u._.u_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tong_u._.u_",
+                "start": 0,
+                "url": "https://t.co/GZHx8f2s8R"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "location": "天国",
+        "name": "tong_u._.u_",
+        "pinned_tweet_id": "2044953614591115710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043920464872148992/gUpWTpWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 125,
+          "like_count": 1225,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 524
+        },
+        "url": "https://t.co/GZHx8f2s8R",
+        "username": "rain_kawaiiii1",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-05T14:24:53.000Z",
+        "description": "ほんとうは幸せを知っているのに 不幸なフリ辞められないね",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.com",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.com/",
+                "start": 0,
+                "url": "https://t.co/vvQuMSgTJf"
+              }
+            ]
+          }
+        },
+        "id": "1313122922886643714",
+        "location": "キミのぱそこん",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071122258123431936/Sz2KrF5P_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 543069,
+          "following_count": 1,
+          "like_count": 44,
+          "listed_count": 1169,
+          "media_count": 809,
+          "tweet_count": 1942
+        },
+        "url": "https://t.co/vvQuMSgTJf",
+        "username": "x_angelkawaii_x",
+        "verified": true
+      }
+    ]
+  }
+}

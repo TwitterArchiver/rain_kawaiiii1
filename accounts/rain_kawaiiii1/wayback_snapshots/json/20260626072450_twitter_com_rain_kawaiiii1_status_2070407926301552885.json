@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043915964559835136",
+    "conversation_id": "2070348360062824521",
+    "created_at": "2026-06-26T07:24:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T08:24:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070407926301552885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1738415420523048960",
+          "start": 0,
+          "username": "DarnelFriman"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070407926301552885",
+    "in_reply_to_user_id": "1738415420523048960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070361405853962396",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DarnelFriman 谢谢！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043915964559835136",
+        "conversation_id": "2070348360062824521",
+        "created_at": "2026-06-26T07:24:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T08:24:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070407926301552885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1738415420523048960",
+              "start": 0,
+              "username": "DarnelFriman"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070407926301552885",
+        "in_reply_to_user_id": "1738415420523048960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070361405853962396",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DarnelFriman 谢谢！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738415420523048960",
+        "conversation_id": "2070348360062824521",
+        "created_at": "2026-06-26T04:19:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T05:19:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070361405853962396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2043915964559835136",
+              "start": 0,
+              "username": "rain_kawaiiii1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070361405853962396",
+        "in_reply_to_user_id": "2043915964559835136",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070348360062824521",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rain_kawaiiii1 VERY BEAUTIFUL AND CUTE!!! ❤️❤️❤️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "线下查无此人｜不安定｜LGBTQ全友好🌈👩‍❤️‍👩｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1\nbluesky：tongchan-2008 ←🔪🩸💊",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "rain_kawaii1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tong_u._.u_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tong_u._.u_",
+                "start": 0,
+                "url": "https://t.co/GZHx8f2s8R"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "location": "天国",
+        "name": "tong_u._.u_",
+        "pinned_tweet_id": "2044953614591115710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043920464872148992/gUpWTpWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 144,
+          "like_count": 1182,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 489
+        },
+        "url": "https://t.co/GZHx8f2s8R",
+        "username": "rain_kawaiiii1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-23T04:25:22.000Z",
+        "description": "Fumoposter from Russia",
+        "id": "1738415420523048960",
+        "location": "Ryazan",
+        "name": "ParuParu.ru",
+        "pinned_tweet_id": "2062602678107295797",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063363972175462401/vpcRtF8J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 84,
+          "like_count": 2306,
+          "listed_count": 1,
+          "media_count": 175,
+          "tweet_count": 1219
+        },
+        "url": "",
+        "username": "DarnelFriman",
+        "verified": false
+      }
+    ]
+  }
+}

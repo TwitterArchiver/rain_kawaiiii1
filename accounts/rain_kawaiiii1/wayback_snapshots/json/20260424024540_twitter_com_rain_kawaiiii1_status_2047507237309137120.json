@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043915964559835136",
+    "conversation_id": "2046866488423063588",
+    "created_at": "2026-04-24T02:45:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T03:45:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047507237309137120"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2031715041196875776",
+          "start": 0,
+          "username": "YiJin_0v0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047507237309137120",
+    "in_reply_to_user_id": "2031715041196875776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046866488423063588",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YiJin_0v0 哇主播女孩怎么这么坏啊😭"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2046866488423063588].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2046866488423063588",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2046866488423063588"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043915964559835136",
+        "conversation_id": "2046866488423063588",
+        "created_at": "2026-04-24T02:45:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T03:45:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047507237309137120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2031715041196875776",
+              "start": 0,
+              "username": "YiJin_0v0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047507237309137120",
+        "in_reply_to_user_id": "2031715041196875776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046866488423063588",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YiJin_0v0 哇主播女孩怎么这么坏啊😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "🔪🩸💊\n线下查无此人｜不安定｜LGBTQ全友好｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 45,
+                "username": "rain_kawaii1"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "location": "天国",
+        "name": "tong_u._.u_",
+        "pinned_tweet_id": "2044953614591115710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043920464872148992/gUpWTpWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 112,
+          "like_count": 568,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 243
+        },
+        "username": "rain_kawaiiii1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-11T12:53:23.000Z",
+        "description": "=伊井&ii\n生产日期 2012 09 17/mt🤍/无证含糖🍥/家长不管党/出柜 2025 10 30/hrt 2025 06 27/躁郁🐱强迫/od&sh全肯定💊🔪🩸/无奈学生党🚬\n推=V家六子🎙️/花子君🌸/东云绘名🖌️/Chiikawa🐰/好姐姐💗@rinii165892\n欢迎贴贴喵——",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 140,
+                "start": 128,
+                "username": "rinii165892"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zapatopi.net/treeoctopus/",
+                "end": 23,
+                "expanded_url": "https://zapatopi.net/treeoctopus/",
+                "start": 0,
+                "url": "https://t.co/rvDNPJ0baF"
+              }
+            ]
+          }
+        },
+        "id": "2031715041196875776",
+        "location": "—伊井的秘密基地—",
+        "name": "伊井酱酱酱🍥8964～",
+        "pinned_tweet_id": "2047257307072118954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047345595497738240/v4nAldhV_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 545,
+          "following_count": 415,
+          "like_count": 1958,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 1231
+        },
+        "url": "https://t.co/rvDNPJ0baF",
+        "username": "YiJin_0v0",
+        "verified": false
+      }
+    ]
+  }
+}

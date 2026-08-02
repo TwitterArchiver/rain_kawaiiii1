@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043915964559835136",
+    "conversation_id": "2045452904216338506",
+    "created_at": "2026-04-18T14:26:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T15:26:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045509272520585661"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "3012350599",
+          "start": 0,
+          "username": "__Ju___Ju__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045509272520585661",
+    "in_reply_to_user_id": "3012350599",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045452904216338506",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@__Ju___Ju__ 这个算12+里难的了！很高了www"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2045452890207350784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGLokP2a8AAY2wP.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043915964559835136",
+        "conversation_id": "2045452904216338506",
+        "created_at": "2026-04-18T14:26:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T15:26:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045509272520585661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "3012350599",
+              "start": 0,
+              "username": "__Ju___Ju__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045509272520585661",
+        "in_reply_to_user_id": "3012350599",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045452904216338506",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__Ju___Ju__ 这个算12+里难的了！很高了www"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045452890207350784"
+          ]
+        },
+        "author_id": "3012350599",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2045452904216338506",
+        "created_at": "2026-04-18T10:42:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T11:42:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045452904216338506"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gedAHPc9s9",
+              "end": 41,
+              "expanded_url": "https://x.com/__Ju___Ju__/status/2045452904216338506/photo/1",
+              "media_key": "3_2045452890207350784",
+              "start": 18,
+              "url": "https://t.co/gedAHPc9s9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045452904216338506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 736,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "时隔一个月的复健，依然不太会打这个 https://t.co/gedAHPc9s9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "🔪🩸💊\n线下查无此人｜不安定｜LGBTQ全友好｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 45,
+                "username": "rain_kawaii1"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "location": "天国",
+        "name": "tong_u._.u_",
+        "pinned_tweet_id": "2044953614591115710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043920464872148992/gUpWTpWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 92,
+          "like_count": 249,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 129
+        },
+        "username": "rain_kawaiiii1",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-07T12:20:03.000Z",
+        "description": "毛绒娃娃回家计划🐰🍊/#すこ部 推し /💕@GiveProofToLove 🫎@mukdengise 可以叫我桔桔/我要出去玩了！！",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 15,
+                "start": 11,
+                "tag": "すこ部"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 37,
+                "start": 21,
+                "username": "GiveProofToLove"
+              },
+              {
+                "end": 50,
+                "start": 39,
+                "username": "mukdengise"
+              }
+            ]
+          }
+        },
+        "id": "3012350599",
+        "location": "김일성종합대학",
+        "name": "小☃️桔🍊",
+        "pinned_tweet_id": "1571850748140621824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029526662673752064/dKy6IwX3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4304,
+          "following_count": 493,
+          "like_count": 42294,
+          "listed_count": 17,
+          "media_count": 3185,
+          "tweet_count": 44688
+        },
+        "username": "__Ju___Ju__",
+        "verified": true
+      }
+    ]
+  }
+}

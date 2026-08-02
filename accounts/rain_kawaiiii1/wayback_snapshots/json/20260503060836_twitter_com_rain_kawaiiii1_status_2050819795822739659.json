@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2050819697558659072"
+      ]
+    },
+    "author_id": "2043915964559835136",
+    "conversation_id": "2050819795822739659",
+    "created_at": "2026-05-03T06:08:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T07:08:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050819795822739659"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5g91ExW1DQ",
+          "end": 30,
+          "expanded_url": "https://x.com/rain_kawaiiii1/status/2050819795822739659/video/1",
+          "media_key": "13_2050819697558659072",
+          "start": 7,
+          "url": "https://t.co/5g91ExW1DQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050819795822739659",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "泪水的池子啊 https://t.co/5g91ExW1DQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17933,
+        "height": 1280,
+        "media_key": "13_2050819697558659072",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2050819697558659072/img/W90dBF3e8aJ_TnP5.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050819697558659072/vid/avc1/320x568/cB8yRL8N62dzMdwj.mp4?tag=27"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050819697558659072/vid/avc1/480x852/vvjdhEkN5wX0Z6n9.mp4?tag=27"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050819697558659072/vid/avc1/720x1280/kbn-HufDzhLuaWLp.mp4?tag=27"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2050819697558659072/pl/QtQmRSzQsb5wfUKS.m3u8?tag=27"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2050819697558659072"
+          ]
+        },
+        "author_id": "2043915964559835136",
+        "conversation_id": "2050819795822739659",
+        "created_at": "2026-05-03T06:08:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T07:08:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050819795822739659"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5g91ExW1DQ",
+              "end": 30,
+              "expanded_url": "https://x.com/rain_kawaiiii1/status/2050819795822739659/video/1",
+              "media_key": "13_2050819697558659072",
+              "start": 7,
+              "url": "https://t.co/5g91ExW1DQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050819795822739659",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "泪水的池子啊 https://t.co/5g91ExW1DQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "线下查无此人｜不安定｜LGBTQ全友好🌈👩‍❤️‍👩｜扩列只扩互关｜欢迎同类互fo（寻回中\n3.0 前世@rain_kawaii1\nbluesky：tongchan-2008 ←🔪🩸💊都放在这里",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 52,
+                "username": "rain_kawaii1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tong_u._.u_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tong_u._.u_",
+                "start": 0,
+                "url": "https://t.co/GZHx8f2s8R"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "location": "天国",
+        "name": "tong_u._.u_",
+        "pinned_tweet_id": "2044953614591115710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043920464872148992/gUpWTpWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 135,
+          "like_count": 827,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 328
+        },
+        "url": "https://t.co/GZHx8f2s8R",
+        "username": "rain_kawaiiii1",
+        "verified": false
+      }
+    ]
+  }
+}

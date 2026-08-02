@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043915964559835136",
+    "conversation_id": "2044588959435796913",
+    "created_at": "2026-04-16T04:09:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T05:09:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044629192550355219"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1560533329912311808",
+          "start": 0,
+          "username": "BdZzbw6goo2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044629192550355219",
+    "in_reply_to_user_id": "1560533329912311808",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044588959435796913",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BdZzbw6goo2 蹲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043915964559835136",
+        "conversation_id": "2044588959435796913",
+        "created_at": "2026-04-16T04:09:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T05:09:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044629192550355219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1560533329912311808",
+              "start": 0,
+              "username": "BdZzbw6goo2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044629192550355219",
+        "in_reply_to_user_id": "1560533329912311808",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044588959435796913",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BdZzbw6goo2 蹲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560533329912311808",
+        "conversation_id": "2044588959435796913",
+        "created_at": "2026-04-16T01:29:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T02:27:48.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044588538117906515",
+          "2044588959435796913"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044588959435796913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 240,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "600fo的抽奖来了\n一等奖：绿普2盒或一盒国补（折20CNY）*1人\n二等奖：绿普1盒（折10CNY）*2人\n三等奖：ym一盒（折8CNY）*2人\n\n关注+转发+点赞+评论参与，4月18日下午2点开奖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "3.0 我无语了\n前世@rain_kawaii1\n扩餐券地雷🔪🩸💊\n不安定｜LGBT全友好｜扩列只扩互关｜欢迎同类互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "rain_kawaii1"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "location": "天国",
+        "name": "tong_u._.u_（3.0别封我了",
+        "pinned_tweet_id": "2044052979767226710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043920464872148992/gUpWTpWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 62,
+          "like_count": 83,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 74
+        },
+        "username": "rain_kawaiiii1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-19T07:45:35.000Z",
+        "description": "MTF /HRT since 25.11.16/中重度抑郁/互fo/oder/深柜中/有阿斯伯格不是很会聊天致歉",
+        "id": "1560533329912311808",
+        "name": "Lily 🏳️‍⚧️",
+        "pinned_tweet_id": "2036571069851771293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587572161933312/nuq0npKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 656,
+          "following_count": 851,
+          "like_count": 55872,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 439
+        },
+        "username": "BdZzbw6goo2",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-19T07:45:35.000Z",
+        "description": "MTF /HRT since 25.11.16/中重度抑郁/互fo/oder/深柜中/有阿斯伯格不是很会聊天致歉",
+        "id": "1560533329912311808",
+        "name": "Lily 🏳️‍⚧️",
+        "pinned_tweet_id": "2036571069851771293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587572161933312/nuq0npKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 656,
+          "following_count": 851,
+          "like_count": 55872,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 439
+        },
+        "url": "",
+        "username": "BdZzbw6goo2",
+        "verified": true
+      }
+    ]
+  }
+}

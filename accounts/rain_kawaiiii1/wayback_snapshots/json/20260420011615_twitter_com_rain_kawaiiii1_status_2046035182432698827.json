@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043915964559835136",
+    "conversation_id": "2045766024205856880",
+    "created_at": "2026-04-20T01:16:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T02:16:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046035182432698827"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1842093930722295808",
+          "start": 0,
+          "username": "cyyyyxu"
+        },
+        {
+          "end": 20,
+          "id": "2009298197106315266",
+          "start": 9,
+          "username": "smallJBovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046035182432698827",
+    "in_reply_to_user_id": "1842093930722295808",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045857831027462165",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cyyyyxu @smallJBovo 我不行了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043915964559835136",
+        "conversation_id": "2045766024205856880",
+        "created_at": "2026-04-20T01:16:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T02:16:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046035182432698827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1842093930722295808",
+              "start": 0,
+              "username": "cyyyyxu"
+            },
+            {
+              "end": 20,
+              "id": "2009298197106315266",
+              "start": 9,
+              "username": "smallJBovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046035182432698827",
+        "in_reply_to_user_id": "1842093930722295808",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045857831027462165",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cyyyyxu @smallJBovo 我不行了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842093930722295808",
+        "conversation_id": "2045766024205856880",
+        "created_at": "2026-04-19T13:31:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T14:31:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045857831027462165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2009298197106315266",
+              "start": 0,
+              "username": "smallJBovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045857831027462165",
+        "in_reply_to_user_id": "2009298197106315266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 78,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045766024205856880",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@smallJBovo 哪天搜肠刮肚评论了一句 人家以为你是人机"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "description": "🔪🩸💊\n线下查无此人｜不安定｜LGBTQ全友好｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 45,
+                "username": "rain_kawaii1"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "location": "天国",
+        "name": "tong_u._.u_",
+        "pinned_tweet_id": "2044953614591115710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043920464872148992/gUpWTpWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 96,
+          "like_count": 377,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 158
+        },
+        "username": "rain_kawaiiii1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-04T06:46:42.000Z",
+        "description": "06｜isfp｜双重人格随时切换中｜不线下不聊黄",
+        "id": "1842093930722295808",
+        "name": "11",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042486537644822528/Gmxxg8Ru_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2293,
+          "following_count": 48,
+          "like_count": 445,
+          "listed_count": 3,
+          "media_count": 126,
+          "tweet_count": 1038
+        },
+        "username": "cyyyyxu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-08T16:16:47.000Z",
+        "description": "－ω－ \n请多多私信找我玩！",
+        "id": "2009298197106315266",
+        "location": "🚪520",
+        "name": "小叽",
+        "pinned_tweet_id": "2017608658029613356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042982626718552067/NxkxPjCr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 562,
+          "following_count": 12,
+          "like_count": 69,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 213
+        },
+        "username": "smallJBovo",
+        "verified": false
+      }
+    ]
+  }
+}

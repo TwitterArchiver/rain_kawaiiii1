@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043915964559835136",
+    "conversation_id": "2046827927359406228",
+    "created_at": "2026-04-22T05:46:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T06:46:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046827927359406228"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2042606909086404616",
+          "start": 3,
+          "username": "CacoooOvO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046827927359406228",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046822210850230557",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CacoooOvO: 没想到这么快就200fo了，小语决定剧烈抽奖！\n一等奖：52r（一份）\n\n二等奖：选你喜欢的价格30元内的烟！我替你付钱\n不吸烟的推u可以找我折现15r（两份）\n\n三等奖：贝印修眉刀两支（折现5.2r）（三份）\n\n赞+评+关注+转推即可参与！\n使用…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043915964559835136",
+        "conversation_id": "2046827927359406228",
+        "created_at": "2026-04-22T05:46:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T06:46:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046827927359406228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2042606909086404616",
+              "start": 3,
+              "username": "CacoooOvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046827927359406228",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046822210850230557",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CacoooOvO: 没想到这么快就200fo了，小语决定剧烈抽奖！\n一等奖：52r（一份）\n\n二等奖：选你喜欢的价格30元内的烟！我替你付钱\n不吸烟的推u可以找我折现15r（两份）\n\n三等奖：贝印修眉刀两支（折现5.2r）（三份）\n\n赞+评+关注+转推即可参与！\n使用…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042606909086404616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2046822210850230557",
+        "created_at": "2026-04-22T05:23:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T06:23:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046822210850230557"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046822210850230557",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 137,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "没想到这么快就200fo了，小语决定剧烈抽奖！\n一等奖：52r（一份）\n\n二等奖：选你喜欢的价格30元内的烟！我替你付钱\n不吸烟的推u可以找我折现15r（两份）\n\n三等奖：贝印修眉刀两支（折现5.2r）（三份）\n\n赞+评+关注+转推即可参与！\n使用grok 五月一日开奖哦(&gt;^ω^&lt;)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "🔪🩸💊\n线下查无此人｜不安定｜LGBTQ全友好｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 45,
+                "username": "rain_kawaii1"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "location": "天国",
+        "name": "tong_u._.u_",
+        "pinned_tweet_id": "2044953614591115710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043920464872148992/gUpWTpWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 112,
+          "like_count": 501,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 218
+        },
+        "username": "rain_kawaiiii1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-10T14:14:51.000Z",
+        "description": "Caco/呓语 已成年\n温良婊，fo我都会回 无🚪欢迎来找我玩呀\n餐券三年/伪烟草品鉴砖家\n喜欢玩各种音游（邦多利为主）和明日方舟（澄闪厨",
+        "id": "2042606909086404616",
+        "location": "Your heart",
+        "name": "Camellia",
+        "pinned_tweet_id": "2046439284023152963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042609084139212801/zXgrc0gB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 301,
+          "like_count": 451,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 84
+        },
+        "username": "CacoooOvO",
+        "verified": false
+      }
+    ]
+  }
+}

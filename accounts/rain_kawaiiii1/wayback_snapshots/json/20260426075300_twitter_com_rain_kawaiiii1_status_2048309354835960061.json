@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043915964559835136",
+    "conversation_id": "2048302252054683806",
+    "created_at": "2026-04-26T07:53:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T08:53:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048309354835960061"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2041380427873566720",
+          "start": 0,
+          "username": "shigin218150"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048309354835960061",
+    "in_reply_to_user_id": "2041380427873566720",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048302545442070572",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shigin218150 是的🥹🥹！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043915964559835136",
+        "conversation_id": "2048302252054683806",
+        "created_at": "2026-04-26T07:53:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T08:53:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048309354835960061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041380427873566720",
+              "start": 0,
+              "username": "shigin218150"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048309354835960061",
+        "in_reply_to_user_id": "2041380427873566720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048302545442070572",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shigin218150 是的🥹🥹！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041380427873566720",
+        "conversation_id": "2048302252054683806",
+        "created_at": "2026-04-26T07:25:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T08:25:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048302545442070572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2043915964559835136",
+              "start": 0,
+              "username": "rain_kawaiiii1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048302545442070572",
+        "in_reply_to_user_id": "2043915964559835136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048302252054683806",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rain_kawaiiii1 教主神来的..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "🔪🩸💊\n线下查无此人｜不安定｜LGBTQ全友好｜扩列只扩互关｜欢迎同类互fo（寻回中\n3.0 前世@rain_kawaii1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 49,
+                "username": "rain_kawaii1"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "location": "天国",
+        "name": "tong_u._.u_",
+        "pinned_tweet_id": "2044953614591115710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043920464872148992/gUpWTpWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 121,
+          "like_count": 665,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 284
+        },
+        "username": "rain_kawaiiii1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-07T05:00:30.000Z",
+        "description": "我🔪💊 🚪13.14我是乖孩子求你们入门",
+        "id": "2041380427873566720",
+        "name": "murasaki（二代机）",
+        "pinned_tweet_id": "2041881289738088785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041426222723612672/s6DEL3HS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 112,
+          "like_count": 1355,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 160
+        },
+        "username": "shigin218150",
+        "verified": false
+      }
+    ]
+  }
+}

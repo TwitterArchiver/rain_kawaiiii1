@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070351884200841216",
+        "3_2070351884205142017"
+      ],
+      "media_source_tweet_id": [
+        "2070351893059244447",
+        "2070351893059244447"
+      ]
+    },
+    "author_id": "2043915964559835136",
+    "conversation_id": "2070900489622049217",
+    "created_at": "2026-06-27T16:02:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T17:02:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070900489622049217"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1995774191858319361",
+          "start": 3,
+          "username": "sikigane_0705"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/h3urX2ytno",
+          "end": 56,
+          "expanded_url": "https://x.com/sikigane_0705/status/2070351893059244447/photo/1",
+          "media_key": "3_2070351884200841216",
+          "start": 33,
+          "url": "https://t.co/h3urX2ytno"
+        },
+        {
+          "display_url": "pic.x.com/h3urX2ytno",
+          "end": 56,
+          "expanded_url": "https://x.com/sikigane_0705/status/2070351893059244447/photo/1",
+          "media_key": "3_2070351884205142017",
+          "start": 33,
+          "url": "https://t.co/h3urX2ytno"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070900489622049217",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 62
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070351893059244447",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sikigane_0705: 溜めすぎて捨て方に悩んでる https://t.co/h3urX2ytno"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1903,
+        "media_key": "3_2070351884200841216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLteEcnaEAAPTGS.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2070351884205142017",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLteEcobsAEXGBu.jpg",
+        "width": 1552
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070351884200841216",
+            "3_2070351884205142017"
+          ],
+          "media_source_tweet_id": [
+            "2070351893059244447",
+            "2070351893059244447"
+          ]
+        },
+        "author_id": "2043915964559835136",
+        "conversation_id": "2070900489622049217",
+        "created_at": "2026-06-27T16:02:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T17:02:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070900489622049217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1995774191858319361",
+              "start": 3,
+              "username": "sikigane_0705"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/h3urX2ytno",
+              "end": 56,
+              "expanded_url": "https://x.com/sikigane_0705/status/2070351893059244447/photo/1",
+              "media_key": "3_2070351884200841216",
+              "start": 33,
+              "url": "https://t.co/h3urX2ytno"
+            },
+            {
+              "display_url": "pic.x.com/h3urX2ytno",
+              "end": 56,
+              "expanded_url": "https://x.com/sikigane_0705/status/2070351893059244447/photo/1",
+              "media_key": "3_2070351884205142017",
+              "start": 33,
+              "url": "https://t.co/h3urX2ytno"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070900489622049217",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 62
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070351893059244447",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sikigane_0705: 溜めすぎて捨て方に悩んでる https://t.co/h3urX2ytno"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070351884200841216",
+            "3_2070351884205142017"
+          ]
+        },
+        "author_id": "1995774191858319361",
+        "conversation_id": "2070351893059244447",
+        "created_at": "2026-06-26T03:42:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T04:42:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070351893059244447"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h3urX2ytno",
+              "end": 37,
+              "expanded_url": "https://x.com/sikigane_0705/status/2070351893059244447/photo/1",
+              "media_key": "3_2070351884200841216",
+              "start": 14,
+              "url": "https://t.co/h3urX2ytno"
+            },
+            {
+              "display_url": "pic.x.com/h3urX2ytno",
+              "end": 37,
+              "expanded_url": "https://x.com/sikigane_0705/status/2070351893059244447/photo/1",
+              "media_key": "3_2070351884205142017",
+              "start": 14,
+              "url": "https://t.co/h3urX2ytno"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070351893059244447",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 85,
+          "impression_count": 126081,
+          "like_count": 2092,
+          "quote_count": 58,
+          "reply_count": 18,
+          "retweet_count": 62
+        },
+        "reply_settings": "everyone",
+        "text": "溜めすぎて捨て方に悩んでる https://t.co/h3urX2ytno"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "线下查无此人｜不安定｜LGBTQ全友好🌈👩‍❤️‍👩｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1\nbluesky：tongchan-2008 ←🔪🩸💊",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "rain_kawaii1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tong_u._.u_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tong_u._.u_",
+                "start": 0,
+                "url": "https://t.co/GZHx8f2s8R"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "location": "天国",
+        "name": "tong_u._.u_",
+        "pinned_tweet_id": "2044953614591115710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043920464872148992/gUpWTpWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 129,
+          "like_count": 1215,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 506
+        },
+        "url": "https://t.co/GZHx8f2s8R",
+        "username": "rain_kawaiiii1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-02T08:37:15.000Z",
+        "description": "名前しきがねって読みます。みんな姫って呼んでるから姫って呼んでね:バセドウ病:発達障害:躁鬱:OD:リスカ:タバコ:ツイ廃ニート:宇宙猫です:いいね既読感覚:片思い1日:サブ垢@yukiyura0129:最奥@K41RI0129",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 88,
+                "username": "yukiyura0129"
+              },
+              {
+                "end": 114,
+                "start": 104,
+                "username": "K41RI0129"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/2IZR1EI5K45CU?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/E3OofhB5sQ"
+              }
+            ]
+          }
+        },
+        "id": "1995774191858319361",
+        "name": "屍鬼華嶺",
+        "pinned_tweet_id": "2057781503061631058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069530862677528576/6n8O7VFH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1298,
+          "following_count": 98,
+          "like_count": 17286,
+          "listed_count": 14,
+          "media_count": 295,
+          "tweet_count": 3171
+        },
+        "url": "https://t.co/E3OofhB5sQ",
+        "username": "sikigane_0705",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046032647500251136"
+      ]
+    },
+    "author_id": "2043915964559835136",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2046032659663753317",
+    "created_at": "2026-04-20T01:06:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T02:06:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046032659663753317"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rkde2vOttp",
+          "end": 56,
+          "expanded_url": "https://x.com/rain_kawaiiii1/status/2046032659663753317/photo/1",
+          "media_key": "3_2046032647500251136",
+          "start": 33,
+          "url": "https://t.co/rkde2vOttp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046032659663753317",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有机厅附近的吗\n蹲个2p拼机\n我是wmc，有线下的吗\nw6大佬来 https://t.co/rkde2vOttp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2046032647500251136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGT32kEawAABqnz.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046032647500251136"
+          ]
+        },
+        "author_id": "2043915964559835136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2046032659663753317",
+        "created_at": "2026-04-20T01:06:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T02:06:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046032659663753317"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rkde2vOttp",
+              "end": 56,
+              "expanded_url": "https://x.com/rain_kawaiiii1/status/2046032659663753317/photo/1",
+              "media_key": "3_2046032647500251136",
+              "start": 33,
+              "url": "https://t.co/rkde2vOttp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046032659663753317",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有机厅附近的吗\n蹲个2p拼机\n我是wmc，有线下的吗\nw6大佬来 https://t.co/rkde2vOttp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "🔪🩸💊\n线下查无此人｜不安定｜LGBTQ全友好｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 45,
+                "username": "rain_kawaii1"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "location": "天国",
+        "name": "tong_u._.u_",
+        "pinned_tweet_id": "2044953614591115710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043920464872148992/gUpWTpWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 96,
+          "like_count": 376,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 160
+        },
+        "username": "rain_kawaiiii1",
+        "verified": false
+      }
+    ]
+  }
+}

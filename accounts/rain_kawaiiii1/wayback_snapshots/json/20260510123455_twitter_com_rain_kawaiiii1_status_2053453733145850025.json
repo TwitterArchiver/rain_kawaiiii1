@@ -1,0 +1,353 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043915964559835136",
+    "conversation_id": "2053453733145850025",
+    "created_at": "2026-05-10T12:34:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T13:34:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053453733145850025"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2042551027585761280",
+          "start": 3,
+          "username": "usono_3ka9_"
+        },
+        {
+          "end": 92,
+          "id": "1774859865644785667",
+          "start": 82,
+          "username": "skk_minii"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co",
+          "end": 139,
+          "start": 126,
+          "url": "https://t.co/"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053453733145850025",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053424428407751013",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @usono_3ka9_: 🔝三角的置顶\n155/44儿童身材 坐标上海接线下 \n线下价格请先过52🚪查看哦 门槛详细在p3\n✅ zfb口令红包/赞赏码 私信@skk_minii 喜欢我请打钱让我过的更好吧…！\n\n关注转发抽88*5，288*2 https://t.co/…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2053424415053090816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH86oEBakAAMR99.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2053424415019540480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH86oD5aoAAJCiq.jpg",
+        "width": 2048
+      },
+      {
+        "height": 414,
+        "media_key": "3_2053424415048970241",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH86oEAbsAEv4lN.jpg",
+        "width": 766
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043915964559835136",
+        "conversation_id": "2053453733145850025",
+        "created_at": "2026-05-10T12:34:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T13:34:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053453733145850025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2042551027585761280",
+              "start": 3,
+              "username": "usono_3ka9_"
+            },
+            {
+              "end": 92,
+              "id": "1774859865644785667",
+              "start": 82,
+              "username": "skk_minii"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co",
+              "end": 139,
+              "start": 126,
+              "url": "https://t.co/"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053453733145850025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053424428407751013",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @usono_3ka9_: 🔝三角的置顶\n155/44儿童身材 坐标上海接线下 \n线下价格请先过52🚪查看哦 门槛详细在p3\n✅ zfb口令红包/赞赏码 私信@skk_minii 喜欢我请打钱让我过的更好吧…！\n\n关注转发抽88*5，288*2 https://t.co/…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053424415053090816",
+            "3_2053424415019540480",
+            "3_2053424415048970241"
+          ]
+        },
+        "author_id": "2042551027585761280",
+        "conversation_id": "2053424428407751013",
+        "created_at": "2026-05-10T10:38:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T11:38:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053424428407751013"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 75,
+              "id": "1774859865644785667",
+              "start": 65,
+              "username": "skk_minii"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/42IJtMie0Q",
+              "end": 132,
+              "expanded_url": "https://x.com/usono_3ka9_/status/2053424428407751013/photo/1",
+              "media_key": "3_2053424415053090816",
+              "start": 109,
+              "url": "https://t.co/42IJtMie0Q"
+            },
+            {
+              "display_url": "pic.x.com/42IJtMie0Q",
+              "end": 132,
+              "expanded_url": "https://x.com/usono_3ka9_/status/2053424428407751013/photo/1",
+              "media_key": "3_2053424415019540480",
+              "start": 109,
+              "url": "https://t.co/42IJtMie0Q"
+            },
+            {
+              "display_url": "pic.x.com/42IJtMie0Q",
+              "end": 132,
+              "expanded_url": "https://x.com/usono_3ka9_/status/2053424428407751013/photo/1",
+              "media_key": "3_2053424415048970241",
+              "start": 109,
+              "url": "https://t.co/42IJtMie0Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053424428407751013",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 272,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "🔝三角的置顶\n155/44儿童身材 坐标上海接线下 \n线下价格请先过52🚪查看哦 门槛详细在p3\n✅ zfb口令红包/赞赏码 私信@skk_minii 喜欢我请打钱让我过的更好吧…！\n\n关注转发抽88*5，288*2 https://t.co/42IJtMie0Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "线下查无此人｜不安定｜LGBTQ全友好🌈👩‍❤️‍👩｜扩列只扩互关｜欢迎同类互fo（寻回中\n3.0 前世@rain_kawaii1\nbluesky：tongchan-2008 ←🔪🩸💊都放在这里",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 52,
+                "username": "rain_kawaii1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tong_u._.u_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tong_u._.u_",
+                "start": 0,
+                "url": "https://t.co/GZHx8f2s8R"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "location": "天国",
+        "name": "tong_u._.u_",
+        "pinned_tweet_id": "2044953614591115710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043920464872148992/gUpWTpWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 141,
+          "like_count": 964,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 358
+        },
+        "url": "https://t.co/GZHx8f2s8R",
+        "username": "rain_kawaiiii1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-10T10:41:37.000Z",
+        "description": "不接非绿…..喜欢我可以过门槛｜私信@skk_minii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 18,
+                "username": "skk_minii"
+              }
+            ]
+          }
+        },
+        "id": "2042551027585761280",
+        "location": "🚪52/288/588/1388",
+        "name": "三角ちゃん寝る",
+        "pinned_tweet_id": "2053424428407751013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043702723732963328/5f0vp76c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 33,
+          "like_count": 115,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 66
+        },
+        "username": "usono_3ka9_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-01T18:02:38.000Z",
+        "description": "普通的我是第一名｜本垢@usono_3ka9_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "usono_3ka9_"
+              }
+            ]
+          }
+        },
+        "id": "1774859865644785667",
+        "name": "サンカク",
+        "pinned_tweet_id": "1865303413208289497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830274239947218944/8hrxNWmg_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 2421,
+          "following_count": 72,
+          "like_count": 944,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 704
+        },
+        "username": "skk_minii",
+        "verified": false
+      }
+    ]
+  }
+}

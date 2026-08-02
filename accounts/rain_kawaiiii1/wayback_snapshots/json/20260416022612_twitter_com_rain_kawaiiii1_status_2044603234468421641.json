@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043915964559835136",
+    "conversation_id": "2044427136136831156",
+    "created_at": "2026-04-16T02:26:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T03:26:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044603234468421641"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2013209398395752448",
+          "start": 0,
+          "username": "DesireLovet1qi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044603234468421641",
+    "in_reply_to_user_id": "2013209398395752448",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044427136136831156",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DesireLovet1qi 蹲蹲🙋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043915964559835136",
+        "conversation_id": "2044427136136831156",
+        "created_at": "2026-04-16T02:26:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T03:26:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044603234468421641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2013209398395752448",
+              "start": 0,
+              "username": "DesireLovet1qi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044603234468421641",
+        "in_reply_to_user_id": "2013209398395752448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044427136136831156",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DesireLovet1qi 蹲蹲🙋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013209398395752448",
+        "conversation_id": "2044427136136831156",
+        "created_at": "2026-04-15T14:46:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T15:46:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044427136136831156"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044427136136831156",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1066,
+          "like_count": 32,
+          "quote_count": 2,
+          "reply_count": 25,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "开个抽奖条300fo开🥺感谢大家的喜欢\n一等奖：3盒绿普（折现30r）*1\n二等奖：2盒愈美（折线16r）*2\n三等奖：5.2r *5\n😈关转评即可参与😈\n（以上药物可以换等价其他药物）\n等到fo再多一点再开一次抽奖抽盐野义😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "description": "3.0 我无语了\n前世@rain_kawaii1\n扩餐券地雷🔪🩸💊\n不安定｜LGBT全友好｜扩列只扩互关｜欢迎同类互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "rain_kawaii1"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "location": "天国",
+        "name": "tong_u._.u_（3.0别封我了",
+        "pinned_tweet_id": "2044052979767226710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043920464872148992/gUpWTpWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 59,
+          "like_count": 70,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 57
+        },
+        "username": "rain_kawaiiii1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲/09/od 割/药理/广泛性焦虑 简中/English同类交友 查成分互fo喵！^ 没fo私我呀 来找我玩！想到啥发啥非常喜欢评论 上来骂我=你赢了恭喜毕业☺️请理性探讨 提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/desirelovet1qi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/desirelovet1qi",
+                "start": 0,
+                "url": "https://t.co/1k4V17YOY0"
+              }
+            ]
+          }
+        },
+        "id": "2013209398395752448",
+        "location": "^猫猫天国行くよ^",
+        "name": "愛歌",
+        "pinned_tweet_id": "2044175216386158879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043464203944747008/Seln5ql5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 275,
+          "like_count": 361,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 362
+        },
+        "url": "https://t.co/1k4V17YOY0",
+        "username": "DesireLovet1qi",
+        "verified": false
+      }
+    ]
+  }
+}

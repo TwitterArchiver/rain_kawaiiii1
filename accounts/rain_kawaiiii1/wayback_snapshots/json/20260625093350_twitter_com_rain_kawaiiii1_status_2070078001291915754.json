@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043915964559835136",
+    "conversation_id": "2070010965073276987",
+    "created_at": "2026-06-25T09:33:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T10:33:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070078001291915754"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "3012350599",
+          "start": 0,
+          "username": "__Ju___Ju__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070078001291915754",
+    "in_reply_to_user_id": "3012350599",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070010965073276987",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@__Ju___Ju__ 好想吃…."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070010952620376064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLon_ngbAAAbx1z.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043915964559835136",
+        "conversation_id": "2070010965073276987",
+        "created_at": "2026-06-25T09:33:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T10:33:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070078001291915754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "3012350599",
+              "start": 0,
+              "username": "__Ju___Ju__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070078001291915754",
+        "in_reply_to_user_id": "3012350599",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070010965073276987",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__Ju___Ju__ 好想吃…."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070010952620376064"
+          ]
+        },
+        "author_id": "3012350599",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2070010965073276987",
+        "created_at": "2026-06-25T05:07:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T06:07:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070010965073276987"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Rqp8xZgdqz",
+              "end": 36,
+              "expanded_url": "https://x.com/__Ju___Ju__/status/2070010965073276987/photo/1",
+              "media_key": "3_2070010952620376064",
+              "start": 13,
+              "url": "https://t.co/Rqp8xZgdqz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070010965073276987",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 284,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最后一集咯，且看且珍惜。 https://t.co/Rqp8xZgdqz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "description": "线下查无此人｜不安定｜LGBTQ全友好🌈👩‍❤️‍👩｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1\nbluesky：tongchan-2008 ←🔪🩸💊",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "rain_kawaii1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tong_u._.u_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tong_u._.u_",
+                "start": 0,
+                "url": "https://t.co/GZHx8f2s8R"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "location": "天国",
+        "name": "tong_u._.u_",
+        "pinned_tweet_id": "2044953614591115710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043920464872148992/gUpWTpWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 143,
+          "like_count": 1166,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 481
+        },
+        "url": "https://t.co/GZHx8f2s8R",
+        "username": "rain_kawaiiii1",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-07T12:20:03.000Z",
+        "description": "为什么我不能只是一只毛绒小兔子？🐰🍊/#すこ部 推し /可以叫我桔桔/我要出去玩了！！\n💕@GiveProofToLove \n🫎@mukdengise\n🐑@jinpingslutflop",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 23,
+                "start": 19,
+                "tag": "すこ部"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 61,
+                "start": 45,
+                "username": "GiveProofToLove"
+              },
+              {
+                "end": 75,
+                "start": 64,
+                "username": "mukdengise"
+              },
+              {
+                "end": 93,
+                "start": 77,
+                "username": "jinpingslutflop"
+              }
+            ]
+          }
+        },
+        "id": "3012350599",
+        "location": "Daegu, Republic of Korea",
+        "name": "自嘲桔🍊",
+        "pinned_tweet_id": "1571850748140621824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029526662673752064/dKy6IwX3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4477,
+          "following_count": 506,
+          "like_count": 44094,
+          "listed_count": 17,
+          "media_count": 3380,
+          "tweet_count": 47441
+        },
+        "url": "",
+        "username": "__Ju___Ju__",
+        "verified": true
+      }
+    ]
+  }
+}

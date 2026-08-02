@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1571850739693289472"
+      ],
+      "media_source_tweet_id": [
+        "1571850748140621824"
+      ]
+    },
+    "author_id": "2043915964559835136",
+    "conversation_id": "2044994060189053321",
+    "created_at": "2026-04-17T04:19:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T05:19:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044994060189053321"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "3012350599",
+          "start": 3,
+          "username": "__Ju___Ju__"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GwxY0iIbZO",
+          "end": 44,
+          "expanded_url": "https://x.com/__Ju___Ju__/status/1571850748140621824/photo/1",
+          "media_key": "3_1571850739693289472",
+          "start": 21,
+          "url": "https://t.co/GwxY0iIbZO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044994060189053321",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1571850748140621824",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @__Ju___Ju__: 你赢啦 https://t.co/GwxY0iIbZO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 586,
+        "media_key": "3_1571850739693289472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FdBV63NagAA0z_n.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1571850739693289472"
+          ],
+          "media_source_tweet_id": [
+            "1571850748140621824"
+          ]
+        },
+        "author_id": "2043915964559835136",
+        "conversation_id": "2044994060189053321",
+        "created_at": "2026-04-17T04:19:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T05:19:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044994060189053321"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "3012350599",
+              "start": 3,
+              "username": "__Ju___Ju__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GwxY0iIbZO",
+              "end": 44,
+              "expanded_url": "https://x.com/__Ju___Ju__/status/1571850748140621824/photo/1",
+              "media_key": "3_1571850739693289472",
+              "start": 21,
+              "url": "https://t.co/GwxY0iIbZO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044994060189053321",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1571850748140621824",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @__Ju___Ju__: 你赢啦 https://t.co/GwxY0iIbZO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1571850739693289472"
+          ]
+        },
+        "author_id": "3012350599",
+        "conversation_id": "1571850748140621824",
+        "created_at": "2022-09-19T13:16:36.000Z",
+        "edit_controls": {
+          "editable_until": "2022-09-19T13:46:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1571850748140621824"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GwxY0iIbZO",
+              "end": 27,
+              "expanded_url": "https://x.com/__Ju___Ju__/status/1571850748140621824/photo/1",
+              "media_key": "3_1571850739693289472",
+              "start": 4,
+              "url": "https://t.co/GwxY0iIbZO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1571850748140621824",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 0,
+          "like_count": 81,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "你赢啦 https://t.co/GwxY0iIbZO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "🔪🩸💊\n线下查无此人｜不安定｜LGBTQ全友好｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 45,
+                "username": "rain_kawaii1"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "location": "天国",
+        "name": "tong_u._.u_",
+        "pinned_tweet_id": "2044953614591115710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043920464872148992/gUpWTpWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 66,
+          "like_count": 101,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 85
+        },
+        "username": "rain_kawaiiii1",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-07T12:20:03.000Z",
+        "description": "毛绒娃娃回家计划🐰🍊/#すこ部 推し /💕@GiveProofToLove 🫎@mukdengise 可以叫我桔桔/我要出去玩了！！",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 15,
+                "start": 11,
+                "tag": "すこ部"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 37,
+                "start": 21,
+                "username": "GiveProofToLove"
+              },
+              {
+                "end": 50,
+                "start": 39,
+                "username": "mukdengise"
+              }
+            ]
+          }
+        },
+        "id": "3012350599",
+        "location": "김일성종합대학",
+        "name": "小☃️桔🍊",
+        "pinned_tweet_id": "1571850748140621824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029526662673752064/dKy6IwX3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4298,
+          "following_count": 492,
+          "like_count": 42252,
+          "listed_count": 17,
+          "media_count": 3182,
+          "tweet_count": 44646
+        },
+        "username": "__Ju___Ju__",
+        "verified": true
+      }
+    ]
+  }
+}

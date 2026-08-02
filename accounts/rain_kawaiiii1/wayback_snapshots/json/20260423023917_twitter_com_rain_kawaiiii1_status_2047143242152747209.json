@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043915964559835136",
+    "conversation_id": "2047143242152747209",
+    "created_at": "2026-04-23T02:39:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T03:39:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047143242152747209"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1802754536710262784",
+          "start": 3,
+          "username": "Dan0115qwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047143242152747209",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046887629178933515",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Dan0115qwq: 麦当劳在薯条里撒的根本不是盐。是白粉吧！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043915964559835136",
+        "conversation_id": "2047143242152747209",
+        "created_at": "2026-04-23T02:39:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T03:39:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047143242152747209"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1802754536710262784",
+              "start": 3,
+              "username": "Dan0115qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047143242152747209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046887629178933515",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Dan0115qwq: 麦当劳在薯条里撒的根本不是盐。是白粉吧！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1802754536710262784",
+        "conversation_id": "2046887629178933515",
+        "created_at": "2026-04-22T09:43:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T10:43:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046887629178933515"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046887629178933515",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11283,
+          "like_count": 179,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "麦当劳在薯条里撒的根本不是盐。是白粉吧！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "🔪🩸💊\n线下查无此人｜不安定｜LGBTQ全友好｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 45,
+                "username": "rain_kawaii1"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "location": "天国",
+        "name": "tong_u._.u_",
+        "pinned_tweet_id": "2044953614591115710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043920464872148992/gUpWTpWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 119,
+          "like_count": 532,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 230
+        },
+        "username": "rain_kawaiiii1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-17T17:25:59.000Z",
+        "description": "不会去眨眼睛",
+        "id": "1802754536710262784",
+        "name": "Dan",
+        "pinned_tweet_id": "1888663296250961954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903651201214029824/uOGkCZTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 154,
+          "like_count": 589,
+          "listed_count": 2,
+          "media_count": 261,
+          "tweet_count": 2086
+        },
+        "username": "Dan0115qwq",
+        "verified": false
+      }
+    ]
+  }
+}
