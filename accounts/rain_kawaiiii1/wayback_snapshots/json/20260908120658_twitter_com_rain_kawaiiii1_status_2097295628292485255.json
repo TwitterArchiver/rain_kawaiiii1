@@ -1,0 +1,363 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097235159485710336"
+      ],
+      "media_source_tweet_id": [
+        "2097235164443365433"
+      ]
+    },
+    "author_id": "2043915964559835136",
+    "conversation_id": "2097295628292485255",
+    "created_at": "2026-09-08T12:06:58.000Z",
+    "display_text_range": [
+      0,
+      65
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T13:06:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097295628292485255"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 41,
+          "start": 31,
+          "tag": "NEEDY_pic"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1126507338024620033",
+          "start": 3,
+          "username": "x_spidekawaii_x"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pHZa968Pf7",
+          "end": 65,
+          "expanded_url": "https://x.com/x_spidekawaii_x/status/2097235164443365433/photo/1",
+          "media_key": "3_2097235159485710336",
+          "start": 42,
+          "url": "https://t.co/pHZa968Pf7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097295628292485255",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2097235159485710336"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 84
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097235164443365433",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @x_spidekawaii_x: ごろごろあめちゃん\n#NEEDY_pic https://t.co/pHZa968Pf7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2097235159485710336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRrgRBObAAAkuXg.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097235159485710336"
+          ],
+          "media_source_tweet_id": [
+            "2097235164443365433"
+          ]
+        },
+        "author_id": "2043915964559835136",
+        "conversation_id": "2097295628292485255",
+        "created_at": "2026-09-08T12:06:58.000Z",
+        "display_text_range": [
+          0,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T13:06:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097295628292485255"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 31,
+              "tag": "NEEDY_pic"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1126507338024620033",
+              "start": 3,
+              "username": "x_spidekawaii_x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pHZa968Pf7",
+              "end": 65,
+              "expanded_url": "https://x.com/x_spidekawaii_x/status/2097235164443365433/photo/1",
+              "media_key": "3_2097235159485710336",
+              "start": 42,
+              "url": "https://t.co/pHZa968Pf7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097295628292485255",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2097235159485710336"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 84
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097235164443365433",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @x_spidekawaii_x: ごろごろあめちゃん\n#NEEDY_pic https://t.co/pHZa968Pf7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097235159485710336"
+          ]
+        },
+        "author_id": "1126507338024620033",
+        "conversation_id": "2097235164443365433",
+        "created_at": "2026-09-08T08:06:42.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T09:06:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097235164443365433"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 10,
+              "tag": "NEEDY_pic"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pHZa968Pf7",
+              "end": 44,
+              "expanded_url": "https://x.com/x_spidekawaii_x/status/2097235164443365433/photo/1",
+              "media_key": "3_2097235159485710336",
+              "start": 21,
+              "url": "https://t.co/pHZa968Pf7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097235164443365433",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2097235159485710336"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 133,
+          "impression_count": 4363,
+          "like_count": 955,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 84
+        },
+        "reply_settings": "everyone",
+        "text": "ごろごろあめちゃん\n#NEEDY_pic https://t.co/pHZa968Pf7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "线下查无此人｜不安定｜LGBTQ全友好🌈👩‍❤️‍👩｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1\nbluesky：tongchan-2008 ←🔪🩸💊\n🚪8.8 仅好友位扩列纯乞讨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "rain_kawaii1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tong_u._.u_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tong_u._.u_",
+                "start": 0,
+                "url": "https://t.co/GZHx8f2s8R"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2097295628292485255",
+        "name": "tong_u._.u_",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043915964559835136/1776143589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043920464872148992/gUpWTpWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 142,
+          "like_count": 1562,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 679
+        },
+        "url": "https://t.co/GZHx8f2s8R",
+        "username": "rain_kawaiiii1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-05-09T15:20:53.000Z",
+        "description": "しじまよりと言います、インターネットが大好物◆fanbox:https://t.co/oRkD9Lx87v ◆@x_mothkawaii_x◆pixiv:https://t.co/nDrNcLeStA ◆イラストのご依頼はDMで対応しているよ(受付中9月中旬着手)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 55,
+                "username": "x_mothkawaii_x"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "spidekawaii.fanbox.cc",
+                "end": 53,
+                "expanded_url": "http://spidekawaii.fanbox.cc/",
+                "start": 30,
+                "url": "https://t.co/oRkD9Lx87v"
+              },
+              {
+                "display_url": "pixiv.net/users/43450519",
+                "end": 100,
+                "expanded_url": "https://www.pixiv.net/users/43450519",
+                "start": 77,
+                "url": "https://t.co/nDrNcLeStA"
+              }
+            ]
+          }
+        },
+        "id": "1126507338024620033",
+        "is_identity_verified": false,
+        "location": "常温で保管中",
+        "most_recent_tweet_id": "2097235164443365433",
+        "name": "静寂より",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1126507338024620033/1788234145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094631819752910848/qzl1cGdD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35951,
+          "following_count": 195,
+          "like_count": 85222,
+          "listed_count": 157,
+          "media_count": 1177,
+          "tweet_count": 16312
+        },
+        "url": "",
+        "username": "x_spidekawaii_x",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

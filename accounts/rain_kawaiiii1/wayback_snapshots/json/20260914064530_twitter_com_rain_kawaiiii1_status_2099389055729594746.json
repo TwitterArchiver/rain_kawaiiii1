@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043915964559835136",
+    "conversation_id": "2099389055729594746",
+    "created_at": "2026-09-14T06:45:30.000Z",
+    "display_text_range": [
+      0,
+      139
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T07:45:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099389055729594746"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2052760341411708928",
+          "start": 3,
+          "username": "Sui17171Fei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099389055729594746",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099288937479221476",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sui17171Fei: 上个号冻结了互关寻回抽奖，同类互fo🉑\n一等奖：33元x1\n二等奖：22元x2\n三等奖：5.20元x5\n特殊奖：1.314元x10\n\n到700fo抽奖，转盘录屏抽\n点赞转帖评论参加\n评论除机器人外需达到至少80个\n不食言我会保存补药举报此贴感谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043915964559835136",
+        "conversation_id": "2099389055729594746",
+        "created_at": "2026-09-14T06:45:30.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T07:45:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099389055729594746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2052760341411708928",
+              "start": 3,
+              "username": "Sui17171Fei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099389055729594746",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099288937479221476",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sui17171Fei: 上个号冻结了互关寻回抽奖，同类互fo🉑\n一等奖：33元x1\n二等奖：22元x2\n三等奖：5.20元x5\n特殊奖：1.314元x10\n\n到700fo抽奖，转盘录屏抽\n点赞转帖评论参加\n评论除机器人外需达到至少80个\n不食言我会保存补药举报此贴感谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2052760341411708928",
+        "conversation_id": "2099288937479221476",
+        "created_at": "2026-09-14T00:07:40.000Z",
+        "display_text_range": [
+          0,
+          122
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T01:07:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099288937479221476"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099288937479221476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 413,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "上个号冻结了互关寻回抽奖，同类互fo🉑\n一等奖：33元x1\n二等奖：22元x2\n三等奖：5.20元x5\n特殊奖：1.314元x10\n\n到700fo抽奖，转盘录屏抽\n点赞转帖评论参加\n评论除机器人外需达到至少80个\n不食言我会保存补药举报此贴感谢"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "线下查无此人｜不安定｜LGBTQ全友好🌈👩‍❤️‍👩｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1\nbluesky：tongchan-2008 ←🔪🩸💊\n🚪8.8 仅好友位扩列纯乞讨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "rain_kawaii1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tong_u._.u_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tong_u._.u_",
+                "start": 0,
+                "url": "https://t.co/GZHx8f2s8R"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2099389055729594746",
+        "name": "tong_u._.u_",
+        "pinned_tweet_id": "2098673623397765133",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043915964559835136/1776143589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043920464872148992/gUpWTpWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 153,
+          "like_count": 1769,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 780
+        },
+        "url": "https://t.co/GZHx8f2s8R",
+        "username": "rain_kawaiiii1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-08T14:39:47.000Z",
+        "description": "💊🔪🩸  I  ADHD重焦中抑 |  虚无主义 | 顺女女同 | 生物化学药理板绘❤️| 同类互fo |恐游像素RPG爱好者|任何物种或性取向欢迎 | 化学极乐 |  言切 衛拓 黑红 狛日拒拆逆、生化里昂右向全肯定、all昴全肯定；尤昴莱昴奥昴⬆️艾昴蕾昴OK| 骂我的全家替挡灾",
+        "id": "2052760341411708928",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099384033381958063",
+        "name": "雨鈴2.0互关寻回（账号又被冻结了😭）",
+        "pinned_tweet_id": "2096149992071467206",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2052760341411708928/1789291905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096042663938273280/B8d49Wio_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 356,
+          "like_count": 5568,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 1392
+        },
+        "url": "",
+        "username": "Sui17171Fei",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

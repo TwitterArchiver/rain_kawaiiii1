@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043915964559835136",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2095390535443964135",
+    "created_at": "2026-09-03T05:56:48.000Z",
+    "display_text_range": [
+      0,
+      98
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T06:56:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095390535443964135"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "766404536235851776",
+          "start": 3,
+          "username": "austriatonto"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095390535443964135",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 39295
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094154189970505880",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @austriatonto: porque mierda separaron los tweets de los retweets, fragmentaron mi personalidad"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043915964559835136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2095390535443964135",
+        "created_at": "2026-09-03T05:56:48.000Z",
+        "display_text_range": [
+          0,
+          98
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T06:56:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095390535443964135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "766404536235851776",
+              "start": 3,
+              "username": "austriatonto"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095390535443964135",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 39295
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094154189970505880",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @austriatonto: porque mierda separaron los tweets de los retweets, fragmentaron mi personalidad"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "766404536235851776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2094154189970505880",
+        "created_at": "2026-08-30T20:04:01.000Z",
+        "display_text_range": [
+          0,
+          80
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T21:04:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094154189970505880"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094154189970505880",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1820,
+          "impression_count": 1996991,
+          "like_count": 134583,
+          "quote_count": 1657,
+          "reply_count": 211,
+          "retweet_count": 39295
+        },
+        "reply_settings": "everyone",
+        "text": "porque mierda separaron los tweets de los retweets, fragmentaron mi personalidad"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "线下查无此人｜不安定｜LGBTQ全友好🌈👩‍❤️‍👩｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1\nbluesky：tongchan-2008 ←🔪🩸💊",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "rain_kawaii1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tong_u._.u_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tong_u._.u_",
+                "start": 0,
+                "url": "https://t.co/GZHx8f2s8R"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2095390535443964135",
+        "name": "tong_u._.u_",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043915964559835136/1776143589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043920464872148992/gUpWTpWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 127,
+          "like_count": 1375,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 578
+        },
+        "url": "https://t.co/GZHx8f2s8R",
+        "username": "rain_kawaiiii1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-08-18T22:40:55.000Z",
+        "description": "solamente muero los domingos",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/austria_daan?i…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/austria_daan?igsi=MTg1YnVsZWsxcGE2NQ==",
+                "start": 0,
+                "url": "https://t.co/6XsP6fRn85"
+              }
+            ]
+          }
+        },
+        "id": "766404536235851776",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095305587516960947",
+        "name": "¿?",
+        "pinned_tweet_id": "1646262418723725312",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/766404536235851776/1703300944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908794761361666048/Wugr3t1l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 289,
+          "like_count": 12731,
+          "listed_count": 1,
+          "media_count": 230,
+          "tweet_count": 4108
+        },
+        "url": "https://t.co/6XsP6fRn85",
+        "username": "austriatonto",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

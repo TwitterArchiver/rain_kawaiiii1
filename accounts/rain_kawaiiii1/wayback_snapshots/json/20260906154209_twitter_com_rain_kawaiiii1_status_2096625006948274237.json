@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043915964559835136",
+    "conversation_id": "2096157512579895400",
+    "created_at": "2026-09-06T15:42:09.000Z",
+    "display_text_range": [
+      26,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T16:42:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096625006948274237"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1461014024666386432",
+          "start": 0,
+          "username": "guojiaqi17"
+        },
+        {
+          "end": 25,
+          "id": "753095033537126401",
+          "start": 12,
+          "username": "Mantou_naive"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096625006948274237",
+    "in_reply_to_user_id": "1461014024666386432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096309965413916894",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guojiaqi17 @Mantou_naive 笑得要死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043915964559835136",
+        "conversation_id": "2096157512579895400",
+        "created_at": "2026-09-06T15:42:09.000Z",
+        "display_text_range": [
+          26,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T16:42:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096625006948274237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1461014024666386432",
+              "start": 0,
+              "username": "guojiaqi17"
+            },
+            {
+              "end": 25,
+              "id": "753095033537126401",
+              "start": 12,
+              "username": "Mantou_naive"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096625006948274237",
+        "in_reply_to_user_id": "1461014024666386432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096309965413916894",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guojiaqi17 @Mantou_naive 笑得要死"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1461014024666386432",
+        "conversation_id": "2096157512579895400",
+        "created_at": "2026-09-05T18:50:17.000Z",
+        "display_text_range": [
+          14,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T19:50:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096309965413916894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "753095033537126401",
+              "start": 0,
+              "username": "Mantou_naive"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096309965413916894",
+        "in_reply_to_user_id": "753095033537126401",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 51222,
+          "like_count": 1080,
+          "quote_count": 0,
+          "reply_count": 49,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096157512579895400",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mantou_naive 比她好看的没她臭比她臭的没她好看"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "线下查无此人｜不安定｜LGBTQ全友好🌈👩‍❤️‍👩｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1\nbluesky：tongchan-2008 ←🔪🩸💊",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "rain_kawaii1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tong_u._.u_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tong_u._.u_",
+                "start": 0,
+                "url": "https://t.co/GZHx8f2s8R"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2096625006948274237",
+        "name": "tong_u._.u_",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043915964559835136/1776143589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043920464872148992/gUpWTpWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 134,
+          "like_count": 1473,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 634
+        },
+        "url": "https://t.co/GZHx8f2s8R",
+        "username": "rain_kawaiiii1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-11-17T16:51:14.000Z",
+        "description": "Don't look for me.Leave me alone.Hate humans.🌈🐱🐶",
+        "id": "1461014024666386432",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096585563553870085",
+        "name": "Spica_α🌟",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1461014024666386432/1788297186",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095795119589036032/dUmKE1zu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 32,
+          "like_count": 1286,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 138
+        },
+        "url": "",
+        "username": "guojiaqi17",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-07-13T05:13:42.000Z",
+        "description": "抖m情趣店老板娘。5年淘宝店：花椒馒头铺。支持海外，全球可发！不接广告的活人博主🥹推特发买家秀并艾特我都会转发~！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.tb.cn/h.7j6xee7HvAU6…",
+                "end": 23,
+                "expanded_url": "https://m.tb.cn/h.7j6xee7HvAU62Ns",
+                "start": 0,
+                "url": "https://t.co/b4RWtnlyvt"
+              }
+            ]
+          }
+        },
+        "id": "753095033537126401",
+        "is_identity_verified": false,
+        "location": "淘宝直达下单↓↓↓",
+        "most_recent_tweet_id": "2096157512579895400",
+        "name": "馒天真（飞机杯女王）",
+        "pinned_tweet_id": "2036086008350232936",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/753095033537126401/1743057416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1676243081870606336/i85Ct0r7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524553,
+          "following_count": 340,
+          "like_count": 695,
+          "listed_count": 902,
+          "media_count": 775,
+          "tweet_count": 3971
+        },
+        "url": "https://t.co/b4RWtnlyvt",
+        "username": "Mantou_naive",
+        "verified": false,
+        "verified_type": "none",
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      }
+    ]
+  }
+}

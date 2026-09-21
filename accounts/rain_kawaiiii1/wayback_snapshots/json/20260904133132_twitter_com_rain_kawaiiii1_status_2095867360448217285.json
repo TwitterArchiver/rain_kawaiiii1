@@ -1,0 +1,529 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043915964559835136",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1148328095914479616",
+          "name": "Blu-ray"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "General Fashion",
+          "id": "844604232737087488",
+          "name": "General Fashion"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Outerwear",
+          "id": "846722850627080192",
+          "name": "Outerwear"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Outerwear",
+          "id": "846722850627080192",
+          "name": "Outerwear"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Outerwear",
+          "id": "846722850627080192",
+          "name": "Outerwear"
+        }
+      }
+    ],
+    "conversation_id": "2095867360448217285",
+    "created_at": "2026-09-04T13:31:32.000Z",
+    "display_text_range": [
+      0,
+      148
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T14:31:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095867360448217285"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 114,
+          "start": 108,
+          "tag": "お久しぶり"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1980941101763842049",
+          "start": 3,
+          "username": "needygirl_anime"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095867360448217285",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 44
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095829240394453017",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @needygirl_anime: /⋰\nBlu-ray&amp;DVD第3巻\n発売まであと5⃣日！\n\\⋱\n \n9/9㊌発売🎀\nBlu-ray&amp;DVD第3巻には\n第6～8話が収録！\n\nキャラクター原案\n#お久しぶり 描き下ろしによる\n美血華と禰󠄀智禍さまがジャケットに登場！\n\n🧬…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3127,
+        "media_key": "3_2092156203384356864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQjU-3VawAArUd1.jpg",
+        "width": 2230
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043915964559835136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1148328095914479616",
+              "name": "Blu-ray"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "General Fashion",
+              "id": "844604232737087488",
+              "name": "General Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          }
+        ],
+        "conversation_id": "2095867360448217285",
+        "created_at": "2026-09-04T13:31:32.000Z",
+        "display_text_range": [
+          0,
+          148
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T14:31:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095867360448217285"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 114,
+              "start": 108,
+              "tag": "お久しぶり"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1980941101763842049",
+              "start": 3,
+              "username": "needygirl_anime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095867360448217285",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 44
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095829240394453017",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @needygirl_anime: /⋰\nBlu-ray&amp;DVD第3巻\n発売まであと5⃣日！\n\\⋱\n \n9/9㊌発売🎀\nBlu-ray&amp;DVD第3巻には\n第6～8話が収録！\n\nキャラクター原案\n#お久しぶり 描き下ろしによる\n美血華と禰󠄀智禍さまがジャケットに登場！\n\n🧬…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092156203384356864"
+          ]
+        },
+        "author_id": "1980941101763842049",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1148328095914479616",
+              "name": "Blu-ray"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "General Fashion",
+              "id": "844604232737087488",
+              "name": "General Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          }
+        ],
+        "conversation_id": "2095829240394453017",
+        "created_at": "2026-09-04T11:00:04.000Z",
+        "display_text_range": [
+          0,
+          175
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T12:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095829240394453017"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 93,
+              "start": 87,
+              "tag": "お久しぶり"
+            },
+            {
+              "end": 175,
+              "start": 170,
+              "tag": "ニディガ"
+            }
+          ],
+          "urls": [
+            {
+              "description": "超絶最かわてんしちゃんがみんなの視線＆話題をかっさらう！　TVアニメ『NEEDY GIRL OVERDOSE』（ニディガ）2026年4月放送開始！",
+              "display_url": "needygirl-anime.com/bddvd/",
+              "end": 168,
+              "expanded_url": "https://needygirl-anime.com/bddvd/",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2095074320859136000/2WLLCEyJ?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2095074320859136000/2WLLCEyJ?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 145,
+              "status": 200,
+              "title": "Blu-ray&DVD | TVアニメ『NEEDY GIRL OVERDOSE』公式サイト",
+              "unwound_url": "https://needygirl-anime.com/bddvd/",
+              "url": "https://t.co/Ree0gfbIpL"
+            },
+            {
+              "display_url": "pic.x.com/cXH5PDEo5j",
+              "end": 199,
+              "expanded_url": "https://x.com/needygirl_anime/status/2095829240394453017/photo/1",
+              "media_key": "3_2092156203384356864",
+              "start": 176,
+              "url": "https://t.co/cXH5PDEo5j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095829240394453017",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2092156203384356864"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 4270,
+          "like_count": 262,
+          "quote_count": 4,
+          "reply_count": 0,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "/⋰\nBlu-ray&amp;DVD第3巻\n発売まであと5⃣日！\n\\⋱\n \n9/9㊌発売🎀\nBlu-ray&amp;DVD第3巻には\n第6～8話が収録！\n\nキャラクター原案\n#お久しぶり 描き下ろしによる\n美血華と禰󠄀智禍さまがジャケットに登場！\n\n🧬詳細\nBlu-ray&amp;DVD：https://t.co/Ree0gfbIpL\n\n#ニディガ https://t.co/cXH5PDEo5j"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "线下查无此人｜不安定｜LGBTQ全友好🌈👩‍❤️‍👩｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1\nbluesky：tongchan-2008 ←🔪🩸💊",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "rain_kawaii1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tong_u._.u_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tong_u._.u_",
+                "start": 0,
+                "url": "https://t.co/GZHx8f2s8R"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2095867360448217285",
+        "name": "tong_u._.u_",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043915964559835136/1776143589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043920464872148992/gUpWTpWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 130,
+          "like_count": 1432,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 612
+        },
+        "url": "https://t.co/GZHx8f2s8R",
+        "username": "rain_kawaiiii1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-22T10:17:13.000Z",
+        "description": "『NEEDY GIRL OVERDOSE』アニメ公式アカウント｜TVアニメ26年4月より毎週土曜24:30～ 順次放送中｜アニメーション制作：Yostar Pictures｜【推奨タグ】#ニディガ ｜【ラジオ公式タグ】#ニディガラジオ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 98,
+                "start": 93,
+                "tag": "ニディガ"
+              },
+              {
+                "end": 117,
+                "start": 109,
+                "tag": "ニディガラジオ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "needygirl-anime.com",
+                "end": 23,
+                "expanded_url": "https://needygirl-anime.com/",
+                "start": 0,
+                "url": "https://t.co/6rMK2MS8Mu"
+              }
+            ]
+          }
+        },
+        "id": "1980941101763842049",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095854595641897303",
+        "name": "アニメ『NEEDY GIRL OVERDOSE』公式",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1980941101763842049/1773138366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031308461120884736/op5QKraD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47759,
+          "following_count": 33,
+          "like_count": 42,
+          "listed_count": 110,
+          "media_count": 897,
+          "tweet_count": 1832
+        },
+        "url": "https://t.co/6rMK2MS8Mu",
+        "username": "needygirl_anime",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

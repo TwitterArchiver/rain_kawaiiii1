@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097229959698038784"
+      ],
+      "media_source_tweet_id": [
+        "2097229981286027524"
+      ]
+    },
+    "author_id": "2043915964559835136",
+    "conversation_id": "2097295603411873918",
+    "created_at": "2026-09-08T12:06:52.000Z",
+    "display_text_range": [
+      0,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T13:06:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097295603411873918"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1776466730489163776",
+          "start": 3,
+          "username": "i_loxe_u"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Xy39ohWma6",
+          "end": 40,
+          "expanded_url": "https://x.com/i_loxe_u/status/2097229981286027524/photo/1",
+          "media_key": "3_2097229959698038784",
+          "start": 17,
+          "url": "https://t.co/Xy39ohWma6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097295603411873918",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2097229959698038784"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 44
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097229981286027524",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @i_loxe_u: 自主 https://t.co/Xy39ohWma6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2021,
+        "media_key": "3_2097229959698038784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRrbiWgbwAANu76.jpg",
+        "width": 3840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097229959698038784"
+          ],
+          "media_source_tweet_id": [
+            "2097229981286027524"
+          ]
+        },
+        "author_id": "2043915964559835136",
+        "conversation_id": "2097295603411873918",
+        "created_at": "2026-09-08T12:06:52.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T13:06:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097295603411873918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1776466730489163776",
+              "start": 3,
+              "username": "i_loxe_u"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xy39ohWma6",
+              "end": 40,
+              "expanded_url": "https://x.com/i_loxe_u/status/2097229981286027524/photo/1",
+              "media_key": "3_2097229959698038784",
+              "start": 17,
+              "url": "https://t.co/Xy39ohWma6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097295603411873918",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2097229959698038784"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 44
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097229981286027524",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @i_loxe_u: 自主 https://t.co/Xy39ohWma6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097229959698038784"
+          ]
+        },
+        "author_id": "1776466730489163776",
+        "conversation_id": "2097229981286027524",
+        "created_at": "2026-09-08T07:46:06.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T08:46:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097229981286027524"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xy39ohWma6",
+              "end": 26,
+              "expanded_url": "https://x.com/i_loxe_u/status/2097229981286027524/photo/1",
+              "media_key": "3_2097229959698038784",
+              "start": 3,
+              "url": "https://t.co/Xy39ohWma6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097229981286027524",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2097229959698038784"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 2952,
+          "like_count": 408,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "自主 https://t.co/Xy39ohWma6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "线下查无此人｜不安定｜LGBTQ全友好🌈👩‍❤️‍👩｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1\nbluesky：tongchan-2008 ←🔪🩸💊\n🚪8.8 仅好友位扩列纯乞讨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "rain_kawaii1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tong_u._.u_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tong_u._.u_",
+                "start": 0,
+                "url": "https://t.co/GZHx8f2s8R"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2097295603411873918",
+        "name": "tong_u._.u_",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043915964559835136/1776143589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043920464872148992/gUpWTpWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 142,
+          "like_count": 1562,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 678
+        },
+        "url": "https://t.co/GZHx8f2s8R",
+        "username": "rain_kawaiiii1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-06T04:27:34.000Z",
+        "description": "",
+        "id": "1776466730489163776",
+        "is_identity_verified": false,
+        "location": "依頼/DM",
+        "most_recent_tweet_id": "2097292784084668849",
+        "name": "໊",
+        "pinned_tweet_id": "2097229981286027524",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1776466730489163776/1784210580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077755835292524544/oKnjJt2R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10368,
+          "following_count": 15,
+          "like_count": 33815,
+          "listed_count": 20,
+          "media_count": 4,
+          "tweet_count": 10
+        },
+        "url": "",
+        "username": "i_loxe_u",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

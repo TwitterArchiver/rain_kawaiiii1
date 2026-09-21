@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043915964559835136",
+    "conversation_id": "2098453575215321582",
+    "created_at": "2026-09-11T16:48:14.000Z",
+    "display_text_range": [
+      0,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T17:48:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098453575215321582"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1779747754216198144",
+          "start": 3,
+          "username": "Mercury_97z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098453575215321582",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 90
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098242067399049572",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mercury_97z: 不劳而获已经从一个贬义词变成我的梦想了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043915964559835136",
+        "conversation_id": "2098453575215321582",
+        "created_at": "2026-09-11T16:48:14.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T17:48:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098453575215321582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1779747754216198144",
+              "start": 3,
+              "username": "Mercury_97z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098453575215321582",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 90
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098242067399049572",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Mercury_97z: 不劳而获已经从一个贬义词变成我的梦想了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779747754216198144",
+        "conversation_id": "2098242067399049572",
+        "created_at": "2026-09-11T02:47:46.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T03:47:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098242067399049572"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098242067399049572",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 10252,
+          "like_count": 615,
+          "quote_count": 4,
+          "reply_count": 34,
+          "retweet_count": 90
+        },
+        "reply_settings": "everyone",
+        "text": "不劳而获已经从一个贬义词变成我的梦想了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "description": "线下查无此人｜不安定｜LGBTQ全友好🌈👩‍❤️‍👩｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1\nbluesky：tongchan-2008 ←🔪🩸💊\n🚪8.8 仅好友位扩列纯乞讨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "rain_kawaii1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tong_u._.u_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tong_u._.u_",
+                "start": 0,
+                "url": "https://t.co/GZHx8f2s8R"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2098453575215321582",
+        "name": "tong_u._.u_",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043915964559835136/1776143589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043920464872148992/gUpWTpWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 149,
+          "like_count": 1706,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 755
+        },
+        "url": "https://t.co/GZHx8f2s8R",
+        "username": "rain_kawaiiii1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-15T05:45:24.000Z",
+        "description": "热爱蓝色/双/超爱动漫/热爱美好肉体和有趣的帖子/爱互动/听得杂/看得杂/人有点乱七八糟/🈲️4i/🈲️zz相关话题/讨厌傻福会拉黑",
+        "id": "1779747754216198144",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098393862897324330",
+        "name": "苔咩咩𛰙᭜𖫴𖫰𖫱𖫳𖫲꛰ᩝ︪᭜𖫴𖫰𖫱𖫳𖫲꛰ᩝ𛰚",
+        "pinned_tweet_id": "2096992041058423289",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1779747754216198144/1775748377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005372844805636096/6WLieqNr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2371,
+          "following_count": 1709,
+          "like_count": 52541,
+          "listed_count": 8,
+          "media_count": 1226,
+          "tweet_count": 8121
+        },
+        "url": "",
+        "username": "Mercury_97z",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

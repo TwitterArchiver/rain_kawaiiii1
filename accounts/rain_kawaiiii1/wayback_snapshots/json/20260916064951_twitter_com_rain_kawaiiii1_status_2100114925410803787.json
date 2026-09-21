@@ -1,0 +1,389 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2086664251503169536"
+      ],
+      "media_source_tweet_id": [
+        "2086664467610538228"
+      ]
+    },
+    "author_id": "2043915964559835136",
+    "conversation_id": "2100114925410803787",
+    "created_at": "2026-09-16T06:49:51.000Z",
+    "display_text_range": [
+      0,
+      80
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T07:49:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100114925410803787"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 55,
+          "start": 34,
+          "tag": "テクノポップ・有機・シンセサイザーちゃん"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1393471785471942656",
+          "start": 3,
+          "username": "Fox_Kikumi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/405SHzQ44r",
+          "end": 80,
+          "expanded_url": "https://x.com/Fox_Kikumi/status/2086664467610538228/video/1",
+          "media_key": "13_2086664251503169536",
+          "start": 57,
+          "url": "https://t.co/405SHzQ44r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100114925410803787",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2086664251503169536"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 192
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086664467610538228",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Fox_Kikumi: 【PV】me・愛・ラ・sun・虫\n[#テクノポップ・有機・シンセサイザーちゃん] https://t.co/405SHzQ44r"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 40375,
+        "height": 1080,
+        "media_key": "13_2086664251503169536",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2086664251503169536/img/PCcupqAEqmYL0Td0.jpg",
+        "public_metrics": {
+          "view_count": 10675
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2086664251503169536/pl/dy9DkjHKJRaf7JxT.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086664251503169536/vid/avc1/480x360/ktgmYH2wGsM3vJot.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086664251503169536/vid/avc1/360x270/Mq7uRZbwxsp-AfRy.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086664251503169536/vid/avc1/1444x1080/HVnml3L3WfS2oHlD.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086664251503169536/vid/avc1/962x720/AaP0ORUjRTBxupzo.mp4"
+          }
+        ],
+        "width": 1444
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2086664251503169536"
+          ],
+          "media_source_tweet_id": [
+            "2086664467610538228"
+          ]
+        },
+        "author_id": "2043915964559835136",
+        "conversation_id": "2100114925410803787",
+        "created_at": "2026-09-16T06:49:51.000Z",
+        "display_text_range": [
+          0,
+          80
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T07:49:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100114925410803787"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 55,
+              "start": 34,
+              "tag": "テクノポップ・有機・シンセサイザーちゃん"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1393471785471942656",
+              "start": 3,
+              "username": "Fox_Kikumi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/405SHzQ44r",
+              "end": 80,
+              "expanded_url": "https://x.com/Fox_Kikumi/status/2086664467610538228/video/1",
+              "media_key": "13_2086664251503169536",
+              "start": 57,
+              "url": "https://t.co/405SHzQ44r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100114925410803787",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2086664251503169536"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 192
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086664467610538228",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Fox_Kikumi: 【PV】me・愛・ラ・sun・虫\n[#テクノポップ・有機・シンセサイザーちゃん] https://t.co/405SHzQ44r"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2086664251503169536"
+          ]
+        },
+        "author_id": "1393471785471942656",
+        "conversation_id": "2086664467610538228",
+        "created_at": "2026-08-10T04:02:32.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T05:02:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086664467610538228"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 18,
+              "tag": "テクノポップ・有機・シンセサイザーちゃん"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/405SHzQ44r",
+              "end": 64,
+              "expanded_url": "https://x.com/Fox_Kikumi/status/2086664467610538228/video/1",
+              "media_key": "13_2086664251503169536",
+              "start": 41,
+              "url": "https://t.co/405SHzQ44r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086664467610538228",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2086664251503169536"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 355,
+          "impression_count": 32972,
+          "like_count": 1340,
+          "quote_count": 6,
+          "reply_count": 2,
+          "retweet_count": 192
+        },
+        "reply_settings": "everyone",
+        "text": "【PV】me・愛・ラ・sun・虫\n[#テクノポップ・有機・シンセサイザーちゃん] https://t.co/405SHzQ44r"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "线下查无此人｜不安定｜LGBTQ全友好🌈👩‍❤️‍👩｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1\nbluesky：tongchan-2008 ←🔪🩸💊\n🚪8.8 仅好友位扩列纯乞讨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "rain_kawaii1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tong_u._.u_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tong_u._.u_",
+                "start": 0,
+                "url": "https://t.co/GZHx8f2s8R"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2100114925410803787",
+        "name": "tong_u._.u_",
+        "pinned_tweet_id": "2098673623397765133",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043915964559835136/1776143589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043920464872148992/gUpWTpWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 157,
+          "like_count": 1796,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 795
+        },
+        "url": "https://t.co/GZHx8f2s8R",
+        "username": "rain_kawaiiii1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-05-15T07:42:30.000Z",
+        "description": "#苦米 /Kumi￤🎨 Illustration & Animation￤中文￤依赖于翻译器￤联络📩foxkikumi@gmail.com",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "苦米"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/HfKKMSw",
+                "end": 23,
+                "expanded_url": "https://b23.tv/HfKKMSw",
+                "start": 0,
+                "url": "https://t.co/adZh2cyd96"
+              }
+            ]
+          }
+        },
+        "id": "1393471785471942656",
+        "is_identity_verified": false,
+        "location": "(´,,•ω•,,)  bilibili➡️",
+        "most_recent_tweet_id": "2099678490459267209",
+        "name": "苦米🩵Fox-Kikumi",
+        "pinned_tweet_id": "1829182660385886650",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1393471785471942656/1759761259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045708311782453248/dWqKOUXc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10462,
+          "following_count": 988,
+          "like_count": 20725,
+          "listed_count": 54,
+          "media_count": 568,
+          "tweet_count": 810
+        },
+        "url": "https://t.co/adZh2cyd96",
+        "username": "Fox_Kikumi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

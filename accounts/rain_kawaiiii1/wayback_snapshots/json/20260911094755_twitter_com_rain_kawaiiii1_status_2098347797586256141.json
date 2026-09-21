@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043915964559835136",
+    "conversation_id": "2098347797586256141",
+    "created_at": "2026-09-11T09:47:55.000Z",
+    "display_text_range": [
+      0,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T10:47:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098347797586256141"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2087523845901049856",
+          "start": 3,
+          "username": "suan4hjwnms"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098347797586256141",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098175494818873749",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @suan4hjwnms: 把推特当许愿柳，没有副作用，也没用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043915964559835136",
+        "conversation_id": "2098347797586256141",
+        "created_at": "2026-09-11T09:47:55.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T10:47:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098347797586256141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2087523845901049856",
+              "start": 3,
+              "username": "suan4hjwnms"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098347797586256141",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098175494818873749",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @suan4hjwnms: 把推特当许愿柳，没有副作用，也没用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2087523845901049856",
+        "conversation_id": "2098175494818873749",
+        "created_at": "2026-09-10T22:23:14.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T23:23:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098175494818873749"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098175494818873749",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5395,
+          "like_count": 215,
+          "quote_count": 4,
+          "reply_count": 15,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "把推特当许愿柳，没有副作用，也没用"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "线下查无此人｜不安定｜LGBTQ全友好🌈👩‍❤️‍👩｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1\nbluesky：tongchan-2008 ←🔪🩸💊\n🚪8.8 仅好友位扩列纯乞讨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "rain_kawaii1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tong_u._.u_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tong_u._.u_",
+                "start": 0,
+                "url": "https://t.co/GZHx8f2s8R"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2098347797586256141",
+        "name": "tong_u._.u_",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043915964559835136/1776143589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043920464872148992/gUpWTpWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 148,
+          "like_count": 1695,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 750
+        },
+        "url": "https://t.co/GZHx8f2s8R",
+        "username": "rain_kawaiiii1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-12T12:58:00.000Z",
+        "description": "oder/bpd/pink/🩸\n同类互fo 没回发私信给我就好\n联系不到我找@lyxz738 @T0X1C_R3B0Rn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 38,
+                "username": "lyxz738"
+              },
+              {
+                "end": 60,
+                "start": 47,
+                "username": "T0X1C_R3B0Rn"
+              }
+            ]
+          }
+        },
+        "id": "2087523845901049856",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098347185792262570",
+        "name": "小酸4.0",
+        "pinned_tweet_id": "2088053477302055155",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2087523845901049856/1786665438",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092618861329911808/N4KIRah-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 345,
+          "like_count": 618,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 601
+        },
+        "url": "",
+        "username": "suan4hjwnms",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

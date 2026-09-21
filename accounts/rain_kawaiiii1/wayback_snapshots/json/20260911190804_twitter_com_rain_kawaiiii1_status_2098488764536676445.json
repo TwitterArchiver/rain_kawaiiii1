@@ -1,0 +1,360 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098342315953889281",
+        "3_2098342315953938432"
+      ],
+      "media_source_tweet_id": [
+        "2098342326422929470",
+        "2098342326422929470"
+      ]
+    },
+    "author_id": "2043915964559835136",
+    "conversation_id": "2098488764536676445",
+    "created_at": "2026-09-11T19:08:04.000Z",
+    "display_text_range": [
+      0,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T20:08:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098488764536676445"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2075837788889706496",
+          "start": 3,
+          "username": "HiroLi2002"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sHCE4Sh3nK",
+          "end": 52,
+          "expanded_url": "https://x.com/HiroLi2002/status/2098342326422929470/photo/1",
+          "media_key": "3_2098342315953889281",
+          "start": 29,
+          "url": "https://t.co/sHCE4Sh3nK"
+        },
+        {
+          "display_url": "pic.x.com/sHCE4Sh3nK",
+          "end": 52,
+          "expanded_url": "https://x.com/HiroLi2002/status/2098342326422929470/photo/1",
+          "media_key": "3_2098342315953938432",
+          "start": 29,
+          "url": "https://t.co/sHCE4Sh3nK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098488764536676445",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2098342315953889281"
+      },
+      {
+        "media_key": "3_2098342315953938432"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 477
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098342326422929470",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HiroLi2002: 去死去死去死去死去死去死 https://t.co/sHCE4Sh3nK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 821,
+        "media_key": "3_2098342315953889281",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR7POAeaIAEQ3iT.jpg",
+        "width": 1095
+      },
+      {
+        "height": 1220,
+        "media_key": "3_2098342315953938432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR7POAea4AAlzyH.jpg",
+        "width": 1628
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098342315953889281",
+            "3_2098342315953938432"
+          ],
+          "media_source_tweet_id": [
+            "2098342326422929470",
+            "2098342326422929470"
+          ]
+        },
+        "author_id": "2043915964559835136",
+        "conversation_id": "2098488764536676445",
+        "created_at": "2026-09-11T19:08:04.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T20:08:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098488764536676445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2075837788889706496",
+              "start": 3,
+              "username": "HiroLi2002"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sHCE4Sh3nK",
+              "end": 52,
+              "expanded_url": "https://x.com/HiroLi2002/status/2098342326422929470/photo/1",
+              "media_key": "3_2098342315953889281",
+              "start": 29,
+              "url": "https://t.co/sHCE4Sh3nK"
+            },
+            {
+              "display_url": "pic.x.com/sHCE4Sh3nK",
+              "end": 52,
+              "expanded_url": "https://x.com/HiroLi2002/status/2098342326422929470/photo/1",
+              "media_key": "3_2098342315953938432",
+              "start": 29,
+              "url": "https://t.co/sHCE4Sh3nK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098488764536676445",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098342315953889281"
+          },
+          {
+            "media_key": "3_2098342315953938432"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 477
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098342326422929470",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HiroLi2002: 去死去死去死去死去死去死 https://t.co/sHCE4Sh3nK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098342315953889281",
+            "3_2098342315953938432"
+          ]
+        },
+        "author_id": "2075837788889706496",
+        "conversation_id": "2098342326422929470",
+        "created_at": "2026-09-11T09:26:10.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T10:26:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098342326422929470"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sHCE4Sh3nK",
+              "end": 36,
+              "expanded_url": "https://x.com/HiroLi2002/status/2098342326422929470/photo/1",
+              "media_key": "3_2098342315953889281",
+              "start": 13,
+              "url": "https://t.co/sHCE4Sh3nK"
+            },
+            {
+              "display_url": "pic.x.com/sHCE4Sh3nK",
+              "end": 36,
+              "expanded_url": "https://x.com/HiroLi2002/status/2098342326422929470/photo/1",
+              "media_key": "3_2098342315953938432",
+              "start": 13,
+              "url": "https://t.co/sHCE4Sh3nK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098342326422929470",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098342315953889281"
+          },
+          {
+            "media_key": "3_2098342315953938432"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 271,
+          "impression_count": 22663,
+          "like_count": 3167,
+          "quote_count": 5,
+          "reply_count": 5,
+          "retweet_count": 477
+        },
+        "reply_settings": "everyone",
+        "text": "去死去死去死去死去死去死 https://t.co/sHCE4Sh3nK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "线下查无此人｜不安定｜LGBTQ全友好🌈👩‍❤️‍👩｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1\nbluesky：tongchan-2008 ←🔪🩸💊\n🚪8.8 仅好友位扩列纯乞讨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "rain_kawaii1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tong_u._.u_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tong_u._.u_",
+                "start": 0,
+                "url": "https://t.co/GZHx8f2s8R"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2098488764536676445",
+        "name": "tong_u._.u_",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043915964559835136/1776143589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043920464872148992/gUpWTpWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 149,
+          "like_count": 1715,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 759
+        },
+        "url": "https://t.co/GZHx8f2s8R",
+        "username": "rain_kawaiiii1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-11T07:03:17.000Z",
+        "description": "去死去死去死去死",
+        "id": "2075837788889706496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098470982457630864",
+        "name": "小学生",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2075837788889706496/1783753890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095139886030635009/jKHnzKFa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 32,
+          "like_count": 999,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 68
+        },
+        "url": "",
+        "username": "HiroLi2002",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

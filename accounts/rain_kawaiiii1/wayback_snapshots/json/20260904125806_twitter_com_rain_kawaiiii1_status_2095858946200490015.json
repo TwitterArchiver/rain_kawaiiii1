@@ -1,0 +1,390 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095690979798052864"
+      ],
+      "media_source_tweet_id": [
+        "2095690989868630290"
+      ]
+    },
+    "author_id": "2043915964559835136",
+    "conversation_id": "2095858946200490015",
+    "created_at": "2026-09-04T12:58:06.000Z",
+    "display_text_range": [
+      0,
+      129
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T13:58:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095858946200490015"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 83,
+          "start": 73,
+          "tag": "NEEDY_pic"
+        },
+        {
+          "end": 105,
+          "start": 85,
+          "tag": "NEEDY_GIRL_OVERDOSE"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1432839336362315782",
+          "start": 3,
+          "username": "kirach_Y"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aDeQ5Qs8n1",
+          "end": 129,
+          "expanded_url": "https://x.com/kirach_Y/status/2095690989868630290/photo/1",
+          "media_key": "3_2095690979798052864",
+          "start": 106,
+          "url": "https://t.co/aDeQ5Qs8n1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095858946200490015",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2095690979798052864"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 177
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095690989868630290",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kirach_Y: ジェルばんは♡\n超絶最かわ猫メイド超てんちゃんだよ☆\n今日もキミたちのこと、\nちゃ〜んと救済してあげるね♡\n†昇天†\n#NEEDY_pic\n #NEEDY_GIRL_OVERDOSE https://t.co/aDeQ5Qs8n1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2095690979798052864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRVj17nacAAHrRR.jpg",
+        "width": 3278
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095690979798052864"
+          ],
+          "media_source_tweet_id": [
+            "2095690989868630290"
+          ]
+        },
+        "author_id": "2043915964559835136",
+        "conversation_id": "2095858946200490015",
+        "created_at": "2026-09-04T12:58:06.000Z",
+        "display_text_range": [
+          0,
+          129
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T13:58:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095858946200490015"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 83,
+              "start": 73,
+              "tag": "NEEDY_pic"
+            },
+            {
+              "end": 105,
+              "start": 85,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1432839336362315782",
+              "start": 3,
+              "username": "kirach_Y"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aDeQ5Qs8n1",
+              "end": 129,
+              "expanded_url": "https://x.com/kirach_Y/status/2095690989868630290/photo/1",
+              "media_key": "3_2095690979798052864",
+              "start": 106,
+              "url": "https://t.co/aDeQ5Qs8n1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095858946200490015",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2095690979798052864"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 177
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095690989868630290",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kirach_Y: ジェルばんは♡\n超絶最かわ猫メイド超てんちゃんだよ☆\n今日もキミたちのこと、\nちゃ〜んと救済してあげるね♡\n†昇天†\n#NEEDY_pic\n #NEEDY_GIRL_OVERDOSE https://t.co/aDeQ5Qs8n1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095690979798052864"
+          ]
+        },
+        "author_id": "1432839336362315782",
+        "conversation_id": "2095690989868630290",
+        "created_at": "2026-09-04T01:50:42.000Z",
+        "display_text_range": [
+          0,
+          91
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T02:50:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095690989868630290"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 69,
+              "start": 59,
+              "tag": "NEEDY_pic"
+            },
+            {
+              "end": 91,
+              "start": 71,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aDeQ5Qs8n1",
+              "end": 115,
+              "expanded_url": "https://x.com/kirach_Y/status/2095690989868630290/photo/1",
+              "media_key": "3_2095690979798052864",
+              "start": 92,
+              "url": "https://t.co/aDeQ5Qs8n1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095690989868630290",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2095690979798052864"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 158,
+          "impression_count": 12533,
+          "like_count": 1377,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 177
+        },
+        "reply_settings": "everyone",
+        "text": "ジェルばんは♡\n超絶最かわ猫メイド超てんちゃんだよ☆\n今日もキミたちのこと、\nちゃ〜んと救済してあげるね♡\n†昇天†\n#NEEDY_pic\n #NEEDY_GIRL_OVERDOSE https://t.co/aDeQ5Qs8n1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "线下查无此人｜不安定｜LGBTQ全友好🌈👩‍❤️‍👩｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1\nbluesky：tongchan-2008 ←🔪🩸💊",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "rain_kawaii1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tong_u._.u_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tong_u._.u_",
+                "start": 0,
+                "url": "https://t.co/GZHx8f2s8R"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2095858946200490015",
+        "name": "tong_u._.u_",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043915964559835136/1776143589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043920464872148992/gUpWTpWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 130,
+          "like_count": 1431,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 611
+        },
+        "url": "https://t.co/GZHx8f2s8R",
+        "username": "rain_kawaiiii1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-08-31T22:55:02.000Z",
+        "description": "🎀Illust・日常🎀￤  FAﾀｸﾞ ▹ ▸ #きらに_らぁと❕￤ｽﾏﾎ指描き遅筆￤無断使用･AI学習etc.禁止￤skeb▹▸https://t.co/7ZM54F3mHk￤神戸ｺﾝｶﾍ@nao_nn9🥕",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 32,
+                "start": 24,
+                "tag": "きらに_らぁと"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 103,
+                "start": 95,
+                "username": "nao_nn9"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@kirach_Y",
+                "end": 88,
+                "expanded_url": "https://skeb.jp/@kirach_Y",
+                "start": 65,
+                "url": "https://t.co/7ZM54F3mHk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/ki0829",
+                "end": 23,
+                "expanded_url": "https://lit.link/ki0829",
+                "start": 0,
+                "url": "https://t.co/lur4fJQQSS"
+              }
+            ]
+          }
+        },
+        "id": "1432839336362315782",
+        "is_identity_verified": false,
+        "location": "skebﾘｸｴｽﾄ募集中💭",
+        "most_recent_tweet_id": "2095856118002335941",
+        "name": "きらにら🎀",
+        "pinned_tweet_id": "2094127906444505472",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1432839336362315782/1745959873",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068561724089982976/onU2IFT1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5135,
+          "following_count": 395,
+          "like_count": 248016,
+          "listed_count": 38,
+          "media_count": 1684,
+          "tweet_count": 66521
+        },
+        "url": "https://t.co/lur4fJQQSS",
+        "username": "kirach_Y",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

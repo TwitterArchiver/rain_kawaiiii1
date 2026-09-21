@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043915964559835136",
+    "conversation_id": "2097688133496148019",
+    "created_at": "2026-09-11T01:00:13.000Z",
+    "display_text_range": [
+      9,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T02:00:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098214999340851544"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2087477029121740800",
+          "start": 0,
+          "username": "Meng0o0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098214999340851544",
+    "in_reply_to_user_id": "2087477029121740800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097688133496148019",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Meng0o0 还有后续。。笑得不行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043915964559835136",
+        "conversation_id": "2097688133496148019",
+        "created_at": "2026-09-11T01:00:13.000Z",
+        "display_text_range": [
+          9,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T02:00:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098214999340851544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2087477029121740800",
+              "start": 0,
+              "username": "Meng0o0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098214999340851544",
+        "in_reply_to_user_id": "2087477029121740800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097688133496148019",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Meng0o0 还有后续。。笑得不行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2087477029121740800",
+        "conversation_id": "2097688133496148019",
+        "created_at": "2026-09-09T14:06:38.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T15:06:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097688133496148019"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097688133496148019",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 76146,
+          "like_count": 1382,
+          "quote_count": 13,
+          "reply_count": 488,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "有人好奇我妈是怎么拿跳蛋打我的 因为我买的是有线跳蛋 我妈生气的时候直接cos那个文茜使用锁链毒蛇把我咬住了 疼的不行"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "description": "线下查无此人｜不安定｜LGBTQ全友好🌈👩‍❤️‍👩｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1\nbluesky：tongchan-2008 ←🔪🩸💊\n🚪8.8 仅好友位扩列纯乞讨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "rain_kawaii1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tong_u._.u_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tong_u._.u_",
+                "start": 0,
+                "url": "https://t.co/GZHx8f2s8R"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2098214999340851544",
+        "name": "tong_u._.u_",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043915964559835136/1776143589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043920464872148992/gUpWTpWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 147,
+          "like_count": 1670,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 737
+        },
+        "url": "https://t.co/GZHx8f2s8R",
+        "username": "rain_kawaiiii1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-12T09:51:52.000Z",
+        "description": "人生就是耍起",
+        "id": "2087477029121740800",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098190422887563337",
+        "name": "蓝梦",
+        "pinned_tweet_id": "2098043737805086816",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2087477029121740800/1786528803",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097997981320683520/hzWdET2F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2221,
+          "following_count": 8,
+          "like_count": 952,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 279
+        },
+        "url": "",
+        "username": "Meng0o0",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

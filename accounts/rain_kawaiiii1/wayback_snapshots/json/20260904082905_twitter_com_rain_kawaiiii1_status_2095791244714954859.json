@@ -1,0 +1,527 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043915964559835136",
+    "conversation_id": "2095584039336083792",
+    "created_at": "2026-09-04T08:29:05.000Z",
+    "display_text_range": [
+      21,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T09:29:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095791244714954859"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1665304321066684416",
+          "start": 0,
+          "username": "OoOooo0518"
+        },
+        {
+          "end": 20,
+          "id": "1900779585832210432",
+          "start": 12,
+          "username": "71y11Qy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095791244714954859",
+    "in_reply_to_user_id": "1665304321066684416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095584039336083792",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OoOooo0518 @71y11Qy 蹲"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1707,
+        "media_key": "3_2095584027122257920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRUCkd2a0AAGJG1.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1601,
+        "media_key": "3_2095584027151642624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRUCkd9bMAATG0G.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043915964559835136",
+        "conversation_id": "2095584039336083792",
+        "created_at": "2026-09-04T08:29:05.000Z",
+        "display_text_range": [
+          21,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T09:29:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095791244714954859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1665304321066684416",
+              "start": 0,
+              "username": "OoOooo0518"
+            },
+            {
+              "end": 20,
+              "id": "1900779585832210432",
+              "start": 12,
+              "username": "71y11Qy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095791244714954859",
+        "in_reply_to_user_id": "1665304321066684416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095584039336083792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OoOooo0518 @71y11Qy 蹲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095584027122257920",
+            "3_2095584027151642624"
+          ]
+        },
+        "author_id": "1665304321066684416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2095584039336083792",
+        "created_at": "2026-09-03T18:45:43.000Z",
+        "display_text_range": [
+          0,
+          181
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T19:45:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095584039336083792"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "od"
+            },
+            {
+              "end": 13,
+              "start": 4,
+              "tag": "overdose"
+            },
+            {
+              "end": 17,
+              "start": 14,
+              "tag": "药商"
+            },
+            {
+              "end": 21,
+              "start": 18,
+              "tag": "药代"
+            },
+            {
+              "end": 26,
+              "start": 22,
+              "tag": "亚文化"
+            },
+            {
+              "end": 31,
+              "start": 27,
+              "tag": "地雷系"
+            },
+            {
+              "end": 36,
+              "start": 32,
+              "tag": "愈美片"
+            },
+            {
+              "end": 42,
+              "start": 37,
+              "tag": "普瑞巴林"
+            },
+            {
+              "end": 49,
+              "start": 43,
+              "tag": "trans"
+            },
+            {
+              "end": 54,
+              "start": 50,
+              "tag": "mtf"
+            },
+            {
+              "end": 94,
+              "start": 91,
+              "tag": "抽奖"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ronWCyguOr",
+              "end": 205,
+              "expanded_url": "https://x.com/OoOooo0518/status/2095584039336083792/photo/1",
+              "media_key": "3_2095584027122257920",
+              "start": 182,
+              "url": "https://t.co/ronWCyguOr"
+            },
+            {
+              "display_url": "pic.x.com/ronWCyguOr",
+              "end": 205,
+              "expanded_url": "https://x.com/OoOooo0518/status/2095584039336083792/photo/1",
+              "media_key": "3_2095584027151642624",
+              "start": 182,
+              "url": "https://t.co/ronWCyguOr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095584039336083792",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095584027122257920"
+          },
+          {
+            "media_key": "3_2095584027151642624"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "od"
+              },
+              {
+                "end": 13,
+                "start": 4,
+                "tag": "overdose"
+              },
+              {
+                "end": 17,
+                "start": 14,
+                "tag": "药商"
+              },
+              {
+                "end": 21,
+                "start": 18,
+                "tag": "药代"
+              },
+              {
+                "end": 26,
+                "start": 22,
+                "tag": "亚文化"
+              },
+              {
+                "end": 31,
+                "start": 27,
+                "tag": "地雷系"
+              },
+              {
+                "end": 36,
+                "start": 32,
+                "tag": "愈美片"
+              },
+              {
+                "end": 42,
+                "start": 37,
+                "tag": "普瑞巴林"
+              },
+              {
+                "end": 49,
+                "start": 43,
+                "tag": "trans"
+              },
+              {
+                "end": 54,
+                "start": 50,
+                "tag": "mtf"
+              },
+              {
+                "end": 94,
+                "start": 91,
+                "tag": "抽奖"
+              }
+            ]
+          },
+          "text": "#od #overdose #药商 #药代 #亚文化 #地雷系 #愈美片 #普瑞巴林 #trans #mtf\n现在有普瑞巴林150mg版本渠道啦～～\n9.5日由grok在我所有含有 #抽奖 标签的帖子里面抽奖 在其中每一个帖子里面完成\n转发➕点赞➕评论🟰加一次中奖概率\n（前提是先关注了我的账号）\n——————————————————\n一等奖x1 - 愈美片3盒\n二等奖x2 - 愈美片2盒\n三等奖x3 - 超天酱拼豆周边(自选）\n\n⬇️下面是愈美片和普瑞巴林的价格⬇️\n\n愈美片云药 28r/盒    15mg/24t/盒\n         ✨10盒包邮    \n         ✨20盒22.5/盒         \n         ✨50盒25/盒\n\n普瑞巴林橙色 65r/盒    150mg/32t/盒\n         🌙10盒包邮\n         🌙30盒61/盒    \n         🌙50盒60/盒\n\n谢谢大家来买药才让我没有选择去死亡那条路，我本身只是个代理，价格完全由上头决定，冒着被晶的风险卖药，只是为了攒点钱，希望有一天能完成性别重置手术，虽然可能不是真正的女孩子，但是也算是满足了我的心愿，谢谢大家的转发评论点赞关注，谢谢大家，是所有oder们养活了我，是所有oder们在帮我完成梦想，再次感谢大家所有人的支持！！！"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1050,
+          "like_count": 61,
+          "quote_count": 0,
+          "reply_count": 33,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "#od #overdose #药商 #药代 #亚文化 #地雷系 #愈美片 #普瑞巴林 #trans #mtf\n现在有普瑞巴林150mg版本渠道啦～～\n9.5日由grok在我所有含有 #抽奖 标签的帖子里面抽奖 在其中每一个帖子里面完成\n转发➕点赞➕评论🟰加一次中奖概率\n（前提是先关注了我的账号）\n——————————————————\n一等奖x1 - 愈美片3盒 https://t.co/ronWCyguOr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "线下查无此人｜不安定｜LGBTQ全友好🌈👩‍❤️‍👩｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1\nbluesky：tongchan-2008 ←🔪🩸💊",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "rain_kawaii1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tong_u._.u_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tong_u._.u_",
+                "start": 0,
+                "url": "https://t.co/GZHx8f2s8R"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2095791244714954859",
+        "name": "tong_u._.u_",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043915964559835136/1776143589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043920464872148992/gUpWTpWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 130,
+          "like_count": 1415,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 600
+        },
+        "url": "https://t.co/GZHx8f2s8R",
+        "username": "rain_kawaiiii1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-04T10:27:54.000Z",
+        "description": "mtf 重抑重焦 无证含糖 你可以叫我O泡（大一休学中 欢迎互fo 我再次重生的妹妹:@OE3IIGFQRQ9473｜28r/盒出云药愈美片65r/盒出普瑞巴林橙色(150mg)以及免费咨询药物推荐电报联系https://t.co/hleBBuHP7a或X私信 还有：你可以在下面的链接里尽情去寻找你想要的药物",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 43,
+                "username": "OE3IIGFQRQ9473"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/melody_tik",
+                "end": 126,
+                "expanded_url": "http://t.me/melody_tik",
+                "start": 103,
+                "url": "https://t.co/hleBBuHP7a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "melodytik.github.io/overdose-and-d…",
+                "end": 23,
+                "expanded_url": "https://melodytik.github.io/overdose-and-drugs/",
+                "start": 0,
+                "url": "https://t.co/gVu7qbdlGJ"
+              }
+            ]
+          }
+        },
+        "id": "1665304321066684416",
+        "is_identity_verified": false,
+        "location": "杭州",
+        "most_recent_tweet_id": "2095787422412091423",
+        "name": "OoOooo",
+        "pinned_tweet_id": "2083268021070786824",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1665304321066684416/1770916243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082407067441381376/qdkgUI2W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 860,
+          "following_count": 346,
+          "like_count": 2811,
+          "listed_count": 2,
+          "media_count": 204,
+          "tweet_count": 1011
+        },
+        "url": "https://t.co/gVu7qbdlGJ",
+        "username": "OoOooo0518",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-15T05:22:37.000Z",
+        "description": "🚪纯绿88坐标10｜我叫71。或者兔牙。药物滥用，酒精滥用。穿孔，扩耳。我喜欢中西部情绪乐数摇黑金盯鞋以及很多。想和同类同好互fo 漏了请私信 我很好相处 喜欢有礼貌的人",
+        "id": "1900779585832210432",
+        "is_identity_verified": false,
+        "location": "瑞民街5号",
+        "most_recent_tweet_id": "2095779633480204332",
+        "name": "71",
+        "pinned_tweet_id": "2067931471990378637",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1900779585832210432/1742016360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976968577891659776/czXAeT_t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 730,
+          "following_count": 371,
+          "like_count": 4966,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 4064
+        },
+        "url": "",
+        "username": "71y11Qy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

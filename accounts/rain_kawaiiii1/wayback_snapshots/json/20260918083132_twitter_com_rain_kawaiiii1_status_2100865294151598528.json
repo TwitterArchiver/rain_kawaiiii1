@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043915964559835136",
+    "conversation_id": "2100865294151598528",
+    "created_at": "2026-09-18T08:31:32.000Z",
+    "display_text_range": [
+      0,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T09:31:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100865294151598528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2090485992373497856",
+          "start": 3,
+          "username": "Demonnn77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100865294151598528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 70
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100587586511417635",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Demonnn77: 医生，给我开点普瑞巴林，我神经不痛，单纯就想嗑药，你不开我就吊死在你家门口"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043915964559835136",
+        "conversation_id": "2100865294151598528",
+        "created_at": "2026-09-18T08:31:32.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T09:31:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100865294151598528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2090485992373497856",
+              "start": 3,
+              "username": "Demonnn77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100865294151598528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 70
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100587586511417635",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Demonnn77: 医生，给我开点普瑞巴林，我神经不痛，单纯就想嗑药，你不开我就吊死在你家门口"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2090485992373497856",
+        "conversation_id": "2100587586511417635",
+        "created_at": "2026-09-17T14:08:02.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T15:08:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100587586511417635"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100587586511417635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 9706,
+          "like_count": 383,
+          "quote_count": 2,
+          "reply_count": 16,
+          "retweet_count": 70
+        },
+        "reply_settings": "everyone",
+        "text": "医生，给我开点普瑞巴林，我神经不痛，单纯就想嗑药，你不开我就吊死在你家门口"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "线下查无此人｜不安定｜LGBTQ全友好🌈👩‍❤️‍👩｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1\nbluesky：tongchan-2008 ←🔪🩸💊\n🚪8.8 仅好友位扩列纯乞讨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "rain_kawaii1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tong_u._.u_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tong_u._.u_",
+                "start": 0,
+                "url": "https://t.co/GZHx8f2s8R"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2100865294151598528",
+        "name": "tong_u._.u_",
+        "pinned_tweet_id": "2098673623397765133",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043915964559835136/1776143589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043920464872148992/gUpWTpWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 158,
+          "like_count": 1863,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 817
+        },
+        "url": "https://t.co/GZHx8f2s8R",
+        "username": "rain_kawaiiii1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T17:11:25.000Z",
+        "description": "🌈🏳️‍🌈因为我的病就是没有感觉",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rin_demon",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rin_demon",
+                "start": 0,
+                "url": "https://t.co/KR3neoh0gz"
+              }
+            ]
+          }
+        },
+        "id": "2090485992373497856",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2100863850920956113",
+        "name": "三清剑",
+        "pinned_tweet_id": "2094497848444465386",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090485992373497856/1787253532",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100475696422486016/0LupcjRL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1320,
+          "following_count": 326,
+          "like_count": 3671,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 1258
+        },
+        "url": "https://t.co/KR3neoh0gz",
+        "username": "Demonnn77",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
