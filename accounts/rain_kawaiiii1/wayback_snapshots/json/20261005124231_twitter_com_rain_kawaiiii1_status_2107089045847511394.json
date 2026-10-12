@@ -1,0 +1,367 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043915964559835136",
+    "conversation_id": "2107089045847511394",
+    "created_at": "2026-10-05T12:42:31.000Z",
+    "display_text_range": [
+      0,
+      6
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T13:42:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2107089045847511394"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/chanhuixxs/sta…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/chanhuixxs/status/2107082461993988447",
+          "start": 7,
+          "url": "https://t.co/uKkfYQKpIR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107089045847511394",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107082461993988447",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "老吴老吴老吴 https://t.co/uKkfYQKpIR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2107081865735901184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT3bywfbEAAj5N2.jpg",
+        "width": 3072
+      },
+      {
+        "duration_ms": 10077,
+        "height": 1920,
+        "media_key": "13_2107081970643845120",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2107081970643845120/img/v9rsIKN0CU-zbe0B.jpg",
+        "public_metrics": {
+          "view_count": 8
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107081970643845120/vid/avc1/480x852/zr-vx27GNcEYVur2.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107081970643845120/vid/avc1/720x1280/M-n1p-Apnp4Abbwm.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107081970643845120/vid/avc1/1080x1920/bH-aW0sZZn9g5RwQ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2107081970643845120/pl/8FSO2wnHdM9-lybO.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107081970643845120/vid/avc1/320x568/wwnsbs6Ilr2Y1Skf.mp4"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "duration_ms": 4736,
+        "height": 1280,
+        "media_key": "13_2107082318267723776",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2107082318267723776/img/1dG8l5ZPpsrbB-qL.jpg",
+        "public_metrics": {
+          "view_count": 1
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107082318267723776/vid/avc1/320x568/Uk2hz2GtS09kgxG6.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107082318267723776/vid/avc1/480x852/ahjsQOSoiTxg1SRl.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107082318267723776/vid/avc1/720x1280/vgs8Cdwfudng-TLB.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2107082318267723776/pl/97zSeXUfHajafe8y.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043915964559835136",
+        "conversation_id": "2107089045847511394",
+        "created_at": "2026-10-05T12:42:31.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T13:42:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107089045847511394"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chanhuixxs/sta…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/chanhuixxs/status/2107082461993988447",
+              "start": 7,
+              "url": "https://t.co/uKkfYQKpIR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107089045847511394",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107082461993988447",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "老吴老吴老吴 https://t.co/uKkfYQKpIR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107081865735901184",
+            "13_2107081970643845120",
+            "13_2107082318267723776"
+          ]
+        },
+        "author_id": "2105393916111687680",
+        "conversation_id": "2107082461993988447",
+        "created_at": "2026-10-05T12:16:21.000Z",
+        "display_text_range": [
+          0,
+          104
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T13:16:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107082461993988447"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dAjmXVPw8M",
+              "end": 128,
+              "expanded_url": "https://x.com/chanhuixxs/status/2107082461993988447/video/1",
+              "media_key": "3_2107081865735901184",
+              "start": 105,
+              "url": "https://t.co/dAjmXVPw8M"
+            },
+            {
+              "display_url": "pic.x.com/dAjmXVPw8M",
+              "end": 128,
+              "expanded_url": "https://x.com/chanhuixxs/status/2107082461993988447/video/1",
+              "media_key": "13_2107081970643845120",
+              "start": 105,
+              "url": "https://t.co/dAjmXVPw8M"
+            },
+            {
+              "display_url": "pic.x.com/dAjmXVPw8M",
+              "end": 128,
+              "expanded_url": "https://x.com/chanhuixxs/status/2107082461993988447/video/1",
+              "media_key": "13_2107082318267723776",
+              "start": 105,
+              "url": "https://t.co/dAjmXVPw8M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107082461993988447",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2107081865735901184"
+          },
+          {
+            "media_key": "13_2107081970643845120"
+          },
+          {
+            "media_key": "13_2107082318267723776"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我想收门但是由于本人建模问题所以我受不了\n但是我有一只很漂亮的猫，所以我差不多算是个pimp了\n大家可以过我家猫的门，她的名字叫七宝\n过了门之后你会拿到她的一些丑图\n你也可以定制视频\n目前定价5r\n过门私信。 https://t.co/dAjmXVPw8M"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "线下查无此人｜不安定｜LGBTQ全友好🌈👩‍❤️‍👩｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1\nbluesky：tongchan-2008 ←🔪🩸💊\n🚪8.8 仅好友位扩列纯乞讨\n已成年休学中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "rain_kawaii1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tong_u._.u_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tong_u._.u_",
+                "start": 0,
+                "url": "https://t.co/GZHx8f1Ujj"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2107089045847511394",
+        "name": "tong_u._.u_",
+        "pinned_tweet_id": "2107025262856806842",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043915964559835136/1776143589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103533775343001600/xVd1jr9E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 675,
+          "following_count": 177,
+          "like_count": 2492,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 1199
+        },
+        "url": "https://t.co/GZHx8f1Ujj",
+        "username": "rain_kawaiiii1",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-30T20:27:41.000Z",
+        "description": "新启点。",
+        "id": "2105393916111687680",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107082461993988447",
+        "name": "?!",
+        "pinned_tweet_id": "2105522135263560048",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105844301133684736/-WFSpQkt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 60,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 35
+        },
+        "url": "",
+        "username": "chanhuixxs",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043915964559835136",
+    "conversation_id": "2103049904042266634",
+    "created_at": "2026-09-24T09:12:24.000Z",
+    "display_text_range": [
+      0,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T10:12:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103049904042266634"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1752957306889990144",
+          "start": 3,
+          "username": "jfeng202211"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103049904042266634",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102806991790055667",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jfeng202211: 穷的想把认识的人都挂闲鱼上当黑奴卖了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043915964559835136",
+        "conversation_id": "2103049904042266634",
+        "created_at": "2026-09-24T09:12:24.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T10:12:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103049904042266634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1752957306889990144",
+              "start": 3,
+              "username": "jfeng202211"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103049904042266634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102806991790055667",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jfeng202211: 穷的想把认识的人都挂闲鱼上当黑奴卖了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752957306889990144",
+        "conversation_id": "2102806991790055667",
+        "created_at": "2026-09-23T17:07:09.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T18:07:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102806991790055667"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2102806991790055667",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2625,
+          "like_count": 58,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "穷的想把认识的人都挂闲鱼上当黑奴卖了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "线下查无此人｜不安定｜LGBTQ全友好🌈👩‍❤️‍👩｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1\nbluesky：tongchan-2008 ←🔪🩸💊\n🚪8.8 仅好友位扩列纯乞讨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "rain_kawaii1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tong_u._.u_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tong_u._.u_",
+                "start": 0,
+                "url": "https://t.co/GZHx8f2s8R"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2103049904042266634",
+        "name": "tong_u._.u_",
+        "pinned_tweet_id": "2102659632435265719",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043915964559835136/1776143589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043920464872148992/gUpWTpWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 162,
+          "like_count": 2092,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 930
+        },
+        "url": "https://t.co/GZHx8f2s8R",
+        "username": "rain_kawaiiii1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-01T07:29:36.000Z",
+        "description": "接🥣语聊文聊瓦娱乐\n每天打瓦不撕逼不吵架 专注经营自己的唐氏生活。\n不玩4i。匿名信https://t.co/tWh7nC8Emc",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ye66023",
+                "end": 65,
+                "expanded_url": "http://ngl.link/ye66023",
+                "start": 42,
+                "url": "https://t.co/tWh7nC8Emc"
+              }
+            ]
+          }
+        },
+        "id": "1752957306889990144",
+        "is_identity_verified": false,
+        "location": "距你0.1km",
+        "most_recent_tweet_id": "2102814005576573428",
+        "name": "狗生堪忧",
+        "pinned_tweet_id": "2034072041364852837",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1752957306889990144/1784484236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078903631655686144/m4NJbiKw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 687,
+          "following_count": 85,
+          "like_count": 291,
+          "listed_count": 2,
+          "media_count": 39,
+          "tweet_count": 447
+        },
+        "url": "",
+        "username": "jfeng202211",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

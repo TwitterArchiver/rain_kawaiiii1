@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043915964559835136",
+    "conversation_id": "2102759473966449095",
+    "created_at": "2026-09-23T13:58:20.000Z",
+    "display_text_range": [
+      0,
+      152
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T14:58:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102759473966449095"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2081394969039024128",
+          "start": 3,
+          "username": "tos770"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102759473966449095",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9600
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102338558971482277",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tos770: 우울증이 무서운 이유\n\n부모님이랑 싸움 &gt;&gt; 죽어야지\n친구랑 싸움 &gt;&gt; 죽어야지\n입시 망할 거 같음 &gt;&gt; 죽어야지\n되는 일이 없음 &gt;&gt; 죽어야지\n배고픔 &gt;&gt; 죽어야지\n잠 옴 &gt;&gt; 죽어야지"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043915964559835136",
+        "conversation_id": "2102759473966449095",
+        "created_at": "2026-09-23T13:58:20.000Z",
+        "display_text_range": [
+          0,
+          152
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T14:58:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102759473966449095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2081394969039024128",
+              "start": 3,
+              "username": "tos770"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102759473966449095",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9600
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102338558971482277",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tos770: 우울증이 무서운 이유\n\n부모님이랑 싸움 &gt;&gt; 죽어야지\n친구랑 싸움 &gt;&gt; 죽어야지\n입시 망할 거 같음 &gt;&gt; 죽어야지\n되는 일이 없음 &gt;&gt; 죽어야지\n배고픔 &gt;&gt; 죽어야지\n잠 옴 &gt;&gt; 죽어야지"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2081394969039024128",
+        "conversation_id": "2102338558971482277",
+        "created_at": "2026-09-22T10:05:46.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T11:05:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102338558971482277"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2102338558971482277",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1962,
+          "impression_count": 637829,
+          "like_count": 34279,
+          "quote_count": 1158,
+          "reply_count": 60,
+          "retweet_count": 9600
+        },
+        "reply_settings": "everyone",
+        "text": "우울증이 무서운 이유\n\n부모님이랑 싸움 &gt;&gt; 죽어야지\n친구랑 싸움 &gt;&gt; 죽어야지\n입시 망할 거 같음 &gt;&gt; 죽어야지\n되는 일이 없음 &gt;&gt; 죽어야지\n배고픔 &gt;&gt; 죽어야지\n잠 옴 &gt;&gt; 죽어야지"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "线下查无此人｜不安定｜LGBTQ全友好🌈👩‍❤️‍👩｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1\nbluesky：tongchan-2008 ←🔪🩸💊\n🚪8.8 仅好友位扩列纯乞讨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "rain_kawaii1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tong_u._.u_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tong_u._.u_",
+                "start": 0,
+                "url": "https://t.co/GZHx8f2s8R"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2102759473966449095",
+        "name": "tong_u._.u_",
+        "pinned_tweet_id": "2101630503900295595",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043915964559835136/1776143589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043920464872148992/gUpWTpWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 161,
+          "like_count": 2044,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 904
+        },
+        "url": "https://t.co/GZHx8f2s8R",
+        "username": "rain_kawaiiii1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-26T15:05:49.000Z",
+        "description": "작이를 구합니다",
+        "id": "2081394969039024128",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102732075300524416",
+        "name": "엽오",
+        "pinned_tweet_id": "2100192846011936937",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099913901848870912/ESx4d3cH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 123,
+          "like_count": 1532,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 115
+        },
+        "url": "",
+        "username": "tos770",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

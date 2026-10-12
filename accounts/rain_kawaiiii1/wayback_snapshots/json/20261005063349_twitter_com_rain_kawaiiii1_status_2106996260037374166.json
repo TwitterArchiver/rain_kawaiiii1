@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043915964559835136",
+    "conversation_id": "2106797335904948654",
+    "created_at": "2026-10-05T06:33:49.000Z",
+    "display_text_range": [
+      12,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T07:33:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106996260037374166"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2066164606213795840",
+          "start": 0,
+          "username": "HelloLLQuQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106996260037374166",
+    "in_reply_to_user_id": "2066164606213795840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106797335904948654",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HelloLLQuQ 好帅"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2106797314237235201",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTzY_rjbgAErdjj.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043915964559835136",
+        "conversation_id": "2106797335904948654",
+        "created_at": "2026-10-05T06:33:49.000Z",
+        "display_text_range": [
+          12,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T07:33:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106996260037374166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2066164606213795840",
+              "start": 0,
+              "username": "HelloLLQuQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106996260037374166",
+        "in_reply_to_user_id": "2066164606213795840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106797335904948654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HelloLLQuQ 好帅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106797314237235201"
+          ]
+        },
+        "author_id": "2066164606213795840",
+        "conversation_id": "2106797335904948654",
+        "created_at": "2026-10-04T17:23:21.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T18:23:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106797335904948654"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ehMQrSdJLz",
+              "end": 33,
+              "expanded_url": "https://x.com/HelloLLQuQ/status/2106797335904948654/photo/1",
+              "media_key": "3_2106797314237235201",
+              "start": 10,
+              "url": "https://t.co/ehMQrSdJLz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106797335904948654",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106797314237235201"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 599,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呃啊怎么都是金属啊 https://t.co/ehMQrSdJLz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "线下查无此人｜不安定｜LGBTQ全友好🌈👩‍❤️‍👩｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1\nbluesky：tongchan-2008 ←🔪🩸💊\n🚪8.8 仅好友位扩列纯乞讨\n已成年休学中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "rain_kawaii1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tong_u._.u_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tong_u._.u_",
+                "start": 0,
+                "url": "https://t.co/GZHx8f1Ujj"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2106996260037374166",
+        "name": "tong_u._.u_",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043915964559835136/1776143589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103533775343001600/xVd1jr9E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 638,
+          "following_count": 175,
+          "like_count": 2477,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 1176
+        },
+        "url": "https://t.co/GZHx8f1Ujj",
+        "username": "rain_kawaiiii1",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-14T14:31:05.000Z",
+        "description": "透明画师-我会在这里补档我的画和发一些日常👉小红书指路：https://t.co/0VgJvwf8qZ防止被炸备用机@fdl2000513\n需要回关请私信我（我怕打扰到你）\n向我提问👉 https://t.co/TJeeFih2YN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 58,
+                "username": "fdl2000513"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "xhslink.com/m/73AamQYIbZG/",
+                "end": 51,
+                "expanded_url": "https://xhslink.com/m/73AamQYIbZG/",
+                "start": 28,
+                "url": "https://t.co/0VgJvwf8qZ"
+              },
+              {
+                "display_url": "ngl.link/%E7%BD%91%E7%B…",
+                "end": 116,
+                "expanded_url": "https://ngl.link/%E7%BD%91%E7%BB%9C%E4%BA%BA%E6%9C%BA",
+                "start": 93,
+                "url": "https://t.co/TJeeFih2YN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xhslink.com/m/73AamQYIbZG",
+                "end": 23,
+                "expanded_url": "https://xhslink.com/m/73AamQYIbZG",
+                "start": 0,
+                "url": "https://t.co/2McKGqqrDj"
+              }
+            ]
+          }
+        },
+        "id": "2066164606213795840",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2106797335904948654",
+        "name": "网络人机",
+        "pinned_tweet_id": "2092593900657725654",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2066164606213795840/1786723940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083114299472687104/B2x4dY6F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1188,
+          "following_count": 75,
+          "like_count": 302,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 259
+        },
+        "url": "https://t.co/2McKGqqrDj",
+        "username": "HelloLLQuQ",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

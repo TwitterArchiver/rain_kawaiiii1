@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043915964559835136",
+    "conversation_id": "2106638008942493958",
+    "created_at": "2026-10-04T06:50:15.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T07:50:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106638008942493958"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2078716467781013504",
+          "start": 3,
+          "username": "slearthly"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106638008942493958",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106462647084573033",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @slearthly: 自介8.0\n各位推u好这里是寒吟子\n轉生二世前身霧川島\n有進行一些糖藥代理\n座標廣東/产日09.11.13\nmtf/0der/自傷/低脂畫師/jumpstyler/ygo高手/INFP/天残家暴/非健全\n不會社交別教我做事對不起 我不回你是我是真不…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2106462630223499264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTuomgcbUAAIBGP.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2106462630227673088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTuomgdbAAA-nIk.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2106462630206668800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTuomgYagAArmQt.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043915964559835136",
+        "conversation_id": "2106638008942493958",
+        "created_at": "2026-10-04T06:50:15.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T07:50:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106638008942493958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2078716467781013504",
+              "start": 3,
+              "username": "slearthly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106638008942493958",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106462647084573033",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @slearthly: 自介8.0\n各位推u好这里是寒吟子\n轉生二世前身霧川島\n有進行一些糖藥代理\n座標廣東/产日09.11.13\nmtf/0der/自傷/低脂畫師/jumpstyler/ygo高手/INFP/天残家暴/非健全\n不會社交別教我做事對不起 我不回你是我是真不…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106462630223499264",
+            "3_2106462630227673088",
+            "3_2106462630206668800"
+          ]
+        },
+        "author_id": "2078716467781013504",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2106462647084573033",
+        "created_at": "2026-10-03T19:13:25.000Z",
+        "display_text_range": [
+          0,
+          167
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T20:13:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106462647084573033"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZYcXMPEwGO",
+              "end": 191,
+              "expanded_url": "https://x.com/slearthly/status/2106462647084573033/photo/1",
+              "media_key": "3_2106462630223499264",
+              "start": 168,
+              "url": "https://t.co/ZYcXMPEwGO"
+            },
+            {
+              "display_url": "pic.x.com/ZYcXMPEwGO",
+              "end": 191,
+              "expanded_url": "https://x.com/slearthly/status/2106462647084573033/photo/1",
+              "media_key": "3_2106462630227673088",
+              "start": 168,
+              "url": "https://t.co/ZYcXMPEwGO"
+            },
+            {
+              "display_url": "pic.x.com/ZYcXMPEwGO",
+              "end": 191,
+              "expanded_url": "https://x.com/slearthly/status/2106462647084573033/photo/1",
+              "media_key": "3_2106462630206668800",
+              "start": 168,
+              "url": "https://t.co/ZYcXMPEwGO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106462647084573033",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106462630223499264"
+          },
+          {
+            "media_key": "3_2106462630227673088"
+          },
+          {
+            "media_key": "3_2106462630206668800"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "自介8.0\n各位推u好这里是寒吟子\n轉生二世前身霧川島\n有進行一些糖藥代理\n座標廣東/产日09.11.13\nmtf/0der/自傷/低脂畫師/jumpstyler/ygo高手/INFP/天残家暴/非健全\n不會社交別教我做事對不起 我不回你是我是真不知道怎麼回 大概會是很溫柔的一個人嗎（？\n会发碎碎念小糖文 癒美片夢女\n有嚴重的戀哥癖 https://t.co/ZYcXMPEwGO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "线下查无此人｜不安定｜LGBTQ全友好🌈👩‍❤️‍👩｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1\nbluesky：tongchan-2008 ←🔪🩸💊\n🚪8.8 仅好友位扩列纯乞讨\n已成年休学中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "rain_kawaii1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tong_u._.u_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tong_u._.u_",
+                "start": 0,
+                "url": "https://t.co/GZHx8f1Ujj"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2106638008942493958",
+        "name": "tong_u._.u_",
+        "pinned_tweet_id": "2106306408291701228",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043915964559835136/1776143589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103533775343001600/xVd1jr9E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 545,
+          "following_count": 172,
+          "like_count": 2426,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 1129
+        },
+        "url": "https://t.co/GZHx8f1Ujj",
+        "username": "rain_kawaiiii1",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-19T05:54:53.000Z",
+        "description": "喜歡睡覺，放假能在房間裡睡一天\n隨時在扣除生命值/努力活成大家喜歡的模樣\n感情遲鈍 請不要試圖調我我不知道怎麼回\n情商為0 如果我說話惹怒你我會軟軟地道歉\n線下查無此人／INFP／🏳️‍⚧️🩸🔪💊",
+        "id": "2078716467781013504",
+        "is_identity_verified": false,
+        "location": "E2星环座 Lycoris radiata",
+        "most_recent_tweet_id": "2106634581034307778",
+        "name": "_寒吟子 ⁃⩊⁃́❄️🏳️‍⚧️",
+        "pinned_tweet_id": "2106462647084573033",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2078716467781013504/1787901735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099045294264737792/EN8s6TJT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 374,
+          "like_count": 1733,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 1183
+        },
+        "url": "",
+        "username": "slearthly",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

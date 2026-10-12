@@ -1,0 +1,391 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2107420215558672384",
+        "3_2107420215546195968"
+      ],
+      "media_source_tweet_id": [
+        "2107420259301069071",
+        "2107420259301069071"
+      ]
+    },
+    "author_id": "2043915964559835136",
+    "conversation_id": "2107805637749178380",
+    "created_at": "2026-10-07T12:09:59.000Z",
+    "display_text_range": [
+      0,
+      131
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-07T13:09:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107805637749178380"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2105956425201754112",
+          "start": 3,
+          "username": "wtq3oe"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fTOptiaZDR",
+          "end": 131,
+          "expanded_url": "https://x.com/wtq3oe/status/2107420259301069071/video/1",
+          "media_key": "13_2107420215558672384",
+          "start": 108,
+          "url": "https://t.co/fTOptiaZDR"
+        },
+        {
+          "display_url": "pic.x.com/fTOptiaZDR",
+          "end": 131,
+          "expanded_url": "https://x.com/wtq3oe/status/2107420259301069071/video/1",
+          "media_key": "3_2107420215546195968",
+          "start": 108,
+          "url": "https://t.co/fTOptiaZDR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107805637749178380",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2107420215558672384"
+      },
+      {
+        "media_key": "3_2107420215546195968"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107420259301069071",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wtq3oe: 你们好我是猫猫 半年多没见了 考虑很久决定重新玩 之前的号因为不明原因封了 这半年跟家里彻底闹掰自己搬出来住 只想找回以前的粉丝我很想你们 有人喜欢猫猫也可以过🚪 私信都会看 欢迎宝宝们互转 https://t.co/fTOptiaZDR"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8100,
+        "height": 1920,
+        "media_key": "13_2107420215558672384",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2107420215558672384/img/0WcR0MNWSjVVXWJS.jpg",
+        "public_metrics": {
+          "view_count": 21
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107420215558672384/vid/avc1/480x852/GgWAswjI9IOrA3gN.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2107420215558672384/pl/HlYn5-Z9afFzejtb.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107420215558672384/vid/avc1/1080x1920/DnYfRANxuzf0fkU6.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107420215558672384/vid/avc1/720x1280/lMirkX5DX98c9t1D.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107420215558672384/vid/avc1/320x568/ksKuGA6wksWa1gpc.mp4"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "height": 992,
+        "media_key": "3_2107420215546195968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT8PhTwbsAA_Us1.jpg",
+        "width": 929
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2107420215558672384",
+            "3_2107420215546195968"
+          ],
+          "media_source_tweet_id": [
+            "2107420259301069071",
+            "2107420259301069071"
+          ]
+        },
+        "author_id": "2043915964559835136",
+        "conversation_id": "2107805637749178380",
+        "created_at": "2026-10-07T12:09:59.000Z",
+        "display_text_range": [
+          0,
+          131
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T13:09:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107805637749178380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2105956425201754112",
+              "start": 3,
+              "username": "wtq3oe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fTOptiaZDR",
+              "end": 131,
+              "expanded_url": "https://x.com/wtq3oe/status/2107420259301069071/video/1",
+              "media_key": "13_2107420215558672384",
+              "start": 108,
+              "url": "https://t.co/fTOptiaZDR"
+            },
+            {
+              "display_url": "pic.x.com/fTOptiaZDR",
+              "end": 131,
+              "expanded_url": "https://x.com/wtq3oe/status/2107420259301069071/video/1",
+              "media_key": "3_2107420215546195968",
+              "start": 108,
+              "url": "https://t.co/fTOptiaZDR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107805637749178380",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2107420215558672384"
+          },
+          {
+            "media_key": "3_2107420215546195968"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107420259301069071",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wtq3oe: 你们好我是猫猫 半年多没见了 考虑很久决定重新玩 之前的号因为不明原因封了 这半年跟家里彻底闹掰自己搬出来住 只想找回以前的粉丝我很想你们 有人喜欢猫猫也可以过🚪 私信都会看 欢迎宝宝们互转 https://t.co/fTOptiaZDR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2107420215558672384",
+            "3_2107420215546195968"
+          ]
+        },
+        "author_id": "2105956425201754112",
+        "conversation_id": "2107420259301069071",
+        "created_at": "2026-10-06T10:38:38.000Z",
+        "display_text_range": [
+          0,
+          95
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T11:38:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107420259301069071"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fTOptiaZDR",
+              "end": 119,
+              "expanded_url": "https://x.com/wtq3oe/status/2107420259301069071/video/1",
+              "media_key": "13_2107420215558672384",
+              "start": 96,
+              "url": "https://t.co/fTOptiaZDR"
+            },
+            {
+              "display_url": "pic.x.com/fTOptiaZDR",
+              "end": 119,
+              "expanded_url": "https://x.com/wtq3oe/status/2107420259301069071/video/1",
+              "media_key": "3_2107420215546195968",
+              "start": 96,
+              "url": "https://t.co/fTOptiaZDR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107420259301069071",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2107420215558672384"
+          },
+          {
+            "media_key": "3_2107420215546195968"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "你们好我是猫猫 半年多没见了 考虑很久决定重新玩 之前的号因为不明原因封了 这半年跟家里彻底闹掰自己搬出来住 只想找回以前的粉丝我很想你们 有人喜欢猫猫也可以过🚪 私信都会看 欢迎宝宝们互转 https://t.co/fTOptiaZDR"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "线下查无此人｜不安定｜LGBTQ全友好🌈👩‍❤️‍👩｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1\nbluesky：tongchan-2008 ←🔪🩸💊\n🚪8.8 仅好友位扩列纯乞讨\n已成年休学中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "rain_kawaii1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tong_u._.u_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tong_u._.u_",
+                "start": 0,
+                "url": "https://t.co/GZHx8f1Ujj"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2107805637749178380",
+        "name": "tong_u._.u_",
+        "pinned_tweet_id": "2107768907205607820",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043915964559835136/1776143589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103533775343001600/xVd1jr9E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 814,
+          "following_count": 189,
+          "like_count": 2557,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 1251
+        },
+        "url": "https://t.co/GZHx8f1Ujj",
+        "username": "rain_kawaiiii1",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-10-02T09:43:18.000Z",
+        "description": "前世2500fo\n只想找回以前的粉丝\n喜欢我的可以过🚪 不卖惨 不嗑药 普通人\n私信都会回",
+        "id": "2105956425201754112",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107802868833288485",
+        "name": "猫猫璇2.0",
+        "pinned_tweet_id": "2107420259301069071",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2105956425201754112/1791280923",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2107410983618797570/TS-0ufxZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 0,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 26
+        },
+        "url": "",
+        "username": "wtq3oe",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

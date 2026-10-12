@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043915964559835136",
+    "conversation_id": "2102105724583354581",
+    "created_at": "2026-09-21T18:40:34.000Z",
+    "display_text_range": [
+      0,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T19:40:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102105724583354581"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2091979628701495296",
+          "start": 3,
+          "username": "Kindfr1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102105724583354581",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 161
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101858174563438592",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kindfr1: 正散步呢 旁边的湖突然给我表白了 我同意了 投入了他的怀抱 就是有点冷"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043915964559835136",
+        "conversation_id": "2102105724583354581",
+        "created_at": "2026-09-21T18:40:34.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T19:40:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102105724583354581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2091979628701495296",
+              "start": 3,
+              "username": "Kindfr1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102105724583354581",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 161
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101858174563438592",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kindfr1: 正散步呢 旁边的湖突然给我表白了 我同意了 投入了他的怀抱 就是有点冷"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2091979628701495296",
+        "conversation_id": "2101858174563438592",
+        "created_at": "2026-09-21T02:16:54.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T03:16:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101858174563438592"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101858174563438592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 44422,
+          "like_count": 1855,
+          "quote_count": 9,
+          "reply_count": 147,
+          "retweet_count": 161
+        },
+        "reply_settings": "everyone",
+        "text": "正散步呢 旁边的湖突然给我表白了 我同意了 投入了他的怀抱 就是有点冷"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "线下查无此人｜不安定｜LGBTQ全友好🌈👩‍❤️‍👩｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1\nbluesky：tongchan-2008 ←🔪🩸💊\n🚪8.8 仅好友位扩列纯乞讨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "rain_kawaii1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tong_u._.u_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tong_u._.u_",
+                "start": 0,
+                "url": "https://t.co/GZHx8f2s8R"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2102105724583354581",
+        "name": "tong_u._.u_",
+        "pinned_tweet_id": "2101630503900295595",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043915964559835136/1776143589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043920464872148992/gUpWTpWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 161,
+          "like_count": 2001,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 881
+        },
+        "url": "https://t.co/GZHx8f2s8R",
+        "username": "rain_kawaiiii1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-24T20:03:59.000Z",
+        "description": "可以喊我雨雨 私信看到了都会回 不定时看x 喜欢主动热情的人₍^˶ ╸𖥦 ╸˵^₎⟆♡\n06 直男 Valorant初心者 欢迎大家找我聊天打游戏喵 可以直接私信窝哦\n防丢号 @Yuyuyuelj1\n匿名提问 https://t.co/TeIjtXs6gv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 88,
+                "username": "Yuyuyuelj1"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yuyu26146",
+                "end": 128,
+                "expanded_url": "https://ngl.link/yuyu26146",
+                "start": 105,
+                "url": "https://t.co/TeIjtXs6gv"
+              }
+            ]
+          }
+        },
+        "id": "2091979628701495296",
+        "is_identity_verified": false,
+        "location": "南京",
+        "most_recent_tweet_id": "2102062586321862669",
+        "name": "Yuyu",
+        "pinned_tweet_id": "2092513724032806985",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2091979628701495296/1787602281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091979944402591744/EIACdNg9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 14,
+          "like_count": 782,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 697
+        },
+        "url": "",
+        "username": "Kindfr1",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

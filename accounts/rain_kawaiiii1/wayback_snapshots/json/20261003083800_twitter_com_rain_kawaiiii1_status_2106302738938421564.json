@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2106157890700464128"
+      ],
+      "media_source_tweet_id": [
+        "2106157897776607271"
+      ]
+    },
+    "author_id": "2043915964559835136",
+    "conversation_id": "2106302738938421564",
+    "created_at": "2026-10-03T08:38:00.000Z",
+    "display_text_range": [
+      0,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T09:38:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106302738938421564"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2040012390930972672",
+          "start": 3,
+          "username": "raincandyzu_u"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ai6EoPnAI9",
+          "end": 42,
+          "expanded_url": "https://x.com/raincandyzu_u/status/2106157897776607271/photo/1",
+          "media_key": "3_2106157890700464128",
+          "start": 19,
+          "url": "https://t.co/ai6EoPnAI9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106302738938421564",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2106157890700464128"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 144
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106157897776607271",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @raincandyzu_u: https://t.co/ai6EoPnAI9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 354,
+        "media_key": "3_2106157890700464128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTqTcVQWUAAkOla.png",
+        "width": 596
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106157890700464128"
+          ],
+          "media_source_tweet_id": [
+            "2106157897776607271"
+          ]
+        },
+        "author_id": "2043915964559835136",
+        "conversation_id": "2106302738938421564",
+        "created_at": "2026-10-03T08:38:00.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T09:38:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106302738938421564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2040012390930972672",
+              "start": 3,
+              "username": "raincandyzu_u"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ai6EoPnAI9",
+              "end": 42,
+              "expanded_url": "https://x.com/raincandyzu_u/status/2106157897776607271/photo/1",
+              "media_key": "3_2106157890700464128",
+              "start": 19,
+              "url": "https://t.co/ai6EoPnAI9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106302738938421564",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2106157890700464128"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 144
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106157897776607271",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @raincandyzu_u: https://t.co/ai6EoPnAI9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106157890700464128"
+          ]
+        },
+        "author_id": "2040012390930972672",
+        "conversation_id": "2106157897776607271",
+        "created_at": "2026-10-02T23:02:28.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T00:02:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106157897776607271"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ai6EoPnAI9",
+              "end": 23,
+              "expanded_url": "https://x.com/raincandyzu_u/status/2106157897776607271/photo/1",
+              "media_key": "3_2106157890700464128",
+              "start": 0,
+              "url": "https://t.co/ai6EoPnAI9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106157897776607271",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2106157890700464128"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 3829,
+          "like_count": 569,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 144
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "https://t.co/ai6EoPnAI9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "线下查无此人｜不安定｜LGBTQ全友好🌈👩‍❤️‍👩｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1\nbluesky：tongchan-2008 ←🔪🩸💊\n🚪8.8 仅好友位扩列纯乞讨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "rain_kawaii1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tong_u._.u_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tong_u._.u_",
+                "start": 0,
+                "url": "https://t.co/GZHx8f2s8R"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2106302738938421564",
+        "name": "tong_u._.u_",
+        "pinned_tweet_id": "2105297307403219297",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043915964559835136/1776143589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103533775343001600/xVd1jr9E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 173,
+          "like_count": 2349,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 1078
+        },
+        "url": "https://t.co/GZHx8f2s8R",
+        "username": "rain_kawaiiii1",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-03T10:24:12.000Z",
+        "description": "your angel 𖹭",
+        "id": "2040012390930972672",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106291781017252263",
+        "name": "☁️ ρυρ zᶻ",
+        "pinned_tweet_id": "2102808396797989245",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040012390930972672/1784790789",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094072924655267840/vaOo08sN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1636,
+          "following_count": 282,
+          "like_count": 13149,
+          "listed_count": 8,
+          "media_count": 418,
+          "tweet_count": 8480
+        },
+        "url": "",
+        "username": "raincandyzu_u",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

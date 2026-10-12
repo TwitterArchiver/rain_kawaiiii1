@@ -1,0 +1,497 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082287033439989760",
+        "3_2082287033444089856",
+        "3_2082287033473482752",
+        "3_2082287033477742592"
+      ],
+      "media_source_tweet_id": [
+        "2082287037265146250",
+        "2082287037265146250",
+        "2082287037265146250",
+        "2082287037265146250"
+      ]
+    },
+    "author_id": "2043915964559835136",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2106637973114761344",
+    "created_at": "2026-10-04T06:50:06.000Z",
+    "display_text_range": [
+      0,
+      73
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T07:50:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106637973114761344"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1534344658033180672",
+          "start": 3,
+          "username": "_tom0e_x"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ALw8ht0W3D",
+          "end": 73,
+          "expanded_url": "https://x.com/_tom0e_x/status/2082287037265146250/photo/1",
+          "media_key": "3_2082287033439989760",
+          "start": 50,
+          "url": "https://t.co/ALw8ht0W3D"
+        },
+        {
+          "display_url": "pic.x.com/ALw8ht0W3D",
+          "end": 73,
+          "expanded_url": "https://x.com/_tom0e_x/status/2082287037265146250/photo/1",
+          "media_key": "3_2082287033444089856",
+          "start": 50,
+          "url": "https://t.co/ALw8ht0W3D"
+        },
+        {
+          "display_url": "pic.x.com/ALw8ht0W3D",
+          "end": 73,
+          "expanded_url": "https://x.com/_tom0e_x/status/2082287037265146250/photo/1",
+          "media_key": "3_2082287033473482752",
+          "start": 50,
+          "url": "https://t.co/ALw8ht0W3D"
+        },
+        {
+          "display_url": "pic.x.com/ALw8ht0W3D",
+          "end": 73,
+          "expanded_url": "https://x.com/_tom0e_x/status/2082287037265146250/photo/1",
+          "media_key": "3_2082287033477742592",
+          "start": 50,
+          "url": "https://t.co/ALw8ht0W3D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106637973114761344",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2082287033439989760"
+      },
+      {
+        "media_key": "3_2082287033444089856"
+      },
+      {
+        "media_key": "3_2082287033473482752"
+      },
+      {
+        "media_key": "3_2082287033477742592"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 49
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082287037265146250",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_tom0e_x: 是时候进行新的介绍了（´ ▽ ` ）大家可以转发我吗？我很想和别人联系 https://t.co/ALw8ht0W3D"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1615,
+        "media_key": "3_2082287033439989760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOXFBkSXsAAFdYa.jpg",
+        "width": 1170
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2082287033444089856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOXFBkTWQAA6VDY.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1248,
+        "media_key": "3_2082287033473482752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOXFBkaWwAA1oMf.jpg",
+        "width": 832
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2082287033477742592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOXFBkbXwAAZrqx.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082287033439989760",
+            "3_2082287033444089856",
+            "3_2082287033473482752",
+            "3_2082287033477742592"
+          ],
+          "media_source_tweet_id": [
+            "2082287037265146250",
+            "2082287037265146250",
+            "2082287037265146250",
+            "2082287037265146250"
+          ]
+        },
+        "author_id": "2043915964559835136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2106637973114761344",
+        "created_at": "2026-10-04T06:50:06.000Z",
+        "display_text_range": [
+          0,
+          73
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T07:50:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106637973114761344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1534344658033180672",
+              "start": 3,
+              "username": "_tom0e_x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ALw8ht0W3D",
+              "end": 73,
+              "expanded_url": "https://x.com/_tom0e_x/status/2082287037265146250/photo/1",
+              "media_key": "3_2082287033439989760",
+              "start": 50,
+              "url": "https://t.co/ALw8ht0W3D"
+            },
+            {
+              "display_url": "pic.x.com/ALw8ht0W3D",
+              "end": 73,
+              "expanded_url": "https://x.com/_tom0e_x/status/2082287037265146250/photo/1",
+              "media_key": "3_2082287033444089856",
+              "start": 50,
+              "url": "https://t.co/ALw8ht0W3D"
+            },
+            {
+              "display_url": "pic.x.com/ALw8ht0W3D",
+              "end": 73,
+              "expanded_url": "https://x.com/_tom0e_x/status/2082287037265146250/photo/1",
+              "media_key": "3_2082287033473482752",
+              "start": 50,
+              "url": "https://t.co/ALw8ht0W3D"
+            },
+            {
+              "display_url": "pic.x.com/ALw8ht0W3D",
+              "end": 73,
+              "expanded_url": "https://x.com/_tom0e_x/status/2082287037265146250/photo/1",
+              "media_key": "3_2082287033477742592",
+              "start": 50,
+              "url": "https://t.co/ALw8ht0W3D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106637973114761344",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2082287033439989760"
+          },
+          {
+            "media_key": "3_2082287033444089856"
+          },
+          {
+            "media_key": "3_2082287033473482752"
+          },
+          {
+            "media_key": "3_2082287033477742592"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 49
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082287037265146250",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_tom0e_x: 是时候进行新的介绍了（´ ▽ ` ）大家可以转发我吗？我很想和别人联系 https://t.co/ALw8ht0W3D"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082287033439989760",
+            "3_2082287033444089856",
+            "3_2082287033473482752",
+            "3_2082287033477742592"
+          ]
+        },
+        "author_id": "1534344658033180672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2082287037265146250",
+        "created_at": "2026-07-29T02:08:11.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-07-29T03:08:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082287037265146250"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ALw8ht0W3D",
+              "end": 59,
+              "expanded_url": "https://x.com/_tom0e_x/status/2082287037265146250/photo/1",
+              "media_key": "3_2082287033439989760",
+              "start": 36,
+              "url": "https://t.co/ALw8ht0W3D"
+            },
+            {
+              "display_url": "pic.x.com/ALw8ht0W3D",
+              "end": 59,
+              "expanded_url": "https://x.com/_tom0e_x/status/2082287037265146250/photo/1",
+              "media_key": "3_2082287033444089856",
+              "start": 36,
+              "url": "https://t.co/ALw8ht0W3D"
+            },
+            {
+              "display_url": "pic.x.com/ALw8ht0W3D",
+              "end": 59,
+              "expanded_url": "https://x.com/_tom0e_x/status/2082287037265146250/photo/1",
+              "media_key": "3_2082287033473482752",
+              "start": 36,
+              "url": "https://t.co/ALw8ht0W3D"
+            },
+            {
+              "display_url": "pic.x.com/ALw8ht0W3D",
+              "end": 59,
+              "expanded_url": "https://x.com/_tom0e_x/status/2082287037265146250/photo/1",
+              "media_key": "3_2082287033477742592",
+              "start": 36,
+              "url": "https://t.co/ALw8ht0W3D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082287037265146250",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2082287033439989760"
+          },
+          {
+            "media_key": "3_2082287033444089856"
+          },
+          {
+            "media_key": "3_2082287033473482752"
+          },
+          {
+            "media_key": "3_2082287033477742592"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 10442,
+          "like_count": 157,
+          "quote_count": 1,
+          "reply_count": 25,
+          "retweet_count": 49
+        },
+        "reply_settings": "everyone",
+        "text": "是时候进行新的介绍了（´ ▽ ` ）大家可以转发我吗？我很想和别人联系 https://t.co/ALw8ht0W3D"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "线下查无此人｜不安定｜LGBTQ全友好🌈👩‍❤️‍👩｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1\nbluesky：tongchan-2008 ←🔪🩸💊\n🚪8.8 仅好友位扩列纯乞讨\n已成年休学中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "rain_kawaii1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tong_u._.u_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tong_u._.u_",
+                "start": 0,
+                "url": "https://t.co/GZHx8f1Ujj"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2106637973114761344",
+        "name": "tong_u._.u_",
+        "pinned_tweet_id": "2106306408291701228",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043915964559835136/1776143589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103533775343001600/xVd1jr9E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 545,
+          "following_count": 172,
+          "like_count": 2426,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 1128
+        },
+        "url": "https://t.co/GZHx8f1Ujj",
+        "username": "rain_kawaiiii1",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-06-08T01:20:56.000Z",
+        "description": "私はサラ/ともえ黒人と日本人のハーフです♥︎\nNonbinary ✨ 統合失調効果障害| SH | BPD | 🚬✨EN / JP / CN / A 🟦 地雷",
+        "id": "1534344658033180672",
+        "is_identity_verified": false,
+        "location": "Somewhere In Nyc",
+        "most_recent_tweet_id": "2106529911217221908",
+        "name": "Sara 🖤/ともえ🩵",
+        "pinned_tweet_id": "2082287037265146250",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1534344658033180672/1783093476",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105456229849989120/K9Z9b_-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 257,
+          "like_count": 92966,
+          "listed_count": 5,
+          "media_count": 473,
+          "tweet_count": 3510
+        },
+        "url": "",
+        "username": "_tom0e_x",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

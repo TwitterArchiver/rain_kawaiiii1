@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2108510902786101248"
+      ]
+    },
+    "author_id": "2043915964559835136",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2108510911057346775",
+    "created_at": "2026-10-09T10:52:30.000Z",
+    "display_text_range": [
+      0,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-09T11:52:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2108510911057346775"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "NGL: Anonymous Q&A",
+          "display_url": "ngl.link/tong_u._.u_",
+          "end": 23,
+          "expanded_url": "https://ngl.link/tong_u._.u_",
+          "images": [
+            {
+              "height": 785,
+              "url": "https://pbs.twimg.com/news_img/2106637710056165376/w2Iqsd6H?format=jpg&name=orig",
+              "width": 1500
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2106637710056165376/w2Iqsd6H?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 0,
+          "status": 200,
+          "title": "@tong_u._.u_: Send me anonymous messages!",
+          "unwound_url": "https://ngl.link/tong_u._.u_",
+          "url": "https://t.co/SLKu7Qh3DC"
+        },
+        {
+          "display_url": "pic.x.com/NVJejLfDPT",
+          "end": 47,
+          "expanded_url": "https://x.com/rain_kawaiiii1/status/2108510911057346775/photo/1",
+          "media_key": "3_2108510902786101248",
+          "start": 24,
+          "url": "https://t.co/NVJejLfDPT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108510911057346775",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2108510902786101248"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/SLKu7Qh3DC https://t.co/NVJejLfDPT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1121,
+        "media_key": "3_2108510902786101248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HULvfqWakAAlc6t.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2108510902786101248"
+          ]
+        },
+        "author_id": "2043915964559835136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2108510911057346775",
+        "created_at": "2026-10-09T10:52:30.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T11:52:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108510911057346775"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "NGL: Anonymous Q&A",
+              "display_url": "ngl.link/tong_u._.u_",
+              "end": 23,
+              "expanded_url": "https://ngl.link/tong_u._.u_",
+              "images": [
+                {
+                  "height": 785,
+                  "url": "https://pbs.twimg.com/news_img/2106637710056165376/w2Iqsd6H?format=jpg&name=orig",
+                  "width": 1500
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2106637710056165376/w2Iqsd6H?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "@tong_u._.u_: Send me anonymous messages!",
+              "unwound_url": "https://ngl.link/tong_u._.u_",
+              "url": "https://t.co/SLKu7Qh3DC"
+            },
+            {
+              "display_url": "pic.x.com/NVJejLfDPT",
+              "end": 47,
+              "expanded_url": "https://x.com/rain_kawaiiii1/status/2108510911057346775/photo/1",
+              "media_key": "3_2108510902786101248",
+              "start": 24,
+              "url": "https://t.co/NVJejLfDPT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108510911057346775",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2108510902786101248"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/SLKu7Qh3DC https://t.co/NVJejLfDPT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "线下查无此人｜不安定｜LGBTQ全友好🌈👩‍❤️‍👩｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1\nbluesky：tongchan-2008 ←🔪🩸💊\n🚪8.8 仅好友位扩列纯乞讨\n已成年休学中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "rain_kawaii1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tong_u._.u_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tong_u._.u_",
+                "start": 0,
+                "url": "https://t.co/GZHx8f1Ujj"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2108510911057346775",
+        "name": "tong_u._.u_",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043915964559835136/1776143589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103533775343001600/xVd1jr9E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 811,
+          "following_count": 187,
+          "like_count": 2596,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 1268
+        },
+        "url": "https://t.co/GZHx8f1Ujj",
+        "username": "rain_kawaiiii1",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

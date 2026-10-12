@@ -1,0 +1,420 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104440795017428992",
+        "3_2104440815707918336",
+        "3_2104440837719613440"
+      ],
+      "media_source_tweet_id": [
+        "2104500108477767703",
+        "2104500108477767703",
+        "2104500108477767703"
+      ]
+    },
+    "author_id": "2043915964559835136",
+    "conversation_id": "2105182871791235461",
+    "created_at": "2026-09-30T06:28:03.000Z",
+    "display_text_range": [
+      0,
+      72
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T07:28:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105182871791235461"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1514838309654044677",
+          "start": 3,
+          "username": "imval_info"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KiFzyv7kfp",
+          "end": 72,
+          "expanded_url": "https://x.com/imval_info/status/2104500108477767703/photo/1",
+          "media_key": "3_2104440795017428992",
+          "start": 49,
+          "url": "https://t.co/KiFzyv7kfp"
+        },
+        {
+          "display_url": "pic.x.com/KiFzyv7kfp",
+          "end": 72,
+          "expanded_url": "https://x.com/imval_info/status/2104500108477767703/photo/1",
+          "media_key": "3_2104440815707918336",
+          "start": 49,
+          "url": "https://t.co/KiFzyv7kfp"
+        },
+        {
+          "display_url": "pic.x.com/KiFzyv7kfp",
+          "end": 72,
+          "expanded_url": "https://x.com/imval_info/status/2104500108477767703/photo/1",
+          "media_key": "3_2104440837719613440",
+          "start": 49,
+          "url": "https://t.co/KiFzyv7kfp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105182871791235461",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2104440795017428992"
+      },
+      {
+        "media_key": "3_2104440815707918336"
+      },
+      {
+        "media_key": "3_2104440837719613440"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 211
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104500108477767703",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @imval_info: IMVAL / Sailor Ribbon Fur Jacket https://t.co/KiFzyv7kfp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2800,
+        "media_key": "3_2104440795017428992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTR5wNXawAAiFpU.jpg",
+        "width": 2100
+      },
+      {
+        "height": 2800,
+        "media_key": "3_2104440815707918336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTR5xacakAAQ743.jpg",
+        "width": 2100
+      },
+      {
+        "height": 2800,
+        "media_key": "3_2104440837719613440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTR5yscaYAAxq1K.jpg",
+        "width": 2100
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104440795017428992",
+            "3_2104440815707918336",
+            "3_2104440837719613440"
+          ],
+          "media_source_tweet_id": [
+            "2104500108477767703",
+            "2104500108477767703",
+            "2104500108477767703"
+          ]
+        },
+        "author_id": "2043915964559835136",
+        "conversation_id": "2105182871791235461",
+        "created_at": "2026-09-30T06:28:03.000Z",
+        "display_text_range": [
+          0,
+          72
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T07:28:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105182871791235461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1514838309654044677",
+              "start": 3,
+              "username": "imval_info"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KiFzyv7kfp",
+              "end": 72,
+              "expanded_url": "https://x.com/imval_info/status/2104500108477767703/photo/1",
+              "media_key": "3_2104440795017428992",
+              "start": 49,
+              "url": "https://t.co/KiFzyv7kfp"
+            },
+            {
+              "display_url": "pic.x.com/KiFzyv7kfp",
+              "end": 72,
+              "expanded_url": "https://x.com/imval_info/status/2104500108477767703/photo/1",
+              "media_key": "3_2104440815707918336",
+              "start": 49,
+              "url": "https://t.co/KiFzyv7kfp"
+            },
+            {
+              "display_url": "pic.x.com/KiFzyv7kfp",
+              "end": 72,
+              "expanded_url": "https://x.com/imval_info/status/2104500108477767703/photo/1",
+              "media_key": "3_2104440837719613440",
+              "start": 49,
+              "url": "https://t.co/KiFzyv7kfp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105182871791235461",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2104440795017428992"
+          },
+          {
+            "media_key": "3_2104440815707918336"
+          },
+          {
+            "media_key": "3_2104440837719613440"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 211
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104500108477767703",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @imval_info: IMVAL / Sailor Ribbon Fur Jacket https://t.co/KiFzyv7kfp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104440795017428992",
+            "3_2104440815707918336",
+            "3_2104440837719613440"
+          ]
+        },
+        "author_id": "1514838309654044677",
+        "conversation_id": "2104500108477767703",
+        "created_at": "2026-09-28T09:15:00.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T10:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104500108477767703"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KiFzyv7kfp",
+              "end": 56,
+              "expanded_url": "https://x.com/imval_info/status/2104500108477767703/photo/1",
+              "media_key": "3_2104440795017428992",
+              "start": 33,
+              "url": "https://t.co/KiFzyv7kfp"
+            },
+            {
+              "display_url": "pic.x.com/KiFzyv7kfp",
+              "end": 56,
+              "expanded_url": "https://x.com/imval_info/status/2104500108477767703/photo/1",
+              "media_key": "3_2104440815707918336",
+              "start": 33,
+              "url": "https://t.co/KiFzyv7kfp"
+            },
+            {
+              "display_url": "pic.x.com/KiFzyv7kfp",
+              "end": 56,
+              "expanded_url": "https://x.com/imval_info/status/2104500108477767703/photo/1",
+              "media_key": "3_2104440837719613440",
+              "start": 33,
+              "url": "https://t.co/KiFzyv7kfp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104500108477767703",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2104440795017428992"
+          },
+          {
+            "media_key": "3_2104440815707918336"
+          },
+          {
+            "media_key": "3_2104440837719613440"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 225,
+          "impression_count": 49308,
+          "like_count": 1629,
+          "quote_count": 66,
+          "reply_count": 2,
+          "retweet_count": 211
+        },
+        "reply_settings": "everyone",
+        "text": "IMVAL / Sailor Ribbon Fur Jacket https://t.co/KiFzyv7kfp"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "线下查无此人｜不安定｜LGBTQ全友好🌈👩‍❤️‍👩｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1\nbluesky：tongchan-2008 ←🔪🩸💊\n🚪8.8 仅好友位扩列纯乞讨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "rain_kawaii1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tong_u._.u_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tong_u._.u_",
+                "start": 0,
+                "url": "https://t.co/GZHx8f2s8R"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2105182871791235461",
+        "name": "tong_u._.u_",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043915964559835136/1776143589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103533775343001600/xVd1jr9E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 411,
+          "following_count": 167,
+          "like_count": 2277,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 1032
+        },
+        "url": "https://t.co/GZHx8f2s8R",
+        "username": "rain_kawaiiii1",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-15T05:29:38.000Z",
+        "description": "鏡の中の無敵なドール❤︎\nIMVAL（インヴァル）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/imval",
+                "end": 23,
+                "expanded_url": "https://lit.link/imval",
+                "start": 0,
+                "url": "https://t.co/16qmZRBguX"
+              }
+            ]
+          }
+        },
+        "id": "1514838309654044677",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104779179963371722",
+        "name": "IMVAL",
+        "pinned_tweet_id": "2104481242238402957",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1514838309654044677/1780368466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061643968195256320/xFGSc_I7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2116,
+          "following_count": 0,
+          "like_count": 118,
+          "listed_count": 18,
+          "media_count": 120,
+          "tweet_count": 278
+        },
+        "url": "https://t.co/16qmZRBguX",
+        "username": "imval_info",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

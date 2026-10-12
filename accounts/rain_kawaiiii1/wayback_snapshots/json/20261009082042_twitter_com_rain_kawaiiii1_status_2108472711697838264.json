@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2108471132991246336"
+      ],
+      "media_source_tweet_id": [
+        "2108471140721336482"
+      ]
+    },
+    "author_id": "2043915964559835136",
+    "conversation_id": "2108472711697838264",
+    "created_at": "2026-10-09T08:20:42.000Z",
+    "display_text_range": [
+      0,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-09T09:20:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108472711697838264"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2043915964559835136",
+          "start": 3,
+          "username": "rain_kawaiiii1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ak5EmmHGfl",
+          "end": 48,
+          "expanded_url": "https://x.com/rain_kawaiiii1/status/2108471140721336482/photo/1",
+          "media_key": "3_2108471132991246336",
+          "start": 25,
+          "url": "https://t.co/ak5EmmHGfl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108472711697838264",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2108471132991246336"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108471140721336482",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rain_kawaiiii1: 💊🌵🍄💜 https://t.co/ak5EmmHGfl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1538,
+        "media_key": "3_2108471132991246336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HULLUwUb0AAAEC_.jpg",
+        "width": 1153
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2108471132991246336"
+          ],
+          "media_source_tweet_id": [
+            "2108471140721336482"
+          ]
+        },
+        "author_id": "2043915964559835136",
+        "conversation_id": "2108472711697838264",
+        "created_at": "2026-10-09T08:20:42.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T09:20:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108472711697838264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2043915964559835136",
+              "start": 3,
+              "username": "rain_kawaiiii1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ak5EmmHGfl",
+              "end": 48,
+              "expanded_url": "https://x.com/rain_kawaiiii1/status/2108471140721336482/photo/1",
+              "media_key": "3_2108471132991246336",
+              "start": 25,
+              "url": "https://t.co/ak5EmmHGfl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108472711697838264",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2108471132991246336"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108471140721336482",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rain_kawaiiii1: 💊🌵🍄💜 https://t.co/ak5EmmHGfl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2108471132991246336"
+          ]
+        },
+        "author_id": "2043915964559835136",
+        "conversation_id": "2108471140721336482",
+        "created_at": "2026-10-09T08:14:28.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T09:14:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108471140721336482"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ak5EmmHGfl",
+              "end": 28,
+              "expanded_url": "https://x.com/rain_kawaiiii1/status/2108471140721336482/photo/1",
+              "media_key": "3_2108471132991246336",
+              "start": 5,
+              "url": "https://t.co/ak5EmmHGfl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108471140721336482",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2108471132991246336"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "💊🌵🍄💜 https://t.co/ak5EmmHGfl"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "description": "线下查无此人｜不安定｜LGBTQ全友好🌈👩‍❤️‍👩｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1\nbluesky：tongchan-2008 ←🔪🩸💊\n🚪8.8 仅好友位扩列纯乞讨\n已成年休学中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "rain_kawaii1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tong_u._.u_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tong_u._.u_",
+                "start": 0,
+                "url": "https://t.co/GZHx8f1Ujj"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2108472711697838264",
+        "name": "tong_u._.u_",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043915964559835136/1776143589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103533775343001600/xVd1jr9E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 812,
+          "following_count": 187,
+          "like_count": 2584,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 1260
+        },
+        "url": "https://t.co/GZHx8f1Ujj",
+        "username": "rain_kawaiiii1",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

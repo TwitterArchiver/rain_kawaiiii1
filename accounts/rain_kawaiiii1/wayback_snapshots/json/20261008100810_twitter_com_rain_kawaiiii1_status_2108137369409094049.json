@@ -1,0 +1,388 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2107830593857921024"
+      ],
+      "media_source_tweet_id": [
+        "2107830600233324669"
+      ]
+    },
+    "author_id": "2043915964559835136",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2108137369409094049",
+    "created_at": "2026-10-08T10:08:10.000Z",
+    "display_text_range": [
+      0,
+      61
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-08T11:08:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108137369409094049"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 14,
+          "tag": "yakuithemaid"
+        },
+        {
+          "end": 37,
+          "start": 28,
+          "tag": "maidcore"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1344958069868957696",
+          "start": 3,
+          "username": "4MOEBA__"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wRJI5wTYFO",
+          "end": 61,
+          "expanded_url": "https://x.com/4MOEBA__/status/2107830600233324669/photo/1",
+          "media_key": "3_2107830593857921024",
+          "start": 38,
+          "url": "https://t.co/wRJI5wTYFO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108137369409094049",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2107830593857921024"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 642
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107830600233324669",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @4MOEBA__: #yakuithemaid #maidcore https://t.co/wRJI5wTYFO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2107830593857921024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUCEweGaIAA59Ym.jpg",
+        "width": 1481
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107830593857921024"
+          ],
+          "media_source_tweet_id": [
+            "2107830600233324669"
+          ]
+        },
+        "author_id": "2043915964559835136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2108137369409094049",
+        "created_at": "2026-10-08T10:08:10.000Z",
+        "display_text_range": [
+          0,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T11:08:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108137369409094049"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 14,
+              "tag": "yakuithemaid"
+            },
+            {
+              "end": 37,
+              "start": 28,
+              "tag": "maidcore"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1344958069868957696",
+              "start": 3,
+              "username": "4MOEBA__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wRJI5wTYFO",
+              "end": 61,
+              "expanded_url": "https://x.com/4MOEBA__/status/2107830600233324669/photo/1",
+              "media_key": "3_2107830593857921024",
+              "start": 38,
+              "url": "https://t.co/wRJI5wTYFO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108137369409094049",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2107830593857921024"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 642
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107830600233324669",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @4MOEBA__: #yakuithemaid #maidcore https://t.co/wRJI5wTYFO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107830593857921024"
+          ]
+        },
+        "author_id": "1344958069868957696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2107830600233324669",
+        "created_at": "2026-10-07T13:49:11.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T14:49:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107830600233324669"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 0,
+              "tag": "yakuithemaid"
+            },
+            {
+              "end": 23,
+              "start": 14,
+              "tag": "maidcore"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wRJI5wTYFO",
+              "end": 47,
+              "expanded_url": "https://x.com/4MOEBA__/status/2107830600233324669/photo/1",
+              "media_key": "3_2107830593857921024",
+              "start": 24,
+              "url": "https://t.co/wRJI5wTYFO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107830600233324669",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2107830593857921024"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 574,
+          "impression_count": 30589,
+          "like_count": 4467,
+          "quote_count": 10,
+          "reply_count": 7,
+          "retweet_count": 642
+        },
+        "reply_settings": "everyone",
+        "text": "#yakuithemaid #maidcore https://t.co/wRJI5wTYFO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "description": "线下查无此人｜不安定｜LGBTQ全友好🌈👩‍❤️‍👩｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1\nbluesky：tongchan-2008 ←🔪🩸💊\n🚪8.8 仅好友位扩列纯乞讨\n已成年休学中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "rain_kawaii1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tong_u._.u_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tong_u._.u_",
+                "start": 0,
+                "url": "https://t.co/GZHx8f1Ujj"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2108137369409094049",
+        "name": "tong_u._.u_",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043915964559835136/1776143589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103533775343001600/xVd1jr9E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 811,
+          "following_count": 188,
+          "like_count": 2572,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 1256
+        },
+        "url": "https://t.co/GZHx8f1Ujj",
+        "username": "rain_kawaiiii1",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-01-01T10:46:16.000Z",
+        "description": "✉️misa4moeba@gmail.com \n thx for ur comments!🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/4moeba",
+                "end": 23,
+                "expanded_url": "https://lit.link/4moeba",
+                "start": 0,
+                "url": "https://t.co/jF0dDs5HH8"
+              }
+            ]
+          }
+        },
+        "id": "1344958069868957696",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108082410978193459",
+        "name": "amiiba",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1344958069868957696/1782467916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017229637282320384/PdBTIejL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7299,
+          "following_count": 304,
+          "like_count": 4073,
+          "listed_count": 25,
+          "media_count": 17,
+          "tweet_count": 148
+        },
+        "url": "https://t.co/jF0dDs5HH8",
+        "username": "4MOEBA__",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

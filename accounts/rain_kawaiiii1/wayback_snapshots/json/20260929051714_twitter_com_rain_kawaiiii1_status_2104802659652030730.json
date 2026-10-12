@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104557977349074944"
+      ],
+      "media_source_tweet_id": [
+        "2104557988736606532"
+      ]
+    },
+    "author_id": "2043915964559835136",
+    "conversation_id": "2104802659652030730",
+    "created_at": "2026-09-29T05:17:14.000Z",
+    "display_text_range": [
+      0,
+      85
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T06:17:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104802659652030730"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 38,
+          "start": 18,
+          "tag": "NEEDY_GIRL_OVERDOSE"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1768959891878944768",
+          "start": 3,
+          "username": "AngelsMason_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Bck4ZIDpsU",
+          "end": 85,
+          "expanded_url": "https://x.com/AngelsMason_/status/2104557988736606532/photo/1",
+          "media_key": "3_2104557977349074944",
+          "start": 62,
+          "url": "https://t.co/Bck4ZIDpsU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104802659652030730",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2104557977349074944"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 797
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104557988736606532",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @AngelsMason_: #NEEDY_GIRL_OVERDOSE \n🧬憂鬱に溶け込んでしまうときに現れる天使🧬 https://t.co/Bck4ZIDpsU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2500,
+        "media_key": "3_2104557977349074944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTTkVHkbMAAHXaZ.jpg",
+        "width": 1875
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104557977349074944"
+          ],
+          "media_source_tweet_id": [
+            "2104557988736606532"
+          ]
+        },
+        "author_id": "2043915964559835136",
+        "conversation_id": "2104802659652030730",
+        "created_at": "2026-09-29T05:17:14.000Z",
+        "display_text_range": [
+          0,
+          85
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T06:17:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104802659652030730"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 18,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1768959891878944768",
+              "start": 3,
+              "username": "AngelsMason_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bck4ZIDpsU",
+              "end": 85,
+              "expanded_url": "https://x.com/AngelsMason_/status/2104557988736606532/photo/1",
+              "media_key": "3_2104557977349074944",
+              "start": 62,
+              "url": "https://t.co/Bck4ZIDpsU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104802659652030730",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2104557977349074944"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 797
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104557988736606532",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @AngelsMason_: #NEEDY_GIRL_OVERDOSE \n🧬憂鬱に溶け込んでしまうときに現れる天使🧬 https://t.co/Bck4ZIDpsU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104557977349074944"
+          ]
+        },
+        "author_id": "1768959891878944768",
+        "conversation_id": "2104557988736606532",
+        "created_at": "2026-09-28T13:04:59.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T14:04:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104557988736606532"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 0,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bck4ZIDpsU",
+              "end": 67,
+              "expanded_url": "https://x.com/AngelsMason_/status/2104557988736606532/photo/1",
+              "media_key": "3_2104557977349074944",
+              "start": 44,
+              "url": "https://t.co/Bck4ZIDpsU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104557988736606532",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2104557977349074944"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 298,
+          "impression_count": 33008,
+          "like_count": 4721,
+          "quote_count": 9,
+          "reply_count": 1,
+          "retweet_count": 797
+        },
+        "reply_settings": "following",
+        "text": "#NEEDY_GIRL_OVERDOSE \n🧬憂鬱に溶け込んでしまうときに現れる天使🧬 https://t.co/Bck4ZIDpsU"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "线下查无此人｜不安定｜LGBTQ全友好🌈👩‍❤️‍👩｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1\nbluesky：tongchan-2008 ←🔪🩸💊\n🚪8.8 仅好友位扩列纯乞讨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "rain_kawaii1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tong_u._.u_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tong_u._.u_",
+                "start": 0,
+                "url": "https://t.co/GZHx8f2s8R"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2104802659652030730",
+        "name": "tong_u._.u_",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043915964559835136/1776143589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103533775343001600/xVd1jr9E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 166,
+          "like_count": 2243,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 1009
+        },
+        "url": "https://t.co/GZHx8f2s8R",
+        "username": "rain_kawaiiii1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-16T11:18:14.000Z",
+        "description": "🧇🐈‍⬛🧸殺戮の天使🪽&🌹❤🐈‍⬛··· /올캐러!✨(ㅁᴗᗜᛝ)\n🚫Please do not use my artwork for any purpose without permission.",
+        "id": "1768959891878944768",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104703813513019678",
+        "name": "밤🌰",
+        "pinned_tweet_id": "2058107276511367520",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1768959891878944768/1786705307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100854489968480256/srALsyxG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4078,
+          "following_count": 67,
+          "like_count": 6974,
+          "listed_count": 6,
+          "media_count": 734,
+          "tweet_count": 3926
+        },
+        "url": "",
+        "username": "AngelsMason_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

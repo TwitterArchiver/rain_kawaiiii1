@@ -1,0 +1,535 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2101959362659176449"
+      ],
+      "media_source_tweet_id": [
+        "2101959625990181239"
+      ]
+    },
+    "author_id": "2043915964559835136",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2102069136046350406",
+    "created_at": "2026-09-21T16:15:11.000Z",
+    "display_text_range": [
+      0,
+      67
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T17:15:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102069136046350406"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1967855920198848520",
+          "start": 3,
+          "username": "Synthesizerchan"
+        },
+        {
+          "end": 43,
+          "id": "1344917558416211968",
+          "start": 27,
+          "username": "rarirure_rirure"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/E0id504JTd",
+          "end": 67,
+          "expanded_url": "https://x.com/Synthesizerchan/status/2101959625990181239/photo/1",
+          "media_key": "3_2101959362659176449",
+          "start": 44,
+          "url": "https://t.co/E0id504JTd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102069136046350406",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2101959362659176449"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 88
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101959625990181239",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Synthesizerchan: イラスト:\n@rarirure_rirure https://t.co/E0id504JTd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2101959362659176449",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSuo51ebUAEgSiP.jpg",
+        "width": 2892
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101959362659176449"
+          ],
+          "media_source_tweet_id": [
+            "2101959625990181239"
+          ]
+        },
+        "author_id": "2043915964559835136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2102069136046350406",
+        "created_at": "2026-09-21T16:15:11.000Z",
+        "display_text_range": [
+          0,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T17:15:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102069136046350406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1967855920198848520",
+              "start": 3,
+              "username": "Synthesizerchan"
+            },
+            {
+              "end": 43,
+              "id": "1344917558416211968",
+              "start": 27,
+              "username": "rarirure_rirure"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/E0id504JTd",
+              "end": 67,
+              "expanded_url": "https://x.com/Synthesizerchan/status/2101959625990181239/photo/1",
+              "media_key": "3_2101959362659176449",
+              "start": 44,
+              "url": "https://t.co/E0id504JTd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102069136046350406",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2101959362659176449"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 88
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101959625990181239",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Synthesizerchan: イラスト:\n@rarirure_rirure https://t.co/E0id504JTd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101959362659176449"
+          ]
+        },
+        "author_id": "1967855920198848520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2101959625990181239",
+        "created_at": "2026-09-21T09:00:02.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T10:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101959625990181239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 22,
+              "id": "1344917558416211968",
+              "start": 6,
+              "username": "rarirure_rirure"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/E0id504JTd",
+              "end": 46,
+              "expanded_url": "https://x.com/Synthesizerchan/status/2101959625990181239/photo/1",
+              "media_key": "3_2101959362659176449",
+              "start": 23,
+              "url": "https://t.co/E0id504JTd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101959625990181239",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2101959362659176449"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 119,
+          "impression_count": 11704,
+          "like_count": 942,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 88
+        },
+        "reply_settings": "everyone",
+        "text": "イラスト:\n@rarirure_rirure https://t.co/E0id504JTd"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "线下查无此人｜不安定｜LGBTQ全友好🌈👩‍❤️‍👩｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1\nbluesky：tongchan-2008 ←🔪🩸💊\n🚪8.8 仅好友位扩列纯乞讨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "rain_kawaii1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tong_u._.u_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tong_u._.u_",
+                "start": 0,
+                "url": "https://t.co/GZHx8f2s8R"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2102069144460083666",
+        "name": "tong_u._.u_",
+        "pinned_tweet_id": "2101630503900295595",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043915964559835136/1776143589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043920464872148992/gUpWTpWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 161,
+          "like_count": 1997,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 878
+        },
+        "url": "https://t.co/GZHx8f2s8R",
+        "username": "rain_kawaiiii1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-16T07:40:28.000Z",
+        "description": "https://t.co/Pi9BQy0EXS",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@synthesizerch…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@synthesizerchan",
+                "start": 0,
+                "url": "https://t.co/Pi9BQy0EXS"
+              }
+            ]
+          }
+        },
+        "id": "1967855920198848520",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101959625990181239",
+        "name": "テクノポップ・有機・シンセサイザーちゃん",
+        "pinned_tweet_id": "2054532106496229677",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1967855920198848520/1761197695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980169480895418368/gNsBVPWD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8599,
+          "following_count": 0,
+          "like_count": 13,
+          "listed_count": 35,
+          "media_count": 138,
+          "tweet_count": 219
+        },
+        "url": "",
+        "username": "Synthesizerchan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-01-01T08:06:05.000Z",
+        "description": "ご用はDMへ！:3｜⚠︎ AI学習禁止・無断転載禁止 ⚠︎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/54627562",
+                "end": 23,
+                "expanded_url": "http://pixiv.net/users/54627562",
+                "start": 0,
+                "url": "https://t.co/b91GBwbuB4"
+              }
+            ]
+          }
+        },
+        "id": "1344917558416211968",
+        "is_identity_verified": false,
+        "location": "🎨2024/05/22~",
+        "most_recent_tweet_id": "2102030214910091768",
+        "name": "らりるれ りるれ",
+        "pinned_tweet_id": "2090743043901337829",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1344917558416211968/1783596424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060197240510218240/5TCCzj7M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14110,
+          "following_count": 585,
+          "like_count": 199522,
+          "listed_count": 63,
+          "media_count": 191,
+          "tweet_count": 2994
+        },
+        "url": "https://t.co/b91GBwbuB4",
+        "username": "rarirure_rirure",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

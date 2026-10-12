@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104233868694028288"
+      ],
+      "media_source_tweet_id": [
+        "2104233876419952900"
+      ]
+    },
+    "author_id": "2043915964559835136",
+    "conversation_id": "2104455992583028849",
+    "created_at": "2026-09-28T06:19:42.000Z",
+    "display_text_range": [
+      0,
+      70
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T07:19:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104455992583028849"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1857483338006802434",
+          "start": 3,
+          "username": "nininililily"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jPEGdWwuUF",
+          "end": 70,
+          "expanded_url": "https://x.com/nininililily/status/2104233876419952900/photo/1",
+          "media_key": "3_2104233868694028288",
+          "start": 47,
+          "url": "https://t.co/jPEGdWwuUF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104455992583028849",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2104233868694028288"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104233876419952900",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nininililily: 两百fo粉丝离抽两个送一人四板红普\n转发评论关注自动参加 https://t.co/jPEGdWwuUF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2104233868694028288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTO9jgvagAAsW4i.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104233868694028288"
+          ],
+          "media_source_tweet_id": [
+            "2104233876419952900"
+          ]
+        },
+        "author_id": "2043915964559835136",
+        "conversation_id": "2104455992583028849",
+        "created_at": "2026-09-28T06:19:42.000Z",
+        "display_text_range": [
+          0,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T07:19:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104455992583028849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1857483338006802434",
+              "start": 3,
+              "username": "nininililily"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jPEGdWwuUF",
+              "end": 70,
+              "expanded_url": "https://x.com/nininililily/status/2104233876419952900/photo/1",
+              "media_key": "3_2104233868694028288",
+              "start": 47,
+              "url": "https://t.co/jPEGdWwuUF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104455992583028849",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104233868694028288"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104233876419952900",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nininililily: 两百fo粉丝离抽两个送一人四板红普\n转发评论关注自动参加 https://t.co/jPEGdWwuUF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104233868694028288"
+          ]
+        },
+        "author_id": "1857483338006802434",
+        "conversation_id": "2104233876419952900",
+        "created_at": "2026-09-27T15:37:05.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T16:37:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104233876419952900"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jPEGdWwuUF",
+              "end": 52,
+              "expanded_url": "https://x.com/nininililily/status/2104233876419952900/photo/1",
+              "media_key": "3_2104233868694028288",
+              "start": 29,
+              "url": "https://t.co/jPEGdWwuUF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104233876419952900",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104233868694028288"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 325,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "两百fo粉丝离抽两个送一人四板红普\n转发评论关注自动参加 https://t.co/jPEGdWwuUF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "description": "线下查无此人｜不安定｜LGBTQ全友好🌈👩‍❤️‍👩｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1\nbluesky：tongchan-2008 ←🔪🩸💊\n🚪8.8 仅好友位扩列纯乞讨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "rain_kawaii1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tong_u._.u_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tong_u._.u_",
+                "start": 0,
+                "url": "https://t.co/GZHx8f2s8R"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2104455992583028849",
+        "name": "tong_u._.u_",
+        "pinned_tweet_id": "2103761678697722165",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043915964559835136/1776143589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103533775343001600/xVd1jr9E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 405,
+          "following_count": 166,
+          "like_count": 2230,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 1004
+        },
+        "url": "https://t.co/GZHx8f2s8R",
+        "username": "rain_kawaiiii1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-15T17:58:47.000Z",
+        "description": "帝王正在建立她的王国\n黑夜 白昼 都是王的赐福\n🚪52/88（纯绿\n(˶‾᷄ ⁻̫ ‾᷅˵)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mihuonojiao124",
+                "end": 23,
+                "expanded_url": "https://t.me/mihuonojiao124",
+                "start": 0,
+                "url": "https://t.co/A4Skx0FMLv"
+              }
+            ]
+          }
+        },
+        "id": "1857483338006802434",
+        "is_identity_verified": false,
+        "location": "Shibuya-ku, Tokyo",
+        "most_recent_tweet_id": "2104449973995860102",
+        "name": "めいわく",
+        "pinned_tweet_id": "2101457742162690194",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1857483338006802434/1790558625",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092909113906970624/zDMZcrt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 55,
+          "like_count": 396,
+          "listed_count": 0,
+          "media_count": 198,
+          "tweet_count": 549
+        },
+        "url": "https://t.co/A4Skx0FMLv",
+        "username": "nininililily",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

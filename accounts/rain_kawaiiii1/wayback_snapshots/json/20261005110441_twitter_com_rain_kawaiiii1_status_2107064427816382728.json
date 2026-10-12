@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043915964559835136",
+    "conversation_id": "2107025262856806842",
+    "created_at": "2026-10-05T11:04:41.000Z",
+    "display_text_range": [
+      17,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T12:04:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107064427816382728"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1875123241356050432",
+          "start": 0,
+          "username": "XL5105540517808"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107064427816382728",
+    "in_reply_to_user_id": "1875123241356050432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107059942683541732",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XL5105540517808 对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043915964559835136",
+        "conversation_id": "2107025262856806842",
+        "created_at": "2026-10-05T11:04:41.000Z",
+        "display_text_range": [
+          17,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T12:04:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107064427816382728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1875123241356050432",
+              "start": 0,
+              "username": "XL5105540517808"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107064427816382728",
+        "in_reply_to_user_id": "1875123241356050432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107059942683541732",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XL5105540517808 对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1875123241356050432",
+        "conversation_id": "2107025262856806842",
+        "created_at": "2026-10-05T10:46:52.000Z",
+        "display_text_range": [
+          16,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T11:46:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107059942683541732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2043915964559835136",
+              "start": 0,
+              "username": "rain_kawaiiii1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107059942683541732",
+        "in_reply_to_user_id": "2043915964559835136",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107025262856806842",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rain_kawaiiii1 8.8。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "线下查无此人｜不安定｜LGBTQ全友好🌈👩‍❤️‍👩｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1\nbluesky：tongchan-2008 ←🔪🩸💊\n🚪8.8 仅好友位扩列纯乞讨\n已成年休学中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "rain_kawaii1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tong_u._.u_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tong_u._.u_",
+                "start": 0,
+                "url": "https://t.co/GZHx8f1Ujj"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2107064427816382728",
+        "name": "tong_u._.u_",
+        "pinned_tweet_id": "2107025262856806842",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043915964559835136/1776143589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103533775343001600/xVd1jr9E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 661,
+          "following_count": 175,
+          "like_count": 2490,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 1190
+        },
+        "url": "https://t.co/GZHx8f1Ujj",
+        "username": "rain_kawaiiii1",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-03T10:13:22.000Z",
+        "description": "爱玩",
+        "id": "1875123241356050432",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107059942683541732",
+        "name": "XL",
+        "profile_banner_url": "",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 218,
+          "like_count": 817,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 118
+        },
+        "url": "",
+        "username": "XL5105540517808",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

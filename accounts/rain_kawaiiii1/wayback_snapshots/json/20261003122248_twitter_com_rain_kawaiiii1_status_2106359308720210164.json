@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2106338415050719232"
+      ],
+      "media_source_tweet_id": [
+        "2106338423317631143"
+      ]
+    },
+    "author_id": "2043915964559835136",
+    "conversation_id": "2106359308720210164",
+    "created_at": "2026-10-03T12:22:48.000Z",
+    "display_text_range": [
+      0,
+      117
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T13:22:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106359308720210164"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1257977880841080832",
+          "start": 3,
+          "username": "NEKONO14"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PzY00PTpi0",
+          "end": 117,
+          "expanded_url": "https://x.com/NEKONO14/status/2106338423317631143/photo/1",
+          "media_key": "3_2106338415050719232",
+          "start": 94,
+          "url": "https://t.co/PzY00PTpi0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106359308720210164",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2106338415050719232"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106338423317631143",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NEKONO14: 宝宝们，我是妃宫千早二周目，意外被msk坠机,之前的互关麻烦帮我转一下帖子呀，因为上一个账号有幽灵ban,请帮我转发这个号喔，非常谢谢你们喔꒰^ↀωↀ^꒱❤❤ https://t.co/PzY00PTpi0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2106338415050719232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTs3oO3bgAArWrG.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106338415050719232"
+          ],
+          "media_source_tweet_id": [
+            "2106338423317631143"
+          ]
+        },
+        "author_id": "2043915964559835136",
+        "conversation_id": "2106359308720210164",
+        "created_at": "2026-10-03T12:22:48.000Z",
+        "display_text_range": [
+          0,
+          117
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T13:22:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106359308720210164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1257977880841080832",
+              "start": 3,
+              "username": "NEKONO14"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PzY00PTpi0",
+              "end": 117,
+              "expanded_url": "https://x.com/NEKONO14/status/2106338423317631143/photo/1",
+              "media_key": "3_2106338415050719232",
+              "start": 94,
+              "url": "https://t.co/PzY00PTpi0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106359308720210164",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106338415050719232"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106338423317631143",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NEKONO14: 宝宝们，我是妃宫千早二周目，意外被msk坠机,之前的互关麻烦帮我转一下帖子呀，因为上一个账号有幽灵ban,请帮我转发这个号喔，非常谢谢你们喔꒰^ↀωↀ^꒱❤❤ https://t.co/PzY00PTpi0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106338415050719232"
+          ]
+        },
+        "author_id": "1257977880841080832",
+        "conversation_id": "2106338423317631143",
+        "created_at": "2026-10-03T10:59:48.000Z",
+        "display_text_range": [
+          0,
+          79
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T11:59:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106338423317631143"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PzY00PTpi0",
+              "end": 103,
+              "expanded_url": "https://x.com/NEKONO14/status/2106338423317631143/photo/1",
+              "media_key": "3_2106338415050719232",
+              "start": 80,
+              "url": "https://t.co/PzY00PTpi0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106338423317631143",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106338415050719232"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 197,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "宝宝们，我是妃宫千早二周目，意外被msk坠机,之前的互关麻烦帮我转一下帖子呀，因为上一个账号有幽灵ban,请帮我转发这个号喔，非常谢谢你们喔꒰^ↀωↀ^꒱❤❤ https://t.co/PzY00PTpi0"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "线下查无此人｜不安定｜LGBTQ全友好🌈👩‍❤️‍👩｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1\nbluesky：tongchan-2008 ←🔪🩸💊\n🚪8.8 仅好友位扩列纯乞讨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "rain_kawaii1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tong_u._.u_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tong_u._.u_",
+                "start": 0,
+                "url": "https://t.co/GZHx8f2s8R"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2106359308720210164",
+        "name": "tong_u._.u_",
+        "pinned_tweet_id": "2106306408291701228",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043915964559835136/1776143589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103533775343001600/xVd1jr9E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 525,
+          "following_count": 174,
+          "like_count": 2382,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 1104
+        },
+        "url": "https://t.co/GZHx8f2s8R",
+        "username": "rain_kawaiiii1",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-06T10:18:06.000Z",
+        "description": "私は妃宮千早／O割クーポン／再フォーカス・再抑圧／ADHD／C-PTSD／薬理学と心理学が好き／同じような人には無限に親切／性別はお姉さん大人／お姉さんは永遠にあなたを愛します",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/RIH6N1kVpb"
+              }
+            ]
+          }
+        },
+        "id": "1257977880841080832",
+        "is_identity_verified": false,
+        "location": "惠泉女子学院",
+        "most_recent_tweet_id": "2106344159946924342",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2106338423317631143",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1257977880841080832/1790600695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106338699013451776/c1AVeZSj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 84,
+          "like_count": 146,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 349
+        },
+        "url": "https://t.co/RIH6N1kVpb",
+        "username": "NEKONO14",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

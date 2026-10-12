@@ -1,0 +1,763 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043915964559835136",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1271534251415007234",
+          "name": "Rilakkuma"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1271534251415007234",
+          "name": "Rilakkuma"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1271534251415007234",
+          "name": "Rilakkuma"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491897789013393420",
+          "name": "Strategy games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "2106638047962124571",
+    "created_at": "2026-10-04T06:50:24.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T07:50:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106638047962124571"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1404997135360270343",
+          "start": 3,
+          "username": "_yukinaOvO"
+        },
+        {
+          "end": 46,
+          "id": "1456748615368642560",
+          "start": 33,
+          "username": "TheDuckyyyyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106638047962124571",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104780234759471250",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_yukinaOvO: ⌯'^'⌯鹿角/Yukina\n最爱@TheDuckyyyyy \n发推只为碎碎念，不喜欢我的滚\n\n成分如下\n音游┆maimai w4┆bangdream┆明日方舟┆拓麻歌子\nリラックマ┆ハチワレ┆湊友希那 ┆贝蒂┆利姆露┆米莉姆 \n\n我很温良，请女…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2104780185497382912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTWubVbaMAAVxpU.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2104780185031815168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTWubTsaMAAhqmF.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2104780185023422464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTWubTqaIAAx0TZ.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1087,
+        "media_key": "3_2104780184973094912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTWubTeaMAAjer5.jpg",
+        "width": 1146
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043915964559835136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1271534251415007234",
+              "name": "Rilakkuma"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1271534251415007234",
+              "name": "Rilakkuma"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1271534251415007234",
+              "name": "Rilakkuma"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2106638047962124571",
+        "created_at": "2026-10-04T06:50:24.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T07:50:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106638047962124571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1404997135360270343",
+              "start": 3,
+              "username": "_yukinaOvO"
+            },
+            {
+              "end": 46,
+              "id": "1456748615368642560",
+              "start": 33,
+              "username": "TheDuckyyyyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106638047962124571",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104780234759471250",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_yukinaOvO: ⌯'^'⌯鹿角/Yukina\n最爱@TheDuckyyyyy \n发推只为碎碎念，不喜欢我的滚\n\n成分如下\n音游┆maimai w4┆bangdream┆明日方舟┆拓麻歌子\nリラックマ┆ハチワレ┆湊友希那 ┆贝蒂┆利姆露┆米莉姆 \n\n我很温良，请女…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104780185497382912",
+            "3_2104780185031815168",
+            "3_2104780185023422464",
+            "3_2104780184973094912"
+          ]
+        },
+        "author_id": "1404997135360270343",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1271534251415007234",
+              "name": "Rilakkuma"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1271534251415007234",
+              "name": "Rilakkuma"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1271534251415007234",
+              "name": "Rilakkuma"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2104780234759471250",
+        "created_at": "2026-09-29T03:48:07.000Z",
+        "display_text_range": [
+          0,
+          157
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T04:48:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104780234759471250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 30,
+              "id": "1456748615368642560",
+              "start": 17,
+              "username": "TheDuckyyyyy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0zpWOI42Ts",
+              "end": 181,
+              "expanded_url": "https://x.com/_yukinaOvO/status/2104780234759471250/photo/1",
+              "media_key": "3_2104780185497382912",
+              "start": 158,
+              "url": "https://t.co/0zpWOI42Ts"
+            },
+            {
+              "display_url": "pic.x.com/0zpWOI42Ts",
+              "end": 181,
+              "expanded_url": "https://x.com/_yukinaOvO/status/2104780234759471250/photo/1",
+              "media_key": "3_2104780185031815168",
+              "start": 158,
+              "url": "https://t.co/0zpWOI42Ts"
+            },
+            {
+              "display_url": "pic.x.com/0zpWOI42Ts",
+              "end": 181,
+              "expanded_url": "https://x.com/_yukinaOvO/status/2104780234759471250/photo/1",
+              "media_key": "3_2104780185023422464",
+              "start": 158,
+              "url": "https://t.co/0zpWOI42Ts"
+            },
+            {
+              "display_url": "pic.x.com/0zpWOI42Ts",
+              "end": 181,
+              "expanded_url": "https://x.com/_yukinaOvO/status/2104780234759471250/photo/1",
+              "media_key": "3_2104780184973094912",
+              "start": 158,
+              "url": "https://t.co/0zpWOI42Ts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104780234759471250",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2104780185497382912"
+          },
+          {
+            "media_key": "3_2104780185031815168"
+          },
+          {
+            "media_key": "3_2104780185023422464"
+          },
+          {
+            "media_key": "3_2104780184973094912"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1107,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "⌯'^'⌯鹿角/Yukina\n最爱@TheDuckyyyyy \n发推只为碎碎念，不喜欢我的滚\n\n成分如下\n音游┆maimai w4┆bangdream┆明日方舟┆拓麻歌子\nリラックマ┆ハチワレ┆湊友希那 ┆贝蒂┆利姆露┆米莉姆 \n\n我很温良，请女孩同好同类跟我互fo🥹💕🤲🏻\n不喜欢莫名其妙的话，请不要骚扰我，谢谢 https://t.co/0zpWOI42Ts"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "线下查无此人｜不安定｜LGBTQ全友好🌈👩‍❤️‍👩｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1\nbluesky：tongchan-2008 ←🔪🩸💊\n🚪8.8 仅好友位扩列纯乞讨\n已成年休学中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "rain_kawaii1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tong_u._.u_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tong_u._.u_",
+                "start": 0,
+                "url": "https://t.co/GZHx8f1Ujj"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2106638047962124571",
+        "name": "tong_u._.u_",
+        "pinned_tweet_id": "2106306408291701228",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043915964559835136/1776143589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103533775343001600/xVd1jr9E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 545,
+          "following_count": 172,
+          "like_count": 2426,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 1131
+        },
+        "url": "https://t.co/GZHx8f1Ujj",
+        "username": "rain_kawaiiii1",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-06-16T03:00:05.000Z",
+        "description": "^⌯𖥦⌯^ ੭ 鹿角/Yukina❄️ ┆碎碎念記錄合集┆中文En OK┆音游、繪畫┆毛绒大好き┆ハチワレ、湊友希那、リラックマ┆拒建政 查成分回fo\nサブ垢@yuk1_QwQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 79,
+                "username": "yuk1_QwQ"
+              }
+            ]
+          }
+        },
+        "id": "1404997135360270343",
+        "is_identity_verified": false,
+        "location": "｡ﾟ+.雨° 雪꜆˖♡* 貓咪/ᐠ - ˕ -マ Ⳋ",
+        "most_recent_tweet_id": "2106454768071954781",
+        "name": "Yuki._.Neko",
+        "pinned_tweet_id": "2104780234759471250",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1404997135360270343/1726210286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079184577940312064/VYDursNV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 466,
+          "like_count": 7534,
+          "listed_count": 0,
+          "media_count": 382,
+          "tweet_count": 3140
+        },
+        "url": "",
+        "username": "_yukinaOvO",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-11-05T22:22:00.000Z",
+        "description": "",
+        "id": "1456748615368642560",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086365589564731707",
+        "name": "Ducky",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1456748615368642560/1636151378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1664584106980827138/zW2Tpt8J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 44,
+          "like_count": 86,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "url": "",
+        "username": "TheDuckyyyyy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

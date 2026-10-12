@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2105182258097455104",
+        "3_2105182258097528832"
+      ]
+    },
+    "author_id": "2043915964559835136",
+    "conversation_id": "2105182271380893712",
+    "created_at": "2026-09-30T06:25:40.000Z",
+    "display_text_range": [
+      0,
+      93
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T07:25:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105182271380893712"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 79,
+          "start": 75,
+          "tag": "地雷系"
+        },
+        {
+          "end": 84,
+          "start": 80,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 88,
+          "start": 85,
+          "tag": "餐券"
+        },
+        {
+          "end": 93,
+          "start": 89,
+          "tag": "cos"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7fxSbElaJB",
+          "end": 117,
+          "expanded_url": "https://x.com/rain_kawaiiii1/status/2105182271380893712/photo/1",
+          "media_key": "3_2105182258097455104",
+          "start": 94,
+          "url": "https://t.co/7fxSbElaJB"
+        },
+        {
+          "display_url": "pic.x.com/7fxSbElaJB",
+          "end": 117,
+          "expanded_url": "https://x.com/rain_kawaiiii1/status/2105182271380893712/photo/1",
+          "media_key": "3_2105182258097528832",
+          "start": 94,
+          "url": "https://t.co/7fxSbElaJB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105182271380893712",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2105182258097455104"
+      },
+      {
+        "media_key": "3_2105182258097528832"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "来过我🚪吧 8.8r纯绿 支持口令和赞赏码\n可以给你唱歌跳舞出cos….入🚪既可给你唱歌有点歌条 开放朋友圈两个号的\n也接伤口定制🉑脂肪真皮～有例图\n#地雷系 #门槛妹 #餐券 #cos https://t.co/7fxSbElaJB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2105182258097455104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTccHClagAAdAJs.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2105182258097528832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTccHClboAAWamF.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105182258097455104",
+            "3_2105182258097528832"
+          ]
+        },
+        "author_id": "2043915964559835136",
+        "conversation_id": "2105182271380893712",
+        "created_at": "2026-09-30T06:25:40.000Z",
+        "display_text_range": [
+          0,
+          93
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T07:25:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105182271380893712"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 79,
+              "start": 75,
+              "tag": "地雷系"
+            },
+            {
+              "end": 84,
+              "start": 80,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 88,
+              "start": 85,
+              "tag": "餐券"
+            },
+            {
+              "end": 93,
+              "start": 89,
+              "tag": "cos"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7fxSbElaJB",
+              "end": 117,
+              "expanded_url": "https://x.com/rain_kawaiiii1/status/2105182271380893712/photo/1",
+              "media_key": "3_2105182258097455104",
+              "start": 94,
+              "url": "https://t.co/7fxSbElaJB"
+            },
+            {
+              "display_url": "pic.x.com/7fxSbElaJB",
+              "end": 117,
+              "expanded_url": "https://x.com/rain_kawaiiii1/status/2105182271380893712/photo/1",
+              "media_key": "3_2105182258097528832",
+              "start": 94,
+              "url": "https://t.co/7fxSbElaJB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105182271380893712",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105182258097455104"
+          },
+          {
+            "media_key": "3_2105182258097528832"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "来过我🚪吧 8.8r纯绿 支持口令和赞赏码\n可以给你唱歌跳舞出cos….入🚪既可给你唱歌有点歌条 开放朋友圈两个号的\n也接伤口定制🉑脂肪真皮～有例图\n#地雷系 #门槛妹 #餐券 #cos https://t.co/7fxSbElaJB"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "线下查无此人｜不安定｜LGBTQ全友好🌈👩‍❤️‍👩｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1\nbluesky：tongchan-2008 ←🔪🩸💊\n🚪8.8 仅好友位扩列纯乞讨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "rain_kawaii1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tong_u._.u_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tong_u._.u_",
+                "start": 0,
+                "url": "https://t.co/GZHx8f2s8R"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2105182271380893712",
+        "name": "tong_u._.u_",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043915964559835136/1776143589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103533775343001600/xVd1jr9E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 411,
+          "following_count": 167,
+          "like_count": 2274,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 1027
+        },
+        "url": "https://t.co/GZHx8f2s8R",
+        "username": "rain_kawaiiii1",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

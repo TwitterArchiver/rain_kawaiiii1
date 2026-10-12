@@ -1,0 +1,484 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2106726215013044224",
+        "3_2106726215038177280",
+        "3_2106726214945923072",
+        "3_2106726215021461504"
+      ]
+    },
+    "author_id": "2043915964559835136",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2106726970717520282",
+    "created_at": "2026-10-04T12:43:45.000Z",
+    "display_text_range": [
+      0,
+      113
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T13:40:54.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2106726253235757332",
+      "2106726970717520282"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 102,
+          "start": 87,
+          "tag": "cosplayㅤㅤㅤㅤㅤㅤㅤ"
+        },
+        {
+          "end": 108,
+          "start": 104,
+          "tag": "地雷系"
+        },
+        {
+          "end": 113,
+          "start": 109,
+          "tag": "门槛妹"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wN3iDVfSmn",
+          "end": 137,
+          "expanded_url": "https://x.com/rain_kawaiiii1/status/2106726970717520282/photo/1",
+          "media_key": "3_2106726215013044224",
+          "start": 114,
+          "url": "https://t.co/wN3iDVfSmn"
+        },
+        {
+          "display_url": "pic.x.com/wN3iDVfSmn",
+          "end": 137,
+          "expanded_url": "https://x.com/rain_kawaiiii1/status/2106726970717520282/photo/1",
+          "media_key": "3_2106726215038177280",
+          "start": 114,
+          "url": "https://t.co/wN3iDVfSmn"
+        },
+        {
+          "display_url": "pic.x.com/wN3iDVfSmn",
+          "end": 137,
+          "expanded_url": "https://x.com/rain_kawaiiii1/status/2106726970717520282/photo/1",
+          "media_key": "3_2106726214945923072",
+          "start": 114,
+          "url": "https://t.co/wN3iDVfSmn"
+        },
+        {
+          "display_url": "pic.x.com/wN3iDVfSmn",
+          "end": 137,
+          "expanded_url": "https://x.com/rain_kawaiiii1/status/2106726970717520282/photo/1",
+          "media_key": "3_2106726215021461504",
+          "start": 114,
+          "url": "https://t.co/wN3iDVfSmn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106726970717520282",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2106726215013044224"
+      },
+      {
+        "media_key": "3_2106726215038177280"
+      },
+      {
+        "media_key": "3_2106726214945923072"
+      },
+      {
+        "media_key": "3_2106726215021461504"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🚪8.8开放朋友圈\n求来入门吧😿😿我需要钱\n只有纯绿 p4是点歌条包含在🚪里\n可以给你画画（技术不精\n支持口令/赞赏码 可以私信我！！\n可以来互转互关\n接伤口定制真皮脂肪🉑\n#cosplayㅤㅤㅤㅤㅤㅤㅤ \n#地雷系 #门槛妹 https://t.co/wN3iDVfSmn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2106726215013044224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTyYVKTbEAAUrG7.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2106726215038177280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTyYVKZakAAFBeD.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2106726214945923072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTyYVKDa4AAw2JF.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2106726215021461504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTyYVKVbgAA6Hqg.jpg",
+        "width": 358
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106726215013044224",
+            "3_2106726215038177280",
+            "3_2106726214945923072",
+            "3_2106726215021461504"
+          ]
+        },
+        "author_id": "2043915964559835136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2106726253235757332",
+        "created_at": "2026-10-04T12:40:54.000Z",
+        "display_text_range": [
+          0,
+          102
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T13:40:54.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106726253235757332",
+          "2106726970717520282"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 91,
+              "start": 76,
+              "tag": "cosplayㅤㅤㅤㅤㅤㅤㅤ"
+            },
+            {
+              "end": 97,
+              "start": 93,
+              "tag": "地雷系"
+            },
+            {
+              "end": 102,
+              "start": 98,
+              "tag": "门槛妹"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BC9FW9GSCz",
+              "end": 126,
+              "expanded_url": "https://x.com/rain_kawaiiii1/status/2106726253235757332/photo/1",
+              "media_key": "3_2106726215013044224",
+              "start": 103,
+              "url": "https://t.co/BC9FW9GSCz"
+            },
+            {
+              "display_url": "pic.x.com/BC9FW9GSCz",
+              "end": 126,
+              "expanded_url": "https://x.com/rain_kawaiiii1/status/2106726253235757332/photo/1",
+              "media_key": "3_2106726215038177280",
+              "start": 103,
+              "url": "https://t.co/BC9FW9GSCz"
+            },
+            {
+              "display_url": "pic.x.com/BC9FW9GSCz",
+              "end": 126,
+              "expanded_url": "https://x.com/rain_kawaiiii1/status/2106726253235757332/photo/1",
+              "media_key": "3_2106726214945923072",
+              "start": 103,
+              "url": "https://t.co/BC9FW9GSCz"
+            },
+            {
+              "display_url": "pic.x.com/BC9FW9GSCz",
+              "end": 126,
+              "expanded_url": "https://x.com/rain_kawaiiii1/status/2106726253235757332/photo/1",
+              "media_key": "3_2106726215021461504",
+              "start": 103,
+              "url": "https://t.co/BC9FW9GSCz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106726253235757332",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106726215013044224"
+          },
+          {
+            "media_key": "3_2106726215038177280"
+          },
+          {
+            "media_key": "3_2106726214945923072"
+          },
+          {
+            "media_key": "3_2106726215021461504"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "🚪8.8开放朋友圈\n求来入门吧😿😿我需要钱\n只有纯绿 p4是点歌条包含在🚪里\n可以给你画画（技术不精\n支持口令/赞赏码 可以私信我！！\n可以来互转互关\n#cosplayㅤㅤㅤㅤㅤㅤㅤ \n#地雷系 #门槛妹 https://t.co/BC9FW9GSCz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106726215013044224",
+            "3_2106726215038177280",
+            "3_2106726214945923072",
+            "3_2106726215021461504"
+          ]
+        },
+        "author_id": "2043915964559835136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2106726970717520282",
+        "created_at": "2026-10-04T12:43:45.000Z",
+        "display_text_range": [
+          0,
+          113
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T13:40:54.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106726253235757332",
+          "2106726970717520282"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 102,
+              "start": 87,
+              "tag": "cosplayㅤㅤㅤㅤㅤㅤㅤ"
+            },
+            {
+              "end": 108,
+              "start": 104,
+              "tag": "地雷系"
+            },
+            {
+              "end": 113,
+              "start": 109,
+              "tag": "门槛妹"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wN3iDVfSmn",
+              "end": 137,
+              "expanded_url": "https://x.com/rain_kawaiiii1/status/2106726970717520282/photo/1",
+              "media_key": "3_2106726215013044224",
+              "start": 114,
+              "url": "https://t.co/wN3iDVfSmn"
+            },
+            {
+              "display_url": "pic.x.com/wN3iDVfSmn",
+              "end": 137,
+              "expanded_url": "https://x.com/rain_kawaiiii1/status/2106726970717520282/photo/1",
+              "media_key": "3_2106726215038177280",
+              "start": 114,
+              "url": "https://t.co/wN3iDVfSmn"
+            },
+            {
+              "display_url": "pic.x.com/wN3iDVfSmn",
+              "end": 137,
+              "expanded_url": "https://x.com/rain_kawaiiii1/status/2106726970717520282/photo/1",
+              "media_key": "3_2106726214945923072",
+              "start": 114,
+              "url": "https://t.co/wN3iDVfSmn"
+            },
+            {
+              "display_url": "pic.x.com/wN3iDVfSmn",
+              "end": 137,
+              "expanded_url": "https://x.com/rain_kawaiiii1/status/2106726970717520282/photo/1",
+              "media_key": "3_2106726215021461504",
+              "start": 114,
+              "url": "https://t.co/wN3iDVfSmn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106726970717520282",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106726215013044224"
+          },
+          {
+            "media_key": "3_2106726215038177280"
+          },
+          {
+            "media_key": "3_2106726214945923072"
+          },
+          {
+            "media_key": "3_2106726215021461504"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🚪8.8开放朋友圈\n求来入门吧😿😿我需要钱\n只有纯绿 p4是点歌条包含在🚪里\n可以给你画画（技术不精\n支持口令/赞赏码 可以私信我！！\n可以来互转互关\n接伤口定制真皮脂肪🉑\n#cosplayㅤㅤㅤㅤㅤㅤㅤ \n#地雷系 #门槛妹 https://t.co/wN3iDVfSmn"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "线下查无此人｜不安定｜LGBTQ全友好🌈👩‍❤️‍👩｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1\nbluesky：tongchan-2008 ←🔪🩸💊\n🚪8.8 仅好友位扩列纯乞讨\n已成年休学中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "rain_kawaii1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tong_u._.u_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tong_u._.u_",
+                "start": 0,
+                "url": "https://t.co/GZHx8f1Ujj"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2106726970717520282",
+        "name": "tong_u._.u_",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043915964559835136/1776143589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103533775343001600/xVd1jr9E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 567,
+          "following_count": 173,
+          "like_count": 2456,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 1152
+        },
+        "url": "https://t.co/GZHx8f1Ujj",
+        "username": "rain_kawaiiii1",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

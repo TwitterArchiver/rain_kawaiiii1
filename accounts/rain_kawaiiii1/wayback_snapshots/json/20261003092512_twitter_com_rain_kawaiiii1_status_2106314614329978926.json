@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043915964559835136",
+    "conversation_id": "2106314614329978926",
+    "created_at": "2026-10-03T09:25:12.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T10:25:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106314614329978926"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2101170709506486272",
+          "start": 3,
+          "username": "mel4ncolic0_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106314614329978926",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6428
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105874948426252578",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mel4ncolic0_: Lunes: Quiero suicidarme\nMartes: Quiero suicidarme\nMiércoles: Quiero suicidarme\nJueves: Quiero suicidarme\nViernes: Quiero…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043915964559835136",
+        "conversation_id": "2106314614329978926",
+        "created_at": "2026-10-03T09:25:12.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T10:25:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106314614329978926"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2101170709506486272",
+              "start": 3,
+              "username": "mel4ncolic0_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106314614329978926",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6428
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105874948426252578",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mel4ncolic0_: Lunes: Quiero suicidarme\nMartes: Quiero suicidarme\nMiércoles: Quiero suicidarme\nJueves: Quiero suicidarme\nViernes: Quiero…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2101170709506486272",
+        "conversation_id": "2105874948426252578",
+        "created_at": "2026-10-02T04:18:07.000Z",
+        "display_text_range": [
+          0,
+          219
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T05:18:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105874948426252578"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2105874948426252578",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 409,
+          "impression_count": 156040,
+          "like_count": 16338,
+          "quote_count": 58,
+          "reply_count": 53,
+          "retweet_count": 6428
+        },
+        "reply_settings": "everyone",
+        "text": "Lunes: Quiero suicidarme\nMartes: Quiero suicidarme\nMiércoles: Quiero suicidarme\nJueves: Quiero suicidarme\nViernes: Quiero suicidarme\nSábado: Quiero suicidarme\nDomingo: Quiero suicidarme\nTodos los días: Quiero suicidarme"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "description": "线下查无此人｜不安定｜LGBTQ全友好🌈👩‍❤️‍👩｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1\nbluesky：tongchan-2008 ←🔪🩸💊\n🚪8.8 仅好友位扩列纯乞讨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "rain_kawaii1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tong_u._.u_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tong_u._.u_",
+                "start": 0,
+                "url": "https://t.co/GZHx8f2s8R"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2106314614329978926",
+        "name": "tong_u._.u_",
+        "pinned_tweet_id": "2105297307403219297",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043915964559835136/1776143589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103533775343001600/xVd1jr9E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 511,
+          "following_count": 173,
+          "like_count": 2366,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 1093
+        },
+        "url": "https://t.co/GZHx8f2s8R",
+        "username": "rain_kawaiiii1",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-19T04:46:58.000Z",
+        "description": "le hablo a mi insomnio d vos⠀⠀",
+        "id": "2101170709506486272",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106242146202202141",
+        "name": "🪽",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2101170709506486272/1789924949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101721853874069505/erL0uVBv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 16,
+          "like_count": 1053,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 177
+        },
+        "url": "",
+        "username": "mel4ncolic0_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

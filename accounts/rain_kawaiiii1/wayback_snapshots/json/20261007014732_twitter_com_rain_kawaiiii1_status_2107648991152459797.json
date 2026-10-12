@@ -1,0 +1,521 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2107458727947259904",
+        "3_2107458727930449920"
+      ],
+      "media_source_tweet_id": [
+        "2107458749572981032",
+        "2107458749572981032"
+      ]
+    },
+    "author_id": "2043915964559835136",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "2107648991152459797",
+    "created_at": "2026-10-07T01:47:32.000Z",
+    "display_text_range": [
+      0,
+      91
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-07T02:47:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107648991152459797"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 58,
+          "start": 55,
+          "tag": "原味"
+        },
+        {
+          "end": 67,
+          "start": 59,
+          "tag": "cosplay"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2103458884392562688",
+          "start": 3,
+          "username": "AwAawaQwQsama"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/C52861gFLX",
+          "end": 91,
+          "expanded_url": "https://x.com/AwAawaQwQsama/status/2107458749572981032/photo/1",
+          "media_key": "3_2107458727947259904",
+          "start": 68,
+          "url": "https://t.co/C52861gFLX"
+        },
+        {
+          "display_url": "pic.x.com/C52861gFLX",
+          "end": 91,
+          "expanded_url": "https://x.com/AwAawaQwQsama/status/2107458749572981032/photo/1",
+          "media_key": "3_2107458727930449920",
+          "start": 68,
+          "url": "https://t.co/C52861gFLX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107648991152459797",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2107458727947259904"
+      },
+      {
+        "media_key": "3_2107458727930449920"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107458749572981032",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AwAawaQwQsama: 从今天起，你就是我姜雅贤大小姐的玩物了🖤～\n乖乖被我霸凌在脚下吧哼哼哼\n#原味 #cosplay https://t.co/C52861gFLX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1756,
+        "media_key": "3_2107458727947259904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT8yjBoX0AApORH.jpg",
+        "width": 1320
+      },
+      {
+        "height": 1750,
+        "media_key": "3_2107458727930449920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT8yjBkXUAAcniX.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107458727947259904",
+            "3_2107458727930449920"
+          ],
+          "media_source_tweet_id": [
+            "2107458749572981032",
+            "2107458749572981032"
+          ]
+        },
+        "author_id": "2043915964559835136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2107648991152459797",
+        "created_at": "2026-10-07T01:47:32.000Z",
+        "display_text_range": [
+          0,
+          91
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T02:47:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107648991152459797"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 58,
+              "start": 55,
+              "tag": "原味"
+            },
+            {
+              "end": 67,
+              "start": 59,
+              "tag": "cosplay"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2103458884392562688",
+              "start": 3,
+              "username": "AwAawaQwQsama"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/C52861gFLX",
+              "end": 91,
+              "expanded_url": "https://x.com/AwAawaQwQsama/status/2107458749572981032/photo/1",
+              "media_key": "3_2107458727947259904",
+              "start": 68,
+              "url": "https://t.co/C52861gFLX"
+            },
+            {
+              "display_url": "pic.x.com/C52861gFLX",
+              "end": 91,
+              "expanded_url": "https://x.com/AwAawaQwQsama/status/2107458749572981032/photo/1",
+              "media_key": "3_2107458727930449920",
+              "start": 68,
+              "url": "https://t.co/C52861gFLX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107648991152459797",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2107458727947259904"
+          },
+          {
+            "media_key": "3_2107458727930449920"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107458749572981032",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AwAawaQwQsama: 从今天起，你就是我姜雅贤大小姐的玩物了🖤～\n乖乖被我霸凌在脚下吧哼哼哼\n#原味 #cosplay https://t.co/C52861gFLX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107458727947259904",
+            "3_2107458727930449920"
+          ]
+        },
+        "author_id": "2103458884392562688",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2107458749572981032",
+        "created_at": "2026-10-06T13:11:35.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T14:11:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107458749572981032"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 36,
+              "tag": "原味"
+            },
+            {
+              "end": 48,
+              "start": 40,
+              "tag": "cosplay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/C52861gFLX",
+              "end": 72,
+              "expanded_url": "https://x.com/AwAawaQwQsama/status/2107458749572981032/photo/1",
+              "media_key": "3_2107458727947259904",
+              "start": 49,
+              "url": "https://t.co/C52861gFLX"
+            },
+            {
+              "display_url": "pic.x.com/C52861gFLX",
+              "end": 72,
+              "expanded_url": "https://x.com/AwAawaQwQsama/status/2107458749572981032/photo/1",
+              "media_key": "3_2107458727930449920",
+              "start": 49,
+              "url": "https://t.co/C52861gFLX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107458749572981032",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2107458727947259904"
+          },
+          {
+            "media_key": "3_2107458727930449920"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 4434,
+          "like_count": 28,
+          "quote_count": 12,
+          "reply_count": 9,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "从今天起，你就是我姜雅贤大小姐的玩物了🖤～\n乖乖被我霸凌在脚下吧哼哼哼\n#原味 #cosplay https://t.co/C52861gFLX"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "线下查无此人｜不安定｜LGBTQ全友好🌈👩‍❤️‍👩｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1\nbluesky：tongchan-2008 ←🔪🩸💊\n🚪8.8 仅好友位扩列纯乞讨\n已成年休学中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "rain_kawaii1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tong_u._.u_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tong_u._.u_",
+                "start": 0,
+                "url": "https://t.co/GZHx8f1Ujj"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2107648991152459797",
+        "name": "tong_u._.u_",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043915964559835136/1776143589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103533775343001600/xVd1jr9E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 801,
+          "following_count": 183,
+          "like_count": 2510,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 1218
+        },
+        "url": "https://t.co/GZHx8f1Ujj",
+        "username": "rain_kawaiiii1",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-25T12:19:28.000Z",
+        "description": "09高三地雷女🚪88口令or赞赏 原号8k粉欢迎再续前缘\n 厌恶已读不回➕磨磨唧唧 出原味袜orCOS服\n 本人四爱女双 S状态之下可收锁奴 atm奴 刑奴…..各种\n入门有福利玩好可线下 来找我的已读不回磨磨唧唧会毕业",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/KawaiiYukari",
+                "end": 23,
+                "expanded_url": "https://t.me/KawaiiYukari",
+                "start": 0,
+                "url": "https://t.co/Eju3QGUTq4"
+              }
+            ]
+          }
+        },
+        "id": "2103458884392562688",
+        "is_identity_verified": false,
+        "location": "距离你1.3k m",
+        "most_recent_tweet_id": "2107634622112924107",
+        "name": "牧濑由香里",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2103458884392562688/1790338889",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103459623990968321/rFq9GP7c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 53,
+          "like_count": 612,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 228
+        },
+        "url": "https://t.co/Eju3QGUTq4",
+        "username": "AwAawaQwQsama",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

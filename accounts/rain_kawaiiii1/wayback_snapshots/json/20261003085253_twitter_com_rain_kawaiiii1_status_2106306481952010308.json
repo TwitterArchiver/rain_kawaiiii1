@@ -1,0 +1,469 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2106306222752477184"
+      ],
+      "media_source_tweet_id": [
+        "2106306408291701228"
+      ]
+    },
+    "author_id": "2043915964559835136",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "2106306481952010308",
+    "created_at": "2026-10-03T08:52:53.000Z",
+    "display_text_range": [
+      0,
+      132
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T09:52:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106306481952010308"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 90,
+          "start": 86,
+          "tag": "地雷系"
+        },
+        {
+          "end": 95,
+          "start": 91,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 104,
+          "start": 96,
+          "tag": "cosplay"
+        },
+        {
+          "end": 108,
+          "start": 105,
+          "tag": "可爱"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2043915964559835136",
+          "start": 3,
+          "username": "rain_kawaiiii1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/I5UnaYniY5",
+          "end": 132,
+          "expanded_url": "https://x.com/rain_kawaiiii1/status/2106306408291701228/photo/1",
+          "media_key": "3_2106306222752477184",
+          "start": 109,
+          "url": "https://t.co/I5UnaYniY5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106306481952010308",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2106306222752477184"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106306408291701228",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rain_kawaiiii1: 求入门 🚪8.8\n可以点歌画画聊天（纯绿）\n更多业务过🚪咨询 也是纯绿的（）\n来加我吧\n可以互推互关大欢迎 求同类互关\n内涵🔪🩸💊\n#地雷系 #门槛妹 #cosplay #可爱 https://t.co/I5UnaYniY5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 680,
+        "media_key": "3_2106306222752477184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTsaWZNbMAA5YSt.jpg",
+        "width": 510
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106306222752477184"
+          ],
+          "media_source_tweet_id": [
+            "2106306408291701228"
+          ]
+        },
+        "author_id": "2043915964559835136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2106306481952010308",
+        "created_at": "2026-10-03T08:52:53.000Z",
+        "display_text_range": [
+          0,
+          132
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T09:52:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106306481952010308"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 90,
+              "start": 86,
+              "tag": "地雷系"
+            },
+            {
+              "end": 95,
+              "start": 91,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 104,
+              "start": 96,
+              "tag": "cosplay"
+            },
+            {
+              "end": 108,
+              "start": 105,
+              "tag": "可爱"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2043915964559835136",
+              "start": 3,
+              "username": "rain_kawaiiii1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/I5UnaYniY5",
+              "end": 132,
+              "expanded_url": "https://x.com/rain_kawaiiii1/status/2106306408291701228/photo/1",
+              "media_key": "3_2106306222752477184",
+              "start": 109,
+              "url": "https://t.co/I5UnaYniY5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106306481952010308",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106306222752477184"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106306408291701228",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rain_kawaiiii1: 求入门 🚪8.8\n可以点歌画画聊天（纯绿）\n更多业务过🚪咨询 也是纯绿的（）\n来加我吧\n可以互推互关大欢迎 求同类互关\n内涵🔪🩸💊\n#地雷系 #门槛妹 #cosplay #可爱 https://t.co/I5UnaYniY5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106306222752477184"
+          ]
+        },
+        "author_id": "2043915964559835136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2106306408291701228",
+        "created_at": "2026-10-03T08:52:35.000Z",
+        "display_text_range": [
+          0,
+          88
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T09:51:53.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106306232281969004",
+          "2106306408291701228"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 70,
+              "start": 66,
+              "tag": "地雷系"
+            },
+            {
+              "end": 75,
+              "start": 71,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 84,
+              "start": 76,
+              "tag": "cosplay"
+            },
+            {
+              "end": 88,
+              "start": 85,
+              "tag": "可爱"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/I5UnaYniY5",
+              "end": 112,
+              "expanded_url": "https://x.com/rain_kawaiiii1/status/2106306408291701228/photo/1",
+              "media_key": "3_2106306222752477184",
+              "start": 89,
+              "url": "https://t.co/I5UnaYniY5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106306408291701228",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106306222752477184"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "求入门 🚪8.8\n可以点歌画画聊天（纯绿）\n更多业务过🚪咨询 也是纯绿的（）\n来加我吧\n可以互推互关大欢迎 求同类互关\n内涵🔪🩸💊\n#地雷系 #门槛妹 #cosplay #可爱 https://t.co/I5UnaYniY5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "线下查无此人｜不安定｜LGBTQ全友好🌈👩‍❤️‍👩｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1\nbluesky：tongchan-2008 ←🔪🩸💊\n🚪8.8 仅好友位扩列纯乞讨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "rain_kawaii1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tong_u._.u_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tong_u._.u_",
+                "start": 0,
+                "url": "https://t.co/GZHx8f2s8R"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2106306481952010308",
+        "name": "tong_u._.u_",
+        "pinned_tweet_id": "2105297307403219297",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043915964559835136/1776143589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103533775343001600/xVd1jr9E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 510,
+          "following_count": 173,
+          "like_count": 2352,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 1082
+        },
+        "url": "https://t.co/GZHx8f2s8R",
+        "username": "rain_kawaiiii1",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043915964559835136",
+    "conversation_id": "2106637502287409613",
+    "created_at": "2026-10-04T06:48:14.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T07:48:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106637502287409613"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2043915964559835136",
+          "start": 3,
+          "username": "rain_kawaiiii1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106637502287409613",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106637446045995211",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rain_kawaiiii1: 你们来助力我的梦想吧 🚪只要8.8 纯绿 虽然现在的我已经快吃不起饭了\n\n可以给你点歌 画画✍🏻（包含在🚪里）平时可以找我聊天 纯绿纯绿纯绿\n\n接伤口定制🉑脂肪真皮\n\n等我接够5000个门槛就可以去日本玩一圈了。\n我不知道发什么照片了就这…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2106637417587552256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTxHkeHaMAA7Lpg.jpg",
+        "width": 1560
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2106637417587585024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTxHkeHasAAuyyf.jpg",
+        "width": 1440
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2106637417537249280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTxHkd7aoAArsES.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2106637417591746560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTxHkeIaMAAdkk8.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043915964559835136",
+        "conversation_id": "2106637502287409613",
+        "created_at": "2026-10-04T06:48:14.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T07:48:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106637502287409613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2043915964559835136",
+              "start": 3,
+              "username": "rain_kawaiiii1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106637502287409613",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106637446045995211",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rain_kawaiiii1: 你们来助力我的梦想吧 🚪只要8.8 纯绿 虽然现在的我已经快吃不起饭了\n\n可以给你点歌 画画✍🏻（包含在🚪里）平时可以找我聊天 纯绿纯绿纯绿\n\n接伤口定制🉑脂肪真皮\n\n等我接够5000个门槛就可以去日本玩一圈了。\n我不知道发什么照片了就这…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106637417587552256",
+            "3_2106637417587585024",
+            "3_2106637417537249280",
+            "3_2106637417591746560"
+          ]
+        },
+        "author_id": "2043915964559835136",
+        "conversation_id": "2106637446045995211",
+        "created_at": "2026-10-04T06:48:01.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T07:48:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106637446045995211"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 126,
+              "start": 122,
+              "tag": "地雷系"
+            },
+            {
+              "end": 130,
+              "start": 127,
+              "tag": "日系"
+            },
+            {
+              "end": 135,
+              "start": 131,
+              "tag": "cos"
+            },
+            {
+              "end": 139,
+              "start": 136,
+              "tag": "门槛"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DTHupEv7iY",
+              "end": 163,
+              "expanded_url": "https://x.com/rain_kawaiiii1/status/2106637446045995211/photo/1",
+              "media_key": "3_2106637417587552256",
+              "start": 140,
+              "url": "https://t.co/DTHupEv7iY"
+            },
+            {
+              "display_url": "pic.x.com/DTHupEv7iY",
+              "end": 163,
+              "expanded_url": "https://x.com/rain_kawaiiii1/status/2106637446045995211/photo/1",
+              "media_key": "3_2106637417587585024",
+              "start": 140,
+              "url": "https://t.co/DTHupEv7iY"
+            },
+            {
+              "display_url": "pic.x.com/DTHupEv7iY",
+              "end": 163,
+              "expanded_url": "https://x.com/rain_kawaiiii1/status/2106637446045995211/photo/1",
+              "media_key": "3_2106637417537249280",
+              "start": 140,
+              "url": "https://t.co/DTHupEv7iY"
+            },
+            {
+              "display_url": "pic.x.com/DTHupEv7iY",
+              "end": 163,
+              "expanded_url": "https://x.com/rain_kawaiiii1/status/2106637446045995211/photo/1",
+              "media_key": "3_2106637417591746560",
+              "start": 140,
+              "url": "https://t.co/DTHupEv7iY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106637446045995211",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106637417587552256"
+          },
+          {
+            "media_key": "3_2106637417587585024"
+          },
+          {
+            "media_key": "3_2106637417537249280"
+          },
+          {
+            "media_key": "3_2106637417591746560"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你们来助力我的梦想吧 🚪只要8.8 纯绿 虽然现在的我已经快吃不起饭了\n\n可以给你点歌 画画✍🏻（包含在🚪里）平时可以找我聊天 纯绿纯绿纯绿\n\n接伤口定制🉑脂肪真皮\n\n等我接够5000个门槛就可以去日本玩一圈了。\n我不知道发什么照片了就这样吧\n#地雷系 #日系 #cos #门槛 https://t.co/DTHupEv7iY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "线下查无此人｜不安定｜LGBTQ全友好🌈👩‍❤️‍👩｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1\nbluesky：tongchan-2008 ←🔪🩸💊\n🚪8.8 仅好友位扩列纯乞讨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "rain_kawaii1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tong_u._.u_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tong_u._.u_",
+                "start": 0,
+                "url": "https://t.co/GZHx8f2s8R"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2106637502287409613",
+        "name": "tong_u._.u_",
+        "pinned_tweet_id": "2106306408291701228",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043915964559835136/1776143589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103533775343001600/xVd1jr9E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 548,
+          "following_count": 171,
+          "like_count": 2424,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 1124
+        },
+        "url": "https://t.co/GZHx8f2s8R",
+        "username": "rain_kawaiiii1",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

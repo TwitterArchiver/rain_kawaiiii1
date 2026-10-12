@@ -1,0 +1,444 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100250767441395713",
+        "3_2100250767470854145",
+        "3_2100250767458246656"
+      ],
+      "media_source_tweet_id": [
+        "2100250783698628792",
+        "2100250783698628792",
+        "2100250783698628792"
+      ]
+    },
+    "author_id": "2043915964559835136",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2106582199101538597",
+    "created_at": "2026-10-04T03:08:29.000Z",
+    "display_text_range": [
+      0,
+      89
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T04:08:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106582199101538597"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1859217881827004417",
+          "start": 3,
+          "username": "lingling00001"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xmwMXkylC7",
+          "end": 89,
+          "expanded_url": "https://x.com/lingling00001/status/2100250783698628792/photo/1",
+          "media_key": "3_2100250767441395713",
+          "start": 66,
+          "url": "https://t.co/xmwMXkylC7"
+        },
+        {
+          "display_url": "pic.x.com/xmwMXkylC7",
+          "end": 89,
+          "expanded_url": "https://x.com/lingling00001/status/2100250783698628792/photo/1",
+          "media_key": "3_2100250767470854145",
+          "start": 66,
+          "url": "https://t.co/xmwMXkylC7"
+        },
+        {
+          "display_url": "pic.x.com/xmwMXkylC7",
+          "end": 89,
+          "expanded_url": "https://x.com/lingling00001/status/2100250783698628792/photo/1",
+          "media_key": "3_2100250767458246656",
+          "start": 66,
+          "url": "https://t.co/xmwMXkylC7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106582199101538597",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2100250767441395713"
+      },
+      {
+        "media_key": "3_2100250767470854145"
+      },
+      {
+        "media_key": "3_2100250767458246656"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100250783698628792",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lingling00001: 来找我买愈美片普瑞巴林原粉吧！玉米45/1 普瑞原粉10g/100≈133颗绿普 可走平台！ https://t.co/xmwMXkylC7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2100250767441395713",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSWW8gSWAAER7l6.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2100250767470854145",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSWW8gZXgAEmAyC.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2100250767458246656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSWW8gWXIAAeTxp.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100250767441395713",
+            "3_2100250767470854145",
+            "3_2100250767458246656"
+          ],
+          "media_source_tweet_id": [
+            "2100250783698628792",
+            "2100250783698628792",
+            "2100250783698628792"
+          ]
+        },
+        "author_id": "2043915964559835136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2106582199101538597",
+        "created_at": "2026-10-04T03:08:29.000Z",
+        "display_text_range": [
+          0,
+          89
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T04:08:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106582199101538597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1859217881827004417",
+              "start": 3,
+              "username": "lingling00001"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xmwMXkylC7",
+              "end": 89,
+              "expanded_url": "https://x.com/lingling00001/status/2100250783698628792/photo/1",
+              "media_key": "3_2100250767441395713",
+              "start": 66,
+              "url": "https://t.co/xmwMXkylC7"
+            },
+            {
+              "display_url": "pic.x.com/xmwMXkylC7",
+              "end": 89,
+              "expanded_url": "https://x.com/lingling00001/status/2100250783698628792/photo/1",
+              "media_key": "3_2100250767470854145",
+              "start": 66,
+              "url": "https://t.co/xmwMXkylC7"
+            },
+            {
+              "display_url": "pic.x.com/xmwMXkylC7",
+              "end": 89,
+              "expanded_url": "https://x.com/lingling00001/status/2100250783698628792/photo/1",
+              "media_key": "3_2100250767458246656",
+              "start": 66,
+              "url": "https://t.co/xmwMXkylC7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106582199101538597",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100250767441395713"
+          },
+          {
+            "media_key": "3_2100250767470854145"
+          },
+          {
+            "media_key": "3_2100250767458246656"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100250783698628792",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lingling00001: 来找我买愈美片普瑞巴林原粉吧！玉米45/1 普瑞原粉10g/100≈133颗绿普 可走平台！ https://t.co/xmwMXkylC7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100250767441395713",
+            "3_2100250767470854145",
+            "3_2100250767458246656"
+          ]
+        },
+        "author_id": "1859217881827004417",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2100250783698628792",
+        "created_at": "2026-09-16T15:49:42.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T16:49:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100250783698628792"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xmwMXkylC7",
+              "end": 70,
+              "expanded_url": "https://x.com/lingling00001/status/2100250783698628792/photo/1",
+              "media_key": "3_2100250767441395713",
+              "start": 47,
+              "url": "https://t.co/xmwMXkylC7"
+            },
+            {
+              "display_url": "pic.x.com/xmwMXkylC7",
+              "end": 70,
+              "expanded_url": "https://x.com/lingling00001/status/2100250783698628792/photo/1",
+              "media_key": "3_2100250767470854145",
+              "start": 47,
+              "url": "https://t.co/xmwMXkylC7"
+            },
+            {
+              "display_url": "pic.x.com/xmwMXkylC7",
+              "end": 70,
+              "expanded_url": "https://x.com/lingling00001/status/2100250783698628792/photo/1",
+              "media_key": "3_2100250767458246656",
+              "start": 47,
+              "url": "https://t.co/xmwMXkylC7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100250783698628792",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100250767441395713"
+          },
+          {
+            "media_key": "3_2100250767470854145"
+          },
+          {
+            "media_key": "3_2100250767458246656"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 137,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "来找我买愈美片普瑞巴林原粉吧！玉米45/1 普瑞原粉10g/100≈133颗绿普 可走平台！ https://t.co/xmwMXkylC7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "description": "线下查无此人｜不安定｜LGBTQ全友好🌈👩‍❤️‍👩｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1\nbluesky：tongchan-2008 ←🔪🩸💊\n🚪8.8 仅好友位扩列纯乞讨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "rain_kawaii1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tong_u._.u_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tong_u._.u_",
+                "start": 0,
+                "url": "https://t.co/GZHx8f2s8R"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2106582199101538597",
+        "name": "tong_u._.u_",
+        "pinned_tweet_id": "2106306408291701228",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043915964559835136/1776143589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103533775343001600/xVd1jr9E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 545,
+          "following_count": 170,
+          "like_count": 2413,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 1118
+        },
+        "url": "https://t.co/GZHx8f2s8R",
+        "username": "rain_kawaiiii1",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-20T12:51:10.000Z",
+        "description": "联系不上🐧2928861374\n我有小号！@linglingTvT00",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "linglingTvT00"
+              }
+            ]
+          }
+        },
+        "id": "1859217881827004417",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106546466194080152",
+        "name": "。。凌",
+        "pinned_tweet_id": "2100250783698628792",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859218042213036032/jG6JJQCW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 39,
+          "like_count": 67,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 183
+        },
+        "url": "",
+        "username": "lingling00001",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

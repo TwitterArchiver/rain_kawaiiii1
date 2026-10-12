@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043915964559835136",
+    "conversation_id": "2107835797315723762",
+    "created_at": "2026-10-08T00:59:46.000Z",
+    "display_text_range": [
+      41,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-08T01:59:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107999360139330001"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2033502740002000898",
+          "start": 0,
+          "username": "Yuki_asukai"
+        },
+        {
+          "end": 26,
+          "id": "2077609150889226240",
+          "start": 13,
+          "username": "yuugata11984"
+        },
+        {
+          "end": 40,
+          "id": "1946216654217900033",
+          "start": 27,
+          "username": "Xiao_Lan_412"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107999360139330001",
+    "in_reply_to_user_id": "2033502740002000898",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107835797315723762",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuki_asukai @yuugata11984 @Xiao_Lan_412 耶耶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043915964559835136",
+        "conversation_id": "2107835797315723762",
+        "created_at": "2026-10-08T00:59:46.000Z",
+        "display_text_range": [
+          41,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T01:59:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107999360139330001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2033502740002000898",
+              "start": 0,
+              "username": "Yuki_asukai"
+            },
+            {
+              "end": 26,
+              "id": "2077609150889226240",
+              "start": 13,
+              "username": "yuugata11984"
+            },
+            {
+              "end": 40,
+              "id": "1946216654217900033",
+              "start": 27,
+              "username": "Xiao_Lan_412"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107999360139330001",
+        "in_reply_to_user_id": "2033502740002000898",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107835797315723762",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuki_asukai @yuugata11984 @Xiao_Lan_412 耶耶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033502740002000898",
+        "conversation_id": "2107835797315723762",
+        "created_at": "2026-10-07T14:09:50.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T15:09:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107835797315723762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2077609150889226240",
+              "start": 5,
+              "username": "yuugata11984"
+            },
+            {
+              "end": 32,
+              "id": "1946216654217900033",
+              "start": 19,
+              "username": "Xiao_Lan_412"
+            },
+            {
+              "end": 48,
+              "id": "2043915964559835136",
+              "start": 33,
+              "username": "rain_kawaiiii1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107835797315723762",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 89,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "开奖开奖 @yuugata11984 @Xiao_Lan_412 @rain_kawaiiii1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "线下查无此人｜不安定｜LGBTQ全友好🌈👩‍❤️‍👩｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1\nbluesky：tongchan-2008 ←🔪🩸💊\n🚪8.8 仅好友位扩列纯乞讨\n已成年休学中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "rain_kawaii1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tong_u._.u_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tong_u._.u_",
+                "start": 0,
+                "url": "https://t.co/GZHx8f1Ujj"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2107999360139330001",
+        "name": "tong_u._.u_",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043915964559835136/1776143589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103533775343001600/xVd1jr9E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 816,
+          "following_count": 188,
+          "like_count": 2559,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 1250
+        },
+        "url": "https://t.co/GZHx8f1Ujj",
+        "username": "rain_kawaiiii1",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-16T11:16:56.000Z",
+        "description": "＝飞鸟井郁希| enby | 餐券女 | 🎸🎨 | 🚪15请我喝奶茶 可以和我聊天",
+        "id": "2033502740002000898",
+        "is_identity_verified": false,
+        "location": "日本 東京",
+        "most_recent_tweet_id": "2107874551904280822",
+        "name": "郁希（2.0）",
+        "pinned_tweet_id": "2099710277516398730",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2033502740002000898/1790004973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088887521216446465/XxVZnA1W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 161,
+          "like_count": 105,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 718
+        },
+        "url": "",
+        "username": "Yuki_asukai",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-16T04:22:16.000Z",
+        "description": "=小夫\nどんな人生を生きたいですか\n18⬆️中国語｜病み垢｜日本語初心者\n🤍神聖かまってちゃん🤍",
+        "id": "2077609150889226240",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2107440421462810858",
+        "name": "皆んなを殺す（回fo版",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2077609150889226240/1784176077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077609849664442368/219f8JW3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 119,
+          "like_count": 637,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 313
+        },
+        "url": "",
+        "username": "yuugata11984",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-18T14:33:15.000Z",
+        "description": "我是小澜 餐券🈹o负能 有对象@_XnanX_418",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "_XnanX_418"
+              }
+            ]
+          }
+        },
+        "id": "1946216654217900033",
+        "is_identity_verified": false,
+        "location": "天堂",
+        "most_recent_tweet_id": "2107818289162522702",
+        "name": "小澜，梦想哭了",
+        "pinned_tweet_id": "2100845519702749625",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1946216654217900033/1789408002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100603983408877568/Ew4UbNLj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 69,
+          "like_count": 40,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 87
+        },
+        "url": "",
+        "username": "Xiao_Lan_412",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

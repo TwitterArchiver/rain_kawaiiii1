@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043915964559835136",
+    "conversation_id": "2106362344137961640",
+    "created_at": "2026-10-03T13:40:22.000Z",
+    "display_text_range": [
+      9,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T14:40:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106378830927851778"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1914736312655249408",
+          "start": 0,
+          "username": "JioSigo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106378830927851778",
+    "in_reply_to_user_id": "1914736312655249408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106376003350311082",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JioSigo （）还有个点歌条可以唱歌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043915964559835136",
+        "conversation_id": "2106362344137961640",
+        "created_at": "2026-10-03T13:40:22.000Z",
+        "display_text_range": [
+          9,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T14:40:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106378830927851778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1914736312655249408",
+              "start": 0,
+              "username": "JioSigo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106378830927851778",
+        "in_reply_to_user_id": "1914736312655249408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106376003350311082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JioSigo （）还有个点歌条可以唱歌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1914736312655249408",
+        "conversation_id": "2106362344137961640",
+        "created_at": "2026-10-03T13:29:08.000Z",
+        "display_text_range": [
+          16,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T14:29:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106376003350311082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2043915964559835136",
+              "start": 0,
+              "username": "rain_kawaiiii1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106376003350311082",
+        "in_reply_to_user_id": "2043915964559835136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106362344137961640",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rain_kawaiiii1 原来血图也是门槛的一环吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "description": "线下查无此人｜不安定｜LGBTQ全友好🌈👩‍❤️‍👩｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1\nbluesky：tongchan-2008 ←🔪🩸💊\n🚪8.8 仅好友位扩列纯乞讨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "rain_kawaii1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tong_u._.u_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tong_u._.u_",
+                "start": 0,
+                "url": "https://t.co/GZHx8f2s8R"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2106378830927851778",
+        "name": "tong_u._.u_",
+        "pinned_tweet_id": "2106306408291701228",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043915964559835136/1776143589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103533775343001600/xVd1jr9E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 533,
+          "following_count": 175,
+          "like_count": 2387,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 1108
+        },
+        "url": "https://t.co/GZHx8f2s8R",
+        "username": "rain_kawaiiii1",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-22T17:41:39.000Z",
+        "description": "人类男性",
+        "id": "1914736312655249408",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106376003350311082",
+        "name": "念",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1914736312655249408/1778121185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105985346592993281/mjbCdeFW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 6,
+          "like_count": 1261,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 81
+        },
+        "url": "",
+        "username": "JioSigo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

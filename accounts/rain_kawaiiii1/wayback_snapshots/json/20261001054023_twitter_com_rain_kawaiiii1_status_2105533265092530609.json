@@ -1,0 +1,348 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043915964559835136",
+    "conversation_id": "2105370737829916693",
+    "created_at": "2026-10-01T05:40:23.000Z",
+    "display_text_range": [
+      9,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T06:40:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105533265092530609"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2103590351080771584",
+          "start": 0,
+          "username": "uwu8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105533265092530609",
+    "in_reply_to_user_id": "2103590351080771584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105370737829916693",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uwu8964 我的天啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 600,
+        "media_key": "3_2105370706162905088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTfHgKVacAA69_f.jpg",
+        "width": 600
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2105370706171383808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTfHgKXb0AAuFQh.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2105370706162987008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTfHgKVbsAAhKkZ.jpg",
+        "width": 942
+      },
+      {
+        "height": 811,
+        "media_key": "3_2105370706196475904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTfHgKdasAApdgT.jpg",
+        "width": 986
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043915964559835136",
+        "conversation_id": "2105370737829916693",
+        "created_at": "2026-10-01T05:40:23.000Z",
+        "display_text_range": [
+          9,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T06:40:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105533265092530609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2103590351080771584",
+              "start": 0,
+              "username": "uwu8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105533265092530609",
+        "in_reply_to_user_id": "2103590351080771584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105370737829916693",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uwu8964 我的天啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105370706162905088",
+            "3_2105370706171383808",
+            "3_2105370706162987008",
+            "3_2105370706196475904"
+          ]
+        },
+        "author_id": "2103590351080771584",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2105370737829916693",
+        "created_at": "2026-09-30T18:54:34.000Z",
+        "display_text_range": [
+          0,
+          105
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T19:54:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105370737829916693"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/alTh8gNjbr",
+              "end": 129,
+              "expanded_url": "https://x.com/uwu8964/status/2105370737829916693/photo/1",
+              "media_key": "3_2105370706162905088",
+              "start": 106,
+              "url": "https://t.co/alTh8gNjbr"
+            },
+            {
+              "display_url": "pic.x.com/alTh8gNjbr",
+              "end": 129,
+              "expanded_url": "https://x.com/uwu8964/status/2105370737829916693/photo/1",
+              "media_key": "3_2105370706171383808",
+              "start": 106,
+              "url": "https://t.co/alTh8gNjbr"
+            },
+            {
+              "display_url": "pic.x.com/alTh8gNjbr",
+              "end": 129,
+              "expanded_url": "https://x.com/uwu8964/status/2105370737829916693/photo/1",
+              "media_key": "3_2105370706162987008",
+              "start": 106,
+              "url": "https://t.co/alTh8gNjbr"
+            },
+            {
+              "display_url": "pic.x.com/alTh8gNjbr",
+              "end": 129,
+              "expanded_url": "https://x.com/uwu8964/status/2105370737829916693/photo/1",
+              "media_key": "3_2105370706196475904",
+              "start": 106,
+              "url": "https://t.co/alTh8gNjbr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105370737829916693",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105370706162905088"
+          },
+          {
+            "media_key": "3_2105370706171383808"
+          },
+          {
+            "media_key": "3_2105370706162987008"
+          },
+          {
+            "media_key": "3_2105370706196475904"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5352,
+          "like_count": 42,
+          "quote_count": 6,
+          "reply_count": 10,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "msk我是你爸爸\n你或許曾聽說我的名字\n這裡是n代目的番茄操蛋\n我的假雞巴還沒發貨就被扼殺了嗎\n連續被封了一個1k4fo一個800fo的藍v號\n剛開完藍v就被封了也是來做慈善了好吧\n你們的媽都被我操飛了\n心情： https://t.co/alTh8gNjbr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "线下查无此人｜不安定｜LGBTQ全友好🌈👩‍❤️‍👩｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1\nbluesky：tongchan-2008 ←🔪🩸💊\n🚪8.8 仅好友位扩列纯乞讨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "rain_kawaii1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tong_u._.u_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tong_u._.u_",
+                "start": 0,
+                "url": "https://t.co/GZHx8f2s8R"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2105533265092530609",
+        "name": "tong_u._.u_",
+        "pinned_tweet_id": "2105297307403219297",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043915964559835136/1776143589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103533775343001600/xVd1jr9E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 169,
+          "like_count": 2305,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 1051
+        },
+        "url": "https://t.co/GZHx8f2s8R",
+        "username": "rain_kawaiiii1",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-25T21:01:40.000Z",
+        "description": "",
+        "id": "2103590351080771584",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105528384654872895",
+        "name": "番茄操蛋🏳️‍⚧️",
+        "pinned_tweet_id": "2105370737829916693",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2103590351080771584/1790794541",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105368005270228993/ORHAOaDx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 45,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 27
+        },
+        "url": "",
+        "username": "uwu8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

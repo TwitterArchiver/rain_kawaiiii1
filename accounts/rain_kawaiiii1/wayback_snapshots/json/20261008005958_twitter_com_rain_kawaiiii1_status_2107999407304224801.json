@@ -1,0 +1,439 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2107338648425308160",
+        "3_2107338648429408256"
+      ],
+      "media_source_tweet_id": [
+        "2107338705145139630",
+        "2107338705145139630"
+      ]
+    },
+    "author_id": "2043915964559835136",
+    "conversation_id": "2107999407304224801",
+    "created_at": "2026-10-08T00:59:58.000Z",
+    "display_text_range": [
+      0,
+      101
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-08T01:59:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107999407304224801"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 72,
+          "start": 67,
+          "tag": "碧蓝档案"
+        },
+        {
+          "end": 77,
+          "start": 73,
+          "tag": "雌小鬼"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2103458884392562688",
+          "start": 3,
+          "username": "AwAawaQwQsama"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PTpHQ6JhcY",
+          "end": 101,
+          "expanded_url": "https://x.com/AwAawaQwQsama/status/2107338705145139630/video/1",
+          "media_key": "13_2107338648425308160",
+          "start": 78,
+          "url": "https://t.co/PTpHQ6JhcY"
+        },
+        {
+          "display_url": "pic.x.com/PTpHQ6JhcY",
+          "end": 101,
+          "expanded_url": "https://x.com/AwAawaQwQsama/status/2107338705145139630/video/1",
+          "media_key": "3_2107338648429408256",
+          "start": 78,
+          "url": "https://t.co/PTpHQ6JhcY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107999407304224801",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2107338648425308160"
+      },
+      {
+        "media_key": "3_2107338648429408256"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107338705145139630",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AwAawaQwQsama: 妃咲只是在🤏捏脸而已！才没有嘲笑sense的意思！\n（虽然sense就是zako杂鱼….哼哼）\n#碧蓝档案 #雌小鬼 https://t.co/PTpHQ6JhcY"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 1998,
+        "height": 954,
+        "media_key": "13_2107338648425308160",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2107338648425308160/img/nlT3jmAHBnz0Gt_r.jpg",
+        "public_metrics": {
+          "view_count": 430
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107338648425308160/vid/avc1/498x360/9re8PxK4kJANJ1kG.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107338648425308160/vid/avc1/1320x954/ZoBwJrBliclEYsFQ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2107338648425308160/pl/R2_5ALcofbH9l2Nw.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107338648425308160/vid/avc1/996x720/z9gRSTxDd1WJru3t.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107338648425308160/vid/avc1/372x270/KBIgn5yux0CuEMVV.mp4"
+          }
+        ],
+        "width": 1320
+      },
+      {
+        "height": 919,
+        "media_key": "3_2107338648429408256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT7FVekWMAA3ltM.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2107338648425308160",
+            "3_2107338648429408256"
+          ],
+          "media_source_tweet_id": [
+            "2107338705145139630",
+            "2107338705145139630"
+          ]
+        },
+        "author_id": "2043915964559835136",
+        "conversation_id": "2107999407304224801",
+        "created_at": "2026-10-08T00:59:58.000Z",
+        "display_text_range": [
+          0,
+          101
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T01:59:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107999407304224801"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 72,
+              "start": 67,
+              "tag": "碧蓝档案"
+            },
+            {
+              "end": 77,
+              "start": 73,
+              "tag": "雌小鬼"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2103458884392562688",
+              "start": 3,
+              "username": "AwAawaQwQsama"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PTpHQ6JhcY",
+              "end": 101,
+              "expanded_url": "https://x.com/AwAawaQwQsama/status/2107338705145139630/video/1",
+              "media_key": "13_2107338648425308160",
+              "start": 78,
+              "url": "https://t.co/PTpHQ6JhcY"
+            },
+            {
+              "display_url": "pic.x.com/PTpHQ6JhcY",
+              "end": 101,
+              "expanded_url": "https://x.com/AwAawaQwQsama/status/2107338705145139630/video/1",
+              "media_key": "3_2107338648429408256",
+              "start": 78,
+              "url": "https://t.co/PTpHQ6JhcY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107999407304224801",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2107338648425308160"
+          },
+          {
+            "media_key": "3_2107338648429408256"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107338705145139630",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AwAawaQwQsama: 妃咲只是在🤏捏脸而已！才没有嘲笑sense的意思！\n（虽然sense就是zako杂鱼….哼哼）\n#碧蓝档案 #雌小鬼 https://t.co/PTpHQ6JhcY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2107338648425308160",
+            "3_2107338648429408256"
+          ]
+        },
+        "author_id": "2103458884392562688",
+        "conversation_id": "2107338705145139630",
+        "created_at": "2026-10-06T05:14:34.000Z",
+        "display_text_range": [
+          0,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T06:14:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107338705145139630"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 53,
+              "start": 48,
+              "tag": "碧蓝档案"
+            },
+            {
+              "end": 58,
+              "start": 54,
+              "tag": "雌小鬼"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PTpHQ6JhcY",
+              "end": 82,
+              "expanded_url": "https://x.com/AwAawaQwQsama/status/2107338705145139630/video/1",
+              "media_key": "13_2107338648425308160",
+              "start": 59,
+              "url": "https://t.co/PTpHQ6JhcY"
+            },
+            {
+              "display_url": "pic.x.com/PTpHQ6JhcY",
+              "end": 82,
+              "expanded_url": "https://x.com/AwAawaQwQsama/status/2107338705145139630/video/1",
+              "media_key": "3_2107338648429408256",
+              "start": 59,
+              "url": "https://t.co/PTpHQ6JhcY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107338705145139630",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2107338648425308160"
+          },
+          {
+            "media_key": "3_2107338648429408256"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 4429,
+          "like_count": 33,
+          "quote_count": 12,
+          "reply_count": 8,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "妃咲只是在🤏捏脸而已！才没有嘲笑sense的意思！\n（虽然sense就是zako杂鱼….哼哼）\n#碧蓝档案 #雌小鬼 https://t.co/PTpHQ6JhcY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "线下查无此人｜不安定｜LGBTQ全友好🌈👩‍❤️‍👩｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1\nbluesky：tongchan-2008 ←🔪🩸💊\n🚪8.8 仅好友位扩列纯乞讨\n已成年休学中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "rain_kawaii1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tong_u._.u_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tong_u._.u_",
+                "start": 0,
+                "url": "https://t.co/GZHx8f1Ujj"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2107999407304224801",
+        "name": "tong_u._.u_",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043915964559835136/1776143589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103533775343001600/xVd1jr9E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 816,
+          "following_count": 188,
+          "like_count": 2559,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 1251
+        },
+        "url": "https://t.co/GZHx8f1Ujj",
+        "username": "rain_kawaiiii1",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-25T12:19:28.000Z",
+        "description": "09高三地雷女🚪88口令or赞赏 原号8k粉欢迎再续前缘\n 厌恶已读不回➕磨磨唧唧 出原味袜orCOS服\n 本人四爱女双 S状态之下可收锁奴 atm奴 刑奴…..各种\n入门有福利玩好可线下 来找我的已读不回磨磨唧唧会毕业",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/KawaiiYukari",
+                "end": 23,
+                "expanded_url": "https://t.me/KawaiiYukari",
+                "start": 0,
+                "url": "https://t.co/Eju3QGUTq4"
+              }
+            ]
+          }
+        },
+        "id": "2103458884392562688",
+        "is_identity_verified": false,
+        "location": "距离你1.3k m",
+        "most_recent_tweet_id": "2107872862245904476",
+        "name": "牧濑由香里",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2103458884392562688/1790338889",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103459623990968321/rFq9GP7c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 41,
+          "like_count": 656,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 240
+        },
+        "url": "https://t.co/Eju3QGUTq4",
+        "username": "AwAawaQwQsama",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

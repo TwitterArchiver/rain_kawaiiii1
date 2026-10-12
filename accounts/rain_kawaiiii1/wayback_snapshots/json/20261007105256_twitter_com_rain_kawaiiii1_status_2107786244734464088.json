@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2107786224245325824",
+        "3_2107786224211779584",
+        "3_2107786224551571456",
+        "3_2107786224195010560"
+      ]
+    },
+    "author_id": "2043915964559835136",
+    "conversation_id": "2107786244734464088",
+    "created_at": "2026-10-07T10:52:56.000Z",
+    "display_text_range": [
+      0,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-07T11:52:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2107786244734464088"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Owxr4N72Jg",
+          "end": 70,
+          "expanded_url": "https://x.com/rain_kawaiiii1/status/2107786244734464088/photo/1",
+          "media_key": "3_2107786224245325824",
+          "start": 47,
+          "url": "https://t.co/Owxr4N72Jg"
+        },
+        {
+          "display_url": "pic.x.com/Owxr4N72Jg",
+          "end": 70,
+          "expanded_url": "https://x.com/rain_kawaiiii1/status/2107786244734464088/photo/1",
+          "media_key": "3_2107786224211779584",
+          "start": 47,
+          "url": "https://t.co/Owxr4N72Jg"
+        },
+        {
+          "display_url": "pic.x.com/Owxr4N72Jg",
+          "end": 70,
+          "expanded_url": "https://x.com/rain_kawaiiii1/status/2107786244734464088/photo/1",
+          "media_key": "3_2107786224551571456",
+          "start": 47,
+          "url": "https://t.co/Owxr4N72Jg"
+        },
+        {
+          "display_url": "pic.x.com/Owxr4N72Jg",
+          "end": 70,
+          "expanded_url": "https://x.com/rain_kawaiiii1/status/2107786244734464088/photo/1",
+          "media_key": "3_2107786224195010560",
+          "start": 47,
+          "url": "https://t.co/Owxr4N72Jg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107786244734464088",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2107786224245325824"
+      },
+      {
+        "media_key": "3_2107786224211779584"
+      },
+      {
+        "media_key": "3_2107786224551571456"
+      },
+      {
+        "media_key": "3_2107786224195010560"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "1.对\n2.不。。\n3.我趣什么意思我刚才搜半天也没有告诉我这是什么意思的\n4.琪露诺！！！ https://t.co/Owxr4N72Jg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2107786224245325824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUBcZ0aawAAmmKi.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2107786224211779584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUBcZ0Sa4AAT4kO.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2107786224551571456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUBcZ1jbsAAbOJZ.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2107786224195010560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUBcZ0ObAAAHLxF.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107786224245325824",
+            "3_2107786224211779584",
+            "3_2107786224551571456",
+            "3_2107786224195010560"
+          ]
+        },
+        "author_id": "2043915964559835136",
+        "conversation_id": "2107786244734464088",
+        "created_at": "2026-10-07T10:52:56.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T11:52:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107786244734464088"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Owxr4N72Jg",
+              "end": 70,
+              "expanded_url": "https://x.com/rain_kawaiiii1/status/2107786244734464088/photo/1",
+              "media_key": "3_2107786224245325824",
+              "start": 47,
+              "url": "https://t.co/Owxr4N72Jg"
+            },
+            {
+              "display_url": "pic.x.com/Owxr4N72Jg",
+              "end": 70,
+              "expanded_url": "https://x.com/rain_kawaiiii1/status/2107786244734464088/photo/1",
+              "media_key": "3_2107786224211779584",
+              "start": 47,
+              "url": "https://t.co/Owxr4N72Jg"
+            },
+            {
+              "display_url": "pic.x.com/Owxr4N72Jg",
+              "end": 70,
+              "expanded_url": "https://x.com/rain_kawaiiii1/status/2107786244734464088/photo/1",
+              "media_key": "3_2107786224551571456",
+              "start": 47,
+              "url": "https://t.co/Owxr4N72Jg"
+            },
+            {
+              "display_url": "pic.x.com/Owxr4N72Jg",
+              "end": 70,
+              "expanded_url": "https://x.com/rain_kawaiiii1/status/2107786244734464088/photo/1",
+              "media_key": "3_2107786224195010560",
+              "start": 47,
+              "url": "https://t.co/Owxr4N72Jg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107786244734464088",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2107786224245325824"
+          },
+          {
+            "media_key": "3_2107786224211779584"
+          },
+          {
+            "media_key": "3_2107786224551571456"
+          },
+          {
+            "media_key": "3_2107786224195010560"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1.对\n2.不。。\n3.我趣什么意思我刚才搜半天也没有告诉我这是什么意思的\n4.琪露诺！！！ https://t.co/Owxr4N72Jg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "线下查无此人｜不安定｜LGBTQ全友好🌈👩‍❤️‍👩｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1\nbluesky：tongchan-2008 ←🔪🩸💊\n🚪8.8 仅好友位扩列纯乞讨\n已成年休学中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "rain_kawaii1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tong_u._.u_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tong_u._.u_",
+                "start": 0,
+                "url": "https://t.co/GZHx8f1Ujj"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2107786244734464088",
+        "name": "tong_u._.u_",
+        "pinned_tweet_id": "2107768907205607820",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043915964559835136/1776143589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103533775343001600/xVd1jr9E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 810,
+          "following_count": 189,
+          "like_count": 2556,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 1246
+        },
+        "url": "https://t.co/GZHx8f1Ujj",
+        "username": "rain_kawaiiii1",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

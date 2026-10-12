@@ -1,0 +1,431 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043915964559835136",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303720909161689088",
+          "name": "Idols"
+        }
+      }
+    ],
+    "conversation_id": "2108160956488696091",
+    "created_at": "2026-10-08T11:41:54.000Z",
+    "display_text_range": [
+      0,
+      144
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-08T12:41:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108160956488696091"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1500746370650492928",
+          "start": 3,
+          "username": "PathtoNowhereJP"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co",
+          "end": 143,
+          "start": 130,
+          "url": "https://t.co/"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108160956488696091",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6236
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106580081921380368",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PathtoNowhereJP: ときめき襲来！天使アイドルの応援シーズン\n\n10月8日より\nイベント「ときめき電波放送中」開始。\n\nフォロー&amp;RPで\n特製QUOカード2,000円分を\n抽選で10名様に進呈。\n\n締切  10/10 23:59 https://t.co/…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 194133,
+        "height": 1920,
+        "media_key": "13_2105197328231759872",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2105197328231759872/img/fPU9fAnFZn3LaDZg.jpg",
+        "public_metrics": {
+          "view_count": 21337
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 8768000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105197328231759872/vid/avc1/1080x1080/tO7vtvXzQ7mYZHSh.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105197328231759872/vid/avc1/1920x1920/B6CZAz7oRdCvHp3m.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105197328231759872/vid/avc1/720x720/7On7AwDR2xTaxPdy.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105197328231759872/vid/avc1/540x540/D8LmakWoKGwpBqYJ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2105197328231759872/pl/eyJCf8qclEsBDv8m.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105197328231759872/vid/avc1/320x320/nbHj-_X2waxkK4xb.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043915964559835136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303720909161689088",
+              "name": "Idols"
+            }
+          }
+        ],
+        "conversation_id": "2108160956488696091",
+        "created_at": "2026-10-08T11:41:54.000Z",
+        "display_text_range": [
+          0,
+          144
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T12:41:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108160956488696091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1500746370650492928",
+              "start": 3,
+              "username": "PathtoNowhereJP"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co",
+              "end": 143,
+              "start": 130,
+              "url": "https://t.co/"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108160956488696091",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6236
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106580081921380368",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PathtoNowhereJP: ときめき襲来！天使アイドルの応援シーズン\n\n10月8日より\nイベント「ときめき電波放送中」開始。\n\nフォロー&amp;RPで\n特製QUOカード2,000円分を\n抽選で10名様に進呈。\n\n締切  10/10 23:59 https://t.co/…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2105197328231759872"
+          ]
+        },
+        "author_id": "1500746370650492928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303720909161689088",
+              "name": "Idols"
+            }
+          }
+        ],
+        "conversation_id": "2106580081921380368",
+        "created_at": "2026-10-04T03:00:04.000Z",
+        "display_text_range": [
+          0,
+          108
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T04:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106580081921380368"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZzHrgbFWb5",
+              "end": 132,
+              "expanded_url": "https://x.com/PathtoNowhereJP/status/2106580081921380368/video/1",
+              "media_key": "13_2105197328231759872",
+              "start": 109,
+              "url": "https://t.co/ZzHrgbFWb5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106580081921380368",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2105197328231759872"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 239,
+          "impression_count": 505634,
+          "like_count": 2429,
+          "quote_count": 109,
+          "reply_count": 111,
+          "retweet_count": 6236
+        },
+        "reply_settings": "everyone",
+        "text": "ときめき襲来！天使アイドルの応援シーズン\n\n10月8日より\nイベント「ときめき電波放送中」開始。\n\nフォロー&amp;RPで\n特製QUOカード2,000円分を\n抽選で10名様に進呈。\n\n締切  10/10 23:59 https://t.co/ZzHrgbFWb5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "线下查无此人｜不安定｜LGBTQ全友好🌈👩‍❤️‍👩｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1\nbluesky：tongchan-2008 ←🔪🩸💊\n🚪8.8 仅好友位扩列纯乞讨\n已成年休学中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "rain_kawaii1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tong_u._.u_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tong_u._.u_",
+                "start": 0,
+                "url": "https://t.co/GZHx8f1Ujj"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2108160956488696091",
+        "name": "tong_u._.u_",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043915964559835136/1776143589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103533775343001600/xVd1jr9E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 811,
+          "following_count": 189,
+          "like_count": 2572,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 1257
+        },
+        "url": "https://t.co/GZHx8f1Ujj",
+        "username": "rain_kawaiiii1",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-03-07T08:13:18.000Z",
+        "description": "罪悪都市プリズン戦略RPG「#無期迷途」公式アカウント\nDL：https://t.co/fqpQsML2ea\nYouTube：https://t.co/WZPXW1Y6nZ\nお問合せ： アプリ内カスタマーサービス、mukimeitojp@ziyitech.net\n#無期絵途 #無期迷途コスプレ #無期動画 #無期攻略",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 19,
+                "start": 14,
+                "tag": "無期迷途"
+              },
+              {
+                "end": 137,
+                "start": 132,
+                "tag": "無期絵途"
+              },
+              {
+                "end": 147,
+                "start": 138,
+                "tag": "無期迷途コスプレ"
+              },
+              {
+                "end": 153,
+                "start": 148,
+                "tag": "無期動画"
+              },
+              {
+                "end": 159,
+                "start": 154,
+                "tag": "無期攻略"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bit.ly/3dt3XwW",
+                "end": 54,
+                "expanded_url": "http://bit.ly/3dt3XwW",
+                "start": 31,
+                "url": "https://t.co/fqpQsML2ea"
+              },
+              {
+                "display_url": "bit.ly/3UCTxf4",
+                "end": 86,
+                "expanded_url": "http://bit.ly/3UCTxf4",
+                "start": 63,
+                "url": "https://t.co/WZPXW1Y6nZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ptn.aisnogames.com/ja-JP",
+                "end": 23,
+                "expanded_url": "https://ptn.aisnogames.com/ja-JP",
+                "start": 0,
+                "url": "https://t.co/oiPU6f17V0"
+              }
+            ]
+          }
+        },
+        "id": "1500746370650492928",
+        "is_identity_verified": false,
+        "location": "ミノス危機管理局",
+        "most_recent_tweet_id": "2108123987003724137",
+        "name": "無期迷途 (むきめいと) -公式-",
+        "pinned_tweet_id": "2106580081921380368",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1500746370650492928/1790240492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021464744335638529/8RcJE8SO_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136238,
+          "following_count": 120,
+          "like_count": 217,
+          "listed_count": 557,
+          "media_count": 2671,
+          "tweet_count": 3187
+        },
+        "url": "https://t.co/oiPU6f17V0",
+        "username": "PathtoNowhereJP",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

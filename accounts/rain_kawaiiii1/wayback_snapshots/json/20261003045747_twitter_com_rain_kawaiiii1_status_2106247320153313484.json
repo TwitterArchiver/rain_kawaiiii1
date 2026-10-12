@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043915964559835136",
+    "conversation_id": "2106247320153313484",
+    "created_at": "2026-10-03T04:57:47.000Z",
+    "display_text_range": [
+      0,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T05:57:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106247320153313484"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1822109599459397632",
+          "start": 3,
+          "username": "zifensix"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106247320153313484",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106040843731947750",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zifensix: 禁毒工作就该是在街上循环播放剧烈变形和我变成了一只鸡 笑的全部拷起来拉去尿检"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043915964559835136",
+        "conversation_id": "2106247320153313484",
+        "created_at": "2026-10-03T04:57:47.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T05:57:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106247320153313484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1822109599459397632",
+              "start": 3,
+              "username": "zifensix"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106247320153313484",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106040843731947750",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zifensix: 禁毒工作就该是在街上循环播放剧烈变形和我变成了一只鸡 笑的全部拷起来拉去尿检"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1822109599459397632",
+        "conversation_id": "2106040843731947750",
+        "created_at": "2026-10-02T15:17:20.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T16:17:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106040843731947750"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106040843731947750",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 6078,
+          "like_count": 218,
+          "quote_count": 5,
+          "reply_count": 9,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "禁毒工作就该是在街上循环播放剧烈变形和我变成了一只鸡 笑的全部拷起来拉去尿检"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "线下查无此人｜不安定｜LGBTQ全友好🌈👩‍❤️‍👩｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1\nbluesky：tongchan-2008 ←🔪🩸💊\n🚪8.8 仅好友位扩列纯乞讨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "rain_kawaii1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tong_u._.u_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tong_u._.u_",
+                "start": 0,
+                "url": "https://t.co/GZHx8f2s8R"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2106247320153313484",
+        "name": "tong_u._.u_",
+        "pinned_tweet_id": "2105297307403219297",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043915964559835136/1776143589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103533775343001600/xVd1jr9E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 172,
+          "like_count": 2331,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 1068
+        },
+        "url": "https://t.co/GZHx8f2s8R",
+        "username": "rain_kawaiiii1",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-10T03:16:10.000Z",
+        "description": "友所有人 自己找骂的除外😎\n09年 17岁 男的\n废话条/药物报告/轻微键政/还有发布一些日常🤓🤓🤓\n小号 @zifeneight",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "zifeneight"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/zifenod1",
+                "end": 23,
+                "expanded_url": "https://t.me/zifenod1",
+                "start": 0,
+                "url": "https://t.co/GFoTTuFsw2"
+              }
+            ]
+          }
+        },
+        "id": "1822109599459397632",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106242120390672512",
+        "name": "自分",
+        "pinned_tweet_id": "2105663916798013916",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1822109599459397632/1790405847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095053323384877056/BbrQ-zvg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 661,
+          "following_count": 202,
+          "like_count": 813,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 670
+        },
+        "url": "https://t.co/GFoTTuFsw2",
+        "username": "zifensix",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

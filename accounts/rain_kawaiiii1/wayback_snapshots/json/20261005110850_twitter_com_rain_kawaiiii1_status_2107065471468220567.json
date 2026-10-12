@@ -1,0 +1,641 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043915964559835136",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series.\n\nThe Video Game domain query only tracks conversation about the game series whereas the Multimedia Franchise query contains all Persona conversation.",
+          "id": "854954654546907136",
+          "name": "Persona"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series.\n\nThe Video Game domain query only tracks conversation about the game series whereas the Multimedia Franchise query contains all Persona conversation.",
+          "id": "854954654546907136",
+          "name": "Persona"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491898900390707204",
+          "name": "JRPGs"
+        }
+      }
+    ],
+    "conversation_id": "2107065471468220567",
+    "created_at": "2026-10-05T11:08:50.000Z",
+    "display_text_range": [
+      0,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T12:08:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2107065471468220567"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rain_kawaiiii1…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/rain_kawaiiii1/status/2107025262856806842",
+          "start": 30,
+          "url": "https://t.co/LXMXpBk835"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107065471468220567",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107025262856806842",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "最后一次8.8 下次要涨价了哦 因为是第一周收🚪所以很便宜 https://t.co/LXMXpBk835"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2107024756868550656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT2n2lYakAADK39.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2107024756818243584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT2n2lMa8AAZTty.jpg",
+        "width": 358
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2107024756818190336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT2n2lMaIAAoJls.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043915964559835136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series.\n\nThe Video Game domain query only tracks conversation about the game series whereas the Multimedia Franchise query contains all Persona conversation.",
+              "id": "854954654546907136",
+              "name": "Persona"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series.\n\nThe Video Game domain query only tracks conversation about the game series whereas the Multimedia Franchise query contains all Persona conversation.",
+              "id": "854954654546907136",
+              "name": "Persona"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898900390707204",
+              "name": "JRPGs"
+            }
+          }
+        ],
+        "conversation_id": "2107065471468220567",
+        "created_at": "2026-10-05T11:08:50.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T12:08:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107065471468220567"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rain_kawaiiii1…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/rain_kawaiiii1/status/2107025262856806842",
+              "start": 30,
+              "url": "https://t.co/LXMXpBk835"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107065471468220567",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107025262856806842",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最后一次8.8 下次要涨价了哦 因为是第一周收🚪所以很便宜 https://t.co/LXMXpBk835"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107024756868550656",
+            "3_2107024756818243584",
+            "3_2107024756818190336"
+          ]
+        },
+        "author_id": "2043915964559835136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series.\n\nThe Video Game domain query only tracks conversation about the game series whereas the Multimedia Franchise query contains all Persona conversation.",
+              "id": "854954654546907136",
+              "name": "Persona"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series.\n\nThe Video Game domain query only tracks conversation about the game series whereas the Multimedia Franchise query contains all Persona conversation.",
+              "id": "854954654546907136",
+              "name": "Persona"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898900390707204",
+              "name": "JRPGs"
+            }
+          }
+        ],
+        "conversation_id": "2107025262856806842",
+        "created_at": "2026-10-05T08:29:03.000Z",
+        "display_text_range": [
+          0,
+          159
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T09:27:06.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107024770793713821",
+          "2107024966235676678",
+          "2107025262856806842"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 145,
+              "start": 141,
+              "tag": "地雷系"
+            },
+            {
+              "end": 150,
+              "start": 146,
+              "tag": "cos"
+            },
+            {
+              "end": 159,
+              "start": 151,
+              "tag": "cosplay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2J2082681s",
+              "end": 183,
+              "expanded_url": "https://x.com/rain_kawaiiii1/status/2107025262856806842/photo/1",
+              "media_key": "3_2107024756868550656",
+              "start": 160,
+              "url": "https://t.co/2J2082681s"
+            },
+            {
+              "display_url": "pic.x.com/2J2082681s",
+              "end": 183,
+              "expanded_url": "https://x.com/rain_kawaiiii1/status/2107025262856806842/photo/1",
+              "media_key": "3_2107024756818243584",
+              "start": 160,
+              "url": "https://t.co/2J2082681s"
+            },
+            {
+              "display_url": "pic.x.com/2J2082681s",
+              "end": 183,
+              "expanded_url": "https://x.com/rain_kawaiiii1/status/2107025262856806842/photo/1",
+              "media_key": "3_2107024756818190336",
+              "start": 160,
+              "url": "https://t.co/2J2082681s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107025262856806842",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2107024756868550656"
+          },
+          {
+            "media_key": "3_2107024756818243584"
+          },
+          {
+            "media_key": "3_2107024756818190336"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 145,
+                "start": 141,
+                "tag": "地雷系"
+              },
+              {
+                "end": 150,
+                "start": 146,
+                "tag": "cos"
+              },
+              {
+                "end": 160,
+                "start": 151,
+                "tag": "cosplayㅤ"
+              },
+              {
+                "end": 165,
+                "start": 162,
+                "tag": "门槛"
+              },
+              {
+                "end": 170,
+                "start": 166,
+                "tag": "门槛妹"
+              },
+              {
+                "end": 174,
+                "start": 171,
+                "tag": "互推"
+              },
+              {
+                "end": 178,
+                "start": 175,
+                "tag": "互转"
+              }
+            ]
+          },
+          "text": "【来入门吧只要8.8】\n我因为我才开始收一周 以后会涨….\n请助力我吃饭….我很缺钱\n福利：\n入🚪即可获得点歌即是p2\n可以提供微量情绪价值\n有的时候会随机给你唱歌～\n给小💰💰可以给你学歌\n也会画画p3都是我的画可以无偿给你\n擅长描改/福瑞 不擅长上色\n欢迎互转互推\n纯绿纯绿纯绿\n#地雷系 #cos #cosplayㅤ\n #门槛 #门槛妹 #互推 #互转"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1170,
+          "like_count": 19,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "【来入门吧只要8.8】\n我因为我才开始收一周 以后会涨….\n请助力我吃饭….我很缺钱\n福利：\n入🚪即可获得点歌即是p2\n可以提供微量情绪价值\n有的时候会随机给你唱歌～\n给小💰💰可以给你学歌\n也会画画p3都是我的画可以无偿给你\n擅长描改/福瑞 不擅长上色\n欢迎互转互推\n纯绿纯绿纯绿\n#地雷系 #cos #cosplay https://t.co/2J2082681s"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "线下查无此人｜不安定｜LGBTQ全友好🌈👩‍❤️‍👩｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1\nbluesky：tongchan-2008 ←🔪🩸💊\n🚪8.8 仅好友位扩列纯乞讨\n已成年休学中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "rain_kawaii1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tong_u._.u_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tong_u._.u_",
+                "start": 0,
+                "url": "https://t.co/GZHx8f1Ujj"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2107065471468220567",
+        "name": "tong_u._.u_",
+        "pinned_tweet_id": "2107025262856806842",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043915964559835136/1776143589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103533775343001600/xVd1jr9E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 662,
+          "following_count": 175,
+          "like_count": 2490,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 1192
+        },
+        "url": "https://t.co/GZHx8f1Ujj",
+        "username": "rain_kawaiiii1",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,424 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2107110646794096641",
+        "3_2107110646735347712",
+        "3_2107110646777286657"
+      ]
+    },
+    "author_id": "2043915964559835136",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2107110854953177515",
+    "created_at": "2026-10-05T14:09:10.000Z",
+    "display_text_range": [
+      0,
+      98
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T15:08:27.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2107110674661097630",
+      "2107110854953177515"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 89,
+          "start": 85,
+          "tag": "地雷系"
+        },
+        {
+          "end": 94,
+          "start": 90,
+          "tag": "cos"
+        },
+        {
+          "end": 98,
+          "start": 95,
+          "tag": "门槛"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/w8Hv4pj47M",
+          "end": 122,
+          "expanded_url": "https://x.com/rain_kawaiiii1/status/2107110854953177515/photo/1",
+          "media_key": "3_2107110646794096641",
+          "start": 99,
+          "url": "https://t.co/w8Hv4pj47M"
+        },
+        {
+          "display_url": "pic.x.com/w8Hv4pj47M",
+          "end": 122,
+          "expanded_url": "https://x.com/rain_kawaiiii1/status/2107110854953177515/photo/1",
+          "media_key": "3_2107110646735347712",
+          "start": 99,
+          "url": "https://t.co/w8Hv4pj47M"
+        },
+        {
+          "display_url": "pic.x.com/w8Hv4pj47M",
+          "end": 122,
+          "expanded_url": "https://x.com/rain_kawaiiii1/status/2107110854953177515/photo/1",
+          "media_key": "3_2107110646777286657",
+          "start": 99,
+          "url": "https://t.co/w8Hv4pj47M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107110854953177515",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2107110646794096641"
+      },
+      {
+        "media_key": "3_2107110646735347712"
+      },
+      {
+        "media_key": "3_2107110646777286657"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最后一次发🚪8.8\n真的只有8.8。。\n支持口令和赞赏码 私信我就好哦\n开放朋友圈\n下次就涨价了\n入门就可以点歌如p2 三天内肯定唱！\np3是我的画全能型\n可以互转互关\n#地雷系 #cos #门槛 https://t.co/w8Hv4pj47M"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2107110646794096641",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT31-CSbEAEbFNQ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2107110646735347712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT31-CEaoAAeuF-.jpg",
+        "width": 358
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2107110646777286657",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT31-COakAEQn1L.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107110646794096641",
+            "3_2107110646735347712",
+            "3_2107110646777286657"
+          ]
+        },
+        "author_id": "2043915964559835136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2107110674661097630",
+        "created_at": "2026-10-05T14:08:27.000Z",
+        "display_text_range": [
+          0,
+          84
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T15:08:27.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107110674661097630",
+          "2107110854953177515"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uNevbIEJNl",
+              "end": 108,
+              "expanded_url": "https://x.com/rain_kawaiiii1/status/2107110674661097630/photo/1",
+              "media_key": "3_2107110646794096641",
+              "start": 85,
+              "url": "https://t.co/uNevbIEJNl"
+            },
+            {
+              "display_url": "pic.x.com/uNevbIEJNl",
+              "end": 108,
+              "expanded_url": "https://x.com/rain_kawaiiii1/status/2107110674661097630/photo/1",
+              "media_key": "3_2107110646735347712",
+              "start": 85,
+              "url": "https://t.co/uNevbIEJNl"
+            },
+            {
+              "display_url": "pic.x.com/uNevbIEJNl",
+              "end": 108,
+              "expanded_url": "https://x.com/rain_kawaiiii1/status/2107110674661097630/photo/1",
+              "media_key": "3_2107110646777286657",
+              "start": 85,
+              "url": "https://t.co/uNevbIEJNl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107110674661097630",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2107110646794096641"
+          },
+          {
+            "media_key": "3_2107110646735347712"
+          },
+          {
+            "media_key": "3_2107110646777286657"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最后一次发🚪8.8\n真的只有8.8。。\n支持口令和赞赏码 私信我就好哦\n开放朋友圈\n下次就涨价了\n入门就可以点歌如p2 三天内肯定唱！\np3是我的画全能型\n可以互转互关 https://t.co/uNevbIEJNl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107110646794096641",
+            "3_2107110646735347712",
+            "3_2107110646777286657"
+          ]
+        },
+        "author_id": "2043915964559835136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2107110854953177515",
+        "created_at": "2026-10-05T14:09:10.000Z",
+        "display_text_range": [
+          0,
+          98
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T15:08:27.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107110674661097630",
+          "2107110854953177515"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 89,
+              "start": 85,
+              "tag": "地雷系"
+            },
+            {
+              "end": 94,
+              "start": 90,
+              "tag": "cos"
+            },
+            {
+              "end": 98,
+              "start": 95,
+              "tag": "门槛"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/w8Hv4pj47M",
+              "end": 122,
+              "expanded_url": "https://x.com/rain_kawaiiii1/status/2107110854953177515/photo/1",
+              "media_key": "3_2107110646794096641",
+              "start": 99,
+              "url": "https://t.co/w8Hv4pj47M"
+            },
+            {
+              "display_url": "pic.x.com/w8Hv4pj47M",
+              "end": 122,
+              "expanded_url": "https://x.com/rain_kawaiiii1/status/2107110854953177515/photo/1",
+              "media_key": "3_2107110646735347712",
+              "start": 99,
+              "url": "https://t.co/w8Hv4pj47M"
+            },
+            {
+              "display_url": "pic.x.com/w8Hv4pj47M",
+              "end": 122,
+              "expanded_url": "https://x.com/rain_kawaiiii1/status/2107110854953177515/photo/1",
+              "media_key": "3_2107110646777286657",
+              "start": 99,
+              "url": "https://t.co/w8Hv4pj47M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107110854953177515",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2107110646794096641"
+          },
+          {
+            "media_key": "3_2107110646735347712"
+          },
+          {
+            "media_key": "3_2107110646777286657"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最后一次发🚪8.8\n真的只有8.8。。\n支持口令和赞赏码 私信我就好哦\n开放朋友圈\n下次就涨价了\n入门就可以点歌如p2 三天内肯定唱！\np3是我的画全能型\n可以互转互关\n#地雷系 #cos #门槛 https://t.co/w8Hv4pj47M"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "线下查无此人｜不安定｜LGBTQ全友好🌈👩‍❤️‍👩｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1\nbluesky：tongchan-2008 ←🔪🩸💊\n🚪8.8 仅好友位扩列纯乞讨\n已成年休学中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "rain_kawaii1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tong_u._.u_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tong_u._.u_",
+                "start": 0,
+                "url": "https://t.co/GZHx8f1Ujj"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2107110854953177515",
+        "name": "tong_u._.u_",
+        "pinned_tweet_id": "2107025262856806842",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043915964559835136/1776143589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103533775343001600/xVd1jr9E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 686,
+          "following_count": 178,
+          "like_count": 2494,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 1205
+        },
+        "url": "https://t.co/GZHx8f1Ujj",
+        "username": "rain_kawaiiii1",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

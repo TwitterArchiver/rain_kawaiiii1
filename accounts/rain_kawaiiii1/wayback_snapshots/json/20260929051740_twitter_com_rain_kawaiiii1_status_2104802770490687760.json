@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104198715292741632"
+      ],
+      "media_source_tweet_id": [
+        "2104198723085771022"
+      ]
+    },
+    "author_id": "2043915964559835136",
+    "conversation_id": "2104802770490687760",
+    "created_at": "2026-09-29T05:17:40.000Z",
+    "display_text_range": [
+      0,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T06:17:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104802770490687760"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1827203342436855812",
+          "start": 3,
+          "username": "nanaj00_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Gp5lRUc9kj",
+          "end": 46,
+          "expanded_url": "https://x.com/nanaj00_/status/2104198723085771022/photo/1",
+          "media_key": "3_2104198715292741632",
+          "start": 23,
+          "url": "https://t.co/Gp5lRUc9kj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104802770490687760",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2104198715292741632"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 593
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104198723085771022",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nanaj00_: 消しちゃったやつ https://t.co/Gp5lRUc9kj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2104198715292741632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTOdlUHbcAAV2Na.jpg",
+        "width": 2407
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104198715292741632"
+          ],
+          "media_source_tweet_id": [
+            "2104198723085771022"
+          ]
+        },
+        "author_id": "2043915964559835136",
+        "conversation_id": "2104802770490687760",
+        "created_at": "2026-09-29T05:17:40.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T06:17:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104802770490687760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1827203342436855812",
+              "start": 3,
+              "username": "nanaj00_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gp5lRUc9kj",
+              "end": 46,
+              "expanded_url": "https://x.com/nanaj00_/status/2104198723085771022/photo/1",
+              "media_key": "3_2104198715292741632",
+              "start": 23,
+              "url": "https://t.co/Gp5lRUc9kj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104802770490687760",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2104198715292741632"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 593
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104198723085771022",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nanaj00_: 消しちゃったやつ https://t.co/Gp5lRUc9kj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104198715292741632"
+          ]
+        },
+        "author_id": "1827203342436855812",
+        "conversation_id": "2104198723085771022",
+        "created_at": "2026-09-27T13:17:24.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T14:17:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104198723085771022"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gp5lRUc9kj",
+              "end": 32,
+              "expanded_url": "https://x.com/nanaj00_/status/2104198723085771022/photo/1",
+              "media_key": "3_2104198715292741632",
+              "start": 9,
+              "url": "https://t.co/Gp5lRUc9kj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104198723085771022",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2104198715292741632"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 393,
+          "impression_count": 30146,
+          "like_count": 5333,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 593
+        },
+        "reply_settings": "everyone",
+        "text": "消しちゃったやつ https://t.co/Gp5lRUc9kj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "线下查无此人｜不安定｜LGBTQ全友好🌈👩‍❤️‍👩｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1\nbluesky：tongchan-2008 ←🔪🩸💊\n🚪8.8 仅好友位扩列纯乞讨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "rain_kawaii1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tong_u._.u_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tong_u._.u_",
+                "start": 0,
+                "url": "https://t.co/GZHx8f2s8R"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2104802770490687760",
+        "name": "tong_u._.u_",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043915964559835136/1776143589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103533775343001600/xVd1jr9E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 166,
+          "like_count": 2244,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 1010
+        },
+        "url": "https://t.co/GZHx8f2s8R",
+        "username": "rain_kawaiiii1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-24T04:36:54.000Z",
+        "description": "✧illustration\n✦NEEDY GIRL OVERDOSE",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@nanaj00_",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@nanaj00_",
+                "start": 0,
+                "url": "https://t.co/g21b8umN9E"
+              }
+            ]
+          }
+        },
+        "id": "1827203342436855812",
+        "is_identity_verified": false,
+        "location": "トレス・無断転載・参考×",
+        "most_recent_tweet_id": "2104630544428569023",
+        "name": "七時",
+        "pinned_tweet_id": "2097645792177828171",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1827203342436855812/1787386281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072676097825947648/HfYZCcL__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11457,
+          "following_count": 34,
+          "like_count": 35207,
+          "listed_count": 32,
+          "media_count": 36,
+          "tweet_count": 932
+        },
+        "url": "https://t.co/g21b8umN9E",
+        "username": "nanaj00_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

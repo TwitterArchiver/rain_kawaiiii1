@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043915964559835136",
+    "conversation_id": "2105286757894021447",
+    "created_at": "2026-09-30T13:20:52.000Z",
+    "display_text_range": [
+      0,
+      73
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T14:20:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105286757894021447"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1988955310481096704",
+          "start": 3,
+          "username": "Qingning_321"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105286757894021447",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 384
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104584694042165388",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Qingning_321: 我割手臂不是因为想死\n是因为我要用仅存的那点理智把自己平静下来\n除了那些鲜红的液体，也没有什么更能让我冷静的了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043915964559835136",
+        "conversation_id": "2105286757894021447",
+        "created_at": "2026-09-30T13:20:52.000Z",
+        "display_text_range": [
+          0,
+          73
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T14:20:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105286757894021447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1988955310481096704",
+              "start": 3,
+              "username": "Qingning_321"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105286757894021447",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 384
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104584694042165388",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Qingning_321: 我割手臂不是因为想死\n是因为我要用仅存的那点理智把自己平静下来\n除了那些鲜红的液体，也没有什么更能让我冷静的了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988955310481096704",
+        "conversation_id": "2104584694042165388",
+        "created_at": "2026-09-28T14:51:07.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T15:51:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104584694042165388"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104584694042165388",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 108,
+          "impression_count": 25895,
+          "like_count": 1761,
+          "quote_count": 16,
+          "reply_count": 23,
+          "retweet_count": 384
+        },
+        "reply_settings": "everyone",
+        "text": "我割手臂不是因为想死\n是因为我要用仅存的那点理智把自己平静下来\n除了那些鲜红的液体，也没有什么更能让我冷静的了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "线下查无此人｜不安定｜LGBTQ全友好🌈👩‍❤️‍👩｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1\nbluesky：tongchan-2008 ←🔪🩸💊\n🚪8.8 仅好友位扩列纯乞讨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "rain_kawaii1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tong_u._.u_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tong_u._.u_",
+                "start": 0,
+                "url": "https://t.co/GZHx8f2s8R"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2105286757894021447",
+        "name": "tong_u._.u_",
+        "pinned_tweet_id": "2105182271380893712",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043915964559835136/1776143589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103533775343001600/xVd1jr9E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 416,
+          "following_count": 169,
+          "like_count": 2304,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 1049
+        },
+        "url": "https://t.co/GZHx8f2s8R",
+        "username": "rain_kawaiiii1",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-13T13:02:01.000Z",
+        "description": "INFP/双相/抑郁/割腕/深柜/亚文化/MyGO/理想主义/社民/164cm/51kg/生产日期2013.5.27/13岁初中废柴/容貌焦虑/留发中/长三角小县城挣扎/抖m/三角洲/音游/二次元/死宅/hrt(未来)/上学中/狱般的原生家庭/同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/qingning_321",
+                "end": 23,
+                "expanded_url": "http://t.me/qingning_321",
+                "start": 0,
+                "url": "https://t.co/OXJWROu53g"
+              }
+            ]
+          }
+        },
+        "id": "1988955310481096704",
+        "is_identity_verified": false,
+        "location": "Jiang Su,China,East Asia",
+        "most_recent_tweet_id": "2105274751073550815",
+        "name": "青柠好苦喵",
+        "pinned_tweet_id": "2104941206677365019",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1988955310481096704/1789289146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101655669115920384/ECJJH-vs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 785,
+          "like_count": 722,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 221
+        },
+        "url": "https://t.co/OXJWROu53g",
+        "username": "Qingning_321",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,558 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2101934088458506241"
+      ],
+      "media_source_tweet_id": [
+        "2101934120897282222"
+      ]
+    },
+    "author_id": "2043915964559835136",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1404909205924966400",
+          "name": "Doki Doki Literature Club"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1311309260597329921",
+          "name": "Visual novels"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1404909205924966400",
+          "name": "Doki Doki Literature Club"
+        }
+      }
+    ],
+    "conversation_id": "2102192331604869331",
+    "created_at": "2026-09-22T00:24:43.000Z",
+    "display_text_range": [
+      0,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T01:24:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102192331604869331"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 19,
+          "tag": "ddlc"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1586265444750458880",
+          "start": 3,
+          "username": "hanicakea"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HH4rGoQrSK",
+          "end": 48,
+          "expanded_url": "https://x.com/hanicakea/status/2101934120897282222/photo/1",
+          "media_key": "3_2101934088458506241",
+          "start": 25,
+          "url": "https://t.co/HH4rGoQrSK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102192331604869331",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2101934088458506241"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 451
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101934120897282222",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hanicakea: サヨリ　#ddlc https://t.co/HH4rGoQrSK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2101934088458506241",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSuR6rvakAEtRef.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101934088458506241"
+          ],
+          "media_source_tweet_id": [
+            "2101934120897282222"
+          ]
+        },
+        "author_id": "2043915964559835136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1404909205924966400",
+              "name": "Doki Doki Literature Club"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311309260597329921",
+              "name": "Visual novels"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1404909205924966400",
+              "name": "Doki Doki Literature Club"
+            }
+          }
+        ],
+        "conversation_id": "2102192331604869331",
+        "created_at": "2026-09-22T00:24:43.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T01:24:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102192331604869331"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 19,
+              "tag": "ddlc"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1586265444750458880",
+              "start": 3,
+              "username": "hanicakea"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HH4rGoQrSK",
+              "end": 48,
+              "expanded_url": "https://x.com/hanicakea/status/2101934120897282222/photo/1",
+              "media_key": "3_2101934088458506241",
+              "start": 25,
+              "url": "https://t.co/HH4rGoQrSK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102192331604869331",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2101934088458506241"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 451
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101934120897282222",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hanicakea: サヨリ　#ddlc https://t.co/HH4rGoQrSK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101934088458506241"
+          ]
+        },
+        "author_id": "1586265444750458880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1404909205924966400",
+              "name": "Doki Doki Literature Club"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311309260597329921",
+              "name": "Visual novels"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1404909205924966400",
+              "name": "Doki Doki Literature Club"
+            }
+          }
+        ],
+        "conversation_id": "2101934120897282222",
+        "created_at": "2026-09-21T07:18:41.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T08:18:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101934120897282222"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 4,
+              "tag": "ddlc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HH4rGoQrSK",
+              "end": 33,
+              "expanded_url": "https://x.com/hanicakea/status/2101934120897282222/photo/1",
+              "media_key": "3_2101934088458506241",
+              "start": 10,
+              "url": "https://t.co/HH4rGoQrSK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101934120897282222",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2101934088458506241"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 318,
+          "impression_count": 14620,
+          "like_count": 2839,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 451
+        },
+        "reply_settings": "everyone",
+        "text": "サヨリ　#ddlc https://t.co/HH4rGoQrSK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "线下查无此人｜不安定｜LGBTQ全友好🌈👩‍❤️‍👩｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1\nbluesky：tongchan-2008 ←🔪🩸💊\n🚪8.8 仅好友位扩列纯乞讨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "rain_kawaii1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tong_u._.u_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tong_u._.u_",
+                "start": 0,
+                "url": "https://t.co/GZHx8f2s8R"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2102192331604869331",
+        "name": "tong_u._.u_",
+        "pinned_tweet_id": "2101630503900295595",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043915964559835136/1776143589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043920464872148992/gUpWTpWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 161,
+          "like_count": 2009,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 883
+        },
+        "url": "https://t.co/GZHx8f2s8R",
+        "username": "rain_kawaiiii1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-10-29T07:55:39.000Z",
+        "description": "絵♡ sub @ha2ke",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 7,
+                "username": "ha2ke"
+              }
+            ]
+          }
+        },
+        "id": "1586265444750458880",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102028785923297719",
+        "name": "はにけーき",
+        "pinned_tweet_id": "2101934120897282222",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1586265444750458880/1723453189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822698030556119041/2poo9zAb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2509,
+          "following_count": 248,
+          "like_count": 6036,
+          "listed_count": 22,
+          "media_count": 126,
+          "tweet_count": 1604
+        },
+        "url": "",
+        "username": "hanicakea",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

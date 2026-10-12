@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043915964559835136",
+    "conversation_id": "2107785394045821415",
+    "created_at": "2026-10-07T12:28:16.000Z",
+    "display_text_range": [
+      9,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-07T13:28:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107810235574604261"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2103590351080771584",
+          "start": 0,
+          "username": "uwu8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107810235574604261",
+    "in_reply_to_user_id": "2103590351080771584",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107785394045821415",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uwu8964 不要🥹"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2107785394045821415].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2107785394045821415",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2107785394045821415"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043915964559835136",
+        "conversation_id": "2107785394045821415",
+        "created_at": "2026-10-07T12:28:16.000Z",
+        "display_text_range": [
+          9,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T13:28:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107810235574604261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2103590351080771584",
+              "start": 0,
+              "username": "uwu8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107810235574604261",
+        "in_reply_to_user_id": "2103590351080771584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107785394045821415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uwu8964 不要🥹"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "线下查无此人｜不安定｜LGBTQ全友好🌈👩‍❤️‍👩｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1\nbluesky：tongchan-2008 ←🔪🩸💊\n🚪8.8 仅好友位扩列纯乞讨\n已成年休学中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "rain_kawaii1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tong_u._.u_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tong_u._.u_",
+                "start": 0,
+                "url": "https://t.co/GZHx8f1Ujj"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2107810235574604261",
+        "name": "tong_u._.u_",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043915964559835136/1776143589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103533775343001600/xVd1jr9E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 814,
+          "following_count": 189,
+          "like_count": 2564,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 1247
+        },
+        "url": "https://t.co/GZHx8f1Ujj",
+        "username": "rain_kawaiiii1",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-25T21:01:40.000Z",
+        "description": "最愛的杯子@7q468438x8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 5,
+                "username": "7q468438x8964"
+              }
+            ]
+          }
+        },
+        "id": "2103590351080771584",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107647091283779831",
+        "name": "這裏沒有你想看的。",
+        "pinned_tweet_id": "2105370737829916693",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2103590351080771584/1790794541",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105368005270228993/ORHAOaDx_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 696,
+          "following_count": 286,
+          "like_count": 625,
+          "listed_count": 3,
+          "media_count": 46,
+          "tweet_count": 526
+        },
+        "url": "",
+        "username": "uwu8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

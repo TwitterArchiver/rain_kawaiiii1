@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043915964559835136",
+    "conversation_id": "2106250125240922430",
+    "created_at": "2026-10-03T05:08:56.000Z",
+    "display_text_range": [
+      0,
+      91
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T06:08:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106250125240922430"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1641863968560930819",
+          "start": 3,
+          "username": "asmaeran"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106250125240922430",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2579
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105783749569122655",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @asmaeran: 2023= mierda\n2024= mierda\n2025= mierda\n2026= mierda\n2027= mierda proximamente"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043915964559835136",
+        "conversation_id": "2106250125240922430",
+        "created_at": "2026-10-03T05:08:56.000Z",
+        "display_text_range": [
+          0,
+          91
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T06:08:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106250125240922430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1641863968560930819",
+              "start": 3,
+              "username": "asmaeran"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106250125240922430",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2579
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105783749569122655",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @asmaeran: 2023= mierda\n2024= mierda\n2025= mierda\n2026= mierda\n2027= mierda proximamente"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641863968560930819",
+        "conversation_id": "2105783749569122655",
+        "created_at": "2026-10-01T22:15:44.000Z",
+        "display_text_range": [
+          0,
+          77
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T23:15:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105783749569122655"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2105783749569122655",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 130,
+          "impression_count": 97187,
+          "like_count": 9199,
+          "quote_count": 22,
+          "reply_count": 25,
+          "retweet_count": 2579
+        },
+        "reply_settings": "everyone",
+        "text": "2023= mierda\n2024= mierda\n2025= mierda\n2026= mierda\n2027= mierda proximamente"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "线下查无此人｜不安定｜LGBTQ全友好🌈👩‍❤️‍👩｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1\nbluesky：tongchan-2008 ←🔪🩸💊\n🚪8.8 仅好友位扩列纯乞讨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "rain_kawaii1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tong_u._.u_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tong_u._.u_",
+                "start": 0,
+                "url": "https://t.co/GZHx8f2s8R"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2106250194799263813",
+        "name": "tong_u._.u_",
+        "pinned_tweet_id": "2105297307403219297",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043915964559835136/1776143589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103533775343001600/xVd1jr9E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 172,
+          "like_count": 2334,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 1070
+        },
+        "url": "https://t.co/GZHx8f2s8R",
+        "username": "rain_kawaiiii1",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-03-31T18:04:50.000Z",
+        "description": "𝐈 𝐚𝐥𝐰𝐚𝐲𝐬 𝐜𝐨𝐧𝐬𝐢𝐝𝐞𝐫 𝐲𝐨𝐮𝐫 𝐥𝐨𝐯𝐞 𝐞𝐯𝐞𝐧 𝐰𝐡𝐞𝐧 𝐦𝐲 𝐡𝐞𝐚𝐫𝐭 𝐬𝐭𝐨𝐩 𝐛𝐞𝐚𝐭𝐢𝐧𝐠\n ˗ˏˋ ♡ ˎˊ\n#sadtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 77,
+                "start": 70,
+                "tag": "sadtwt"
+              }
+            ]
+          }
+        },
+        "id": "1641863968560930819",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106219586983014781",
+        "name": "tostitos lokos",
+        "pinned_tweet_id": "2098975816747044930",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1641863968560930819/1787953522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105408370916147200/Vlo3i2aK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 156,
+          "like_count": 12997,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 731
+        },
+        "url": "",
+        "username": "asmaeran",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

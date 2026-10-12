@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043915964559835136",
+    "conversation_id": "2103043467622715426",
+    "created_at": "2026-09-24T08:46:49.000Z",
+    "display_text_range": [
+      0,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T09:46:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103043467622715426"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1772653166850662400",
+          "start": 3,
+          "username": "ame_lwwen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103043467622715426",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 48
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102607995381404115",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ame_lwwen: 只是惊讶有个人已经上任14年了。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043915964559835136",
+        "conversation_id": "2103043467622715426",
+        "created_at": "2026-09-24T08:46:49.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T09:46:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103043467622715426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1772653166850662400",
+              "start": 3,
+              "username": "ame_lwwen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103043467622715426",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 48
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102607995381404115",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ame_lwwen: 只是惊讶有个人已经上任14年了。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1772653166850662400",
+        "conversation_id": "2102607995381404115",
+        "created_at": "2026-09-23T03:56:25.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T04:56:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102607995381404115"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2102607995381404115",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 91,
+          "impression_count": 1075684,
+          "like_count": 3585,
+          "quote_count": 14,
+          "reply_count": 400,
+          "retweet_count": 48
+        },
+        "reply_settings": "everyone",
+        "text": "只是惊讶有个人已经上任14年了。。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "线下查无此人｜不安定｜LGBTQ全友好🌈👩‍❤️‍👩｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1\nbluesky：tongchan-2008 ←🔪🩸💊\n🚪8.8 仅好友位扩列纯乞讨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "rain_kawaii1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tong_u._.u_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tong_u._.u_",
+                "start": 0,
+                "url": "https://t.co/GZHx8f2s8R"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2103043467622715426",
+        "name": "tong_u._.u_",
+        "pinned_tweet_id": "2102659632435265719",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043915964559835136/1776143589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043920464872148992/gUpWTpWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 161,
+          "like_count": 2076,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 923
+        },
+        "url": "https://t.co/GZHx8f2s8R",
+        "username": "rain_kawaiiii1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-26T15:53:55.000Z",
+        "description": "喜欢草坪、阳光，阅读和睡眠。 https://t.co/lsVmfne3gq",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/88sensei",
+                "end": 38,
+                "expanded_url": "https://ngl.link/88sensei",
+                "start": 15,
+                "url": "https://t.co/lsVmfne3gq"
+              }
+            ]
+          }
+        },
+        "id": "1772653166850662400",
+        "is_identity_verified": false,
+        "location": "Somewhere we could stay",
+        "most_recent_tweet_id": "2102982061292412988",
+        "name": "荔文",
+        "pinned_tweet_id": "1818197670655099164",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1772653166850662400/1733399103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772658895015784448/tkQ9SLa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1542,
+          "following_count": 200,
+          "like_count": 17487,
+          "listed_count": 8,
+          "media_count": 649,
+          "tweet_count": 5217
+        },
+        "url": "",
+        "username": "ame_lwwen",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

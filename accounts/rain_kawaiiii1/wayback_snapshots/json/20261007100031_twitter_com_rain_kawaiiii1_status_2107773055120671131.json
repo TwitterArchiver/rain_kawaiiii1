@@ -1,0 +1,412 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2107720073729261568"
+      ],
+      "media_source_tweet_id": [
+        "2107720142557962344"
+      ]
+    },
+    "author_id": "2043915964559835136",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2107773055120671131",
+    "created_at": "2026-10-07T10:00:31.000Z",
+    "display_text_range": [
+      0,
+      58
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-07T11:00:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107773055120671131"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1816256392195612672",
+          "start": 3,
+          "username": "Leviannatho"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0CMMTE9Tnt",
+          "end": 58,
+          "expanded_url": "https://x.com/Leviannatho/status/2107720142557962344/video/1",
+          "media_key": "13_2107720073729261568",
+          "start": 35,
+          "url": "https://t.co/0CMMTE9Tnt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107773055120671131",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "13_2107720073729261568"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 122
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107720142557962344",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Leviannatho: She so stupid aww https://t.co/0CMMTE9Tnt"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20525,
+        "height": 1530,
+        "media_key": "13_2107720073729261568",
+        "preview_image_url": "https://pbs.twimg.com/media/HUAgPWjW4AA7f1i.jpg",
+        "public_metrics": {
+          "view_count": 4438
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107720073729261568/vid/avc1/480x626/CUe9R__JmpaO9NlO.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107720073729261568/vid/avc1/720x940/YTJm5a2k93wkiNrh.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2107720073729261568/pl/R8FawTrYi3td6sSx.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107720073729261568/vid/avc1/1080x1412/BX4dDIdB4vkgl_6B.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107720073729261568/vid/avc1/320x418/lgwgNk1sPZ3rQL4Z.mp4"
+          }
+        ],
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2107720073729261568"
+          ],
+          "media_source_tweet_id": [
+            "2107720142557962344"
+          ]
+        },
+        "author_id": "2043915964559835136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2107773055120671131",
+        "created_at": "2026-10-07T10:00:31.000Z",
+        "display_text_range": [
+          0,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T11:00:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107773055120671131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1816256392195612672",
+              "start": 3,
+              "username": "Leviannatho"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0CMMTE9Tnt",
+              "end": 58,
+              "expanded_url": "https://x.com/Leviannatho/status/2107720142557962344/video/1",
+              "media_key": "13_2107720073729261568",
+              "start": 35,
+              "url": "https://t.co/0CMMTE9Tnt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107773055120671131",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2107720073729261568"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 122
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107720142557962344",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Leviannatho: She so stupid aww https://t.co/0CMMTE9Tnt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2107720073729261568"
+          ]
+        },
+        "author_id": "1816256392195612672",
+        "conversation_id": "2107720142557962344",
+        "created_at": "2026-10-07T06:30:16.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T07:30:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107720142557962344"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0CMMTE9Tnt",
+              "end": 41,
+              "expanded_url": "https://x.com/Leviannatho/status/2107720142557962344/video/1",
+              "media_key": "13_2107720073729261568",
+              "start": 18,
+              "url": "https://t.co/0CMMTE9Tnt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107720142557962344",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2107720073729261568"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 134,
+          "impression_count": 8274,
+          "like_count": 957,
+          "quote_count": 4,
+          "reply_count": 3,
+          "retweet_count": 122
+        },
+        "reply_settings": "everyone",
+        "text": "She so stupid aww https://t.co/0CMMTE9Tnt"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "线下查无此人｜不安定｜LGBTQ全友好🌈👩‍❤️‍👩｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1\nbluesky：tongchan-2008 ←🔪🩸💊\n🚪8.8 仅好友位扩列纯乞讨\n已成年休学中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "rain_kawaii1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tong_u._.u_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tong_u._.u_",
+                "start": 0,
+                "url": "https://t.co/GZHx8f1Ujj"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2107773055120671131",
+        "name": "tong_u._.u_",
+        "pinned_tweet_id": "2107768907205607820",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043915964559835136/1776143589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103533775343001600/xVd1jr9E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 811,
+          "following_count": 189,
+          "like_count": 2554,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 1240
+        },
+        "url": "https://t.co/GZHx8f1Ujj",
+        "username": "rain_kawaiiii1",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-24T23:37:39.000Z",
+        "description": "humble enjoyer of nso & alst #ilovemybf {Sua, Sayori, Kangel, Mizuki, Miku, Aiko, Aubrey #1 fan ❤️‍🩹!!} @tictactoechamp\n🧬\nhttps://t.co/58blDXOPC4",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 39,
+                "start": 29,
+                "tag": "ilovemybf"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 119,
+                "start": 104,
+                "username": "tictactoechamp"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "raincandysimpu.straw.page",
+                "end": 145,
+                "expanded_url": "https://raincandysimpu.straw.page",
+                "start": 122,
+                "url": "https://t.co/58blDXOPC4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "throne.com/leviannatho",
+                "end": 23,
+                "expanded_url": "https://throne.com/leviannatho",
+                "start": 0,
+                "url": "https://t.co/oPfGiWFgeQ"
+              }
+            ]
+          }
+        },
+        "id": "1816256392195612672",
+        "is_identity_verified": false,
+        "location": "I love my hubby (18) BLESS 🙏",
+        "most_recent_tweet_id": "2107730922481275011",
+        "name": "Ame",
+        "pinned_tweet_id": "2092081282121355408",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1816256392195612672/1791094750",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100777731789111296/0YOpn_TG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3133,
+          "following_count": 1581,
+          "like_count": 23546,
+          "listed_count": 11,
+          "media_count": 2474,
+          "tweet_count": 14596
+        },
+        "url": "https://t.co/oPfGiWFgeQ",
+        "username": "Leviannatho",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

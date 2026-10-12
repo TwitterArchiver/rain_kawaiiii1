@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043915964559835136",
+    "conversation_id": "2102069144460083666",
+    "created_at": "2026-09-21T16:15:13.000Z",
+    "display_text_range": [
+      0,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T17:15:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102069144460083666"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2014236320051159040",
+          "start": 3,
+          "username": "i16bluu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102069144460083666",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5207
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101812765820424284",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @i16bluu: nose si cortarme el pelo o el cuello"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043915964559835136",
+        "conversation_id": "2102069144460083666",
+        "created_at": "2026-09-21T16:15:13.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T17:15:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102069144460083666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2014236320051159040",
+              "start": 3,
+              "username": "i16bluu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102069144460083666",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5207
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101812765820424284",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @i16bluu: nose si cortarme el pelo o el cuello"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014236320051159040",
+        "conversation_id": "2101812765820424284",
+        "created_at": "2026-09-20T23:16:27.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T00:16:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101812765820424284"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101812765820424284",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 495,
+          "impression_count": 260725,
+          "like_count": 17759,
+          "quote_count": 206,
+          "reply_count": 27,
+          "retweet_count": 5207
+        },
+        "reply_settings": "everyone",
+        "text": "nose si cortarme el pelo o el cuello"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "线下查无此人｜不安定｜LGBTQ全友好🌈👩‍❤️‍👩｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1\nbluesky：tongchan-2008 ←🔪🩸💊\n🚪8.8 仅好友位扩列纯乞讨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "rain_kawaii1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tong_u._.u_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tong_u._.u_",
+                "start": 0,
+                "url": "https://t.co/GZHx8f2s8R"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2102069144460083666",
+        "name": "tong_u._.u_",
+        "pinned_tweet_id": "2101630503900295595",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043915964559835136/1776143589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043920464872148992/gUpWTpWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 161,
+          "like_count": 1997,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 878
+        },
+        "url": "https://t.co/GZHx8f2s8R",
+        "username": "rain_kawaiiii1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-22T07:19:22.000Z",
+        "description": "ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ #suicidetwt  \nㅤ                                           \nㅤㅤㅤㅤㅤㅤㅤㅤㅤ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 29,
+                "start": 18,
+                "tag": "suicidetwt"
+              }
+            ]
+          }
+        },
+        "id": "2014236320051159040",
+        "is_identity_verified": false,
+        "location": "depresiva",
+        "most_recent_tweet_id": "2101850638950830564",
+        "name": "weona",
+        "pinned_tweet_id": "2098879349516652889",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2014236320051159040/1789931565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101653736154112000/Z155gBmK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 98,
+          "like_count": 2488,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 517
+        },
+        "url": "",
+        "username": "i16bluu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

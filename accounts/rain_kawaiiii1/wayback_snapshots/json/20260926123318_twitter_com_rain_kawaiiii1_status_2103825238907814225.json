@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103151863633793024"
+      ],
+      "media_source_tweet_id": [
+        "2103151868897554939"
+      ]
+    },
+    "author_id": "2043915964559835136",
+    "conversation_id": "2103825238907814225",
+    "created_at": "2026-09-26T12:33:18.000Z",
+    "display_text_range": [
+      0,
+      133
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T13:33:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103825238907814225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1793220002151026688",
+          "start": 3,
+          "username": "El3ctricDtntor"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eDeIIVoYmM",
+          "end": 133,
+          "expanded_url": "https://x.com/El3ctricDtntor/status/2103151868897554939/photo/1",
+          "media_key": "3_2103151863633793024",
+          "start": 110,
+          "url": "https://t.co/eDeIIVoYmM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103825238907814225",
+    "lang": "ru",
+    "media_metadata": [
+      {
+        "media_key": "3_2103151863633793024"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 107
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103151868897554939",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @El3ctricDtntor: Когда я пишу \"п-чан выглядит как девочка но это просто феминный мальчик\" я имею ввиду это https://t.co/eDeIIVoYmM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 981,
+        "media_key": "3_2103151863633793024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS_lehyX0AAo6zI.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103151863633793024"
+          ],
+          "media_source_tweet_id": [
+            "2103151868897554939"
+          ]
+        },
+        "author_id": "2043915964559835136",
+        "conversation_id": "2103825238907814225",
+        "created_at": "2026-09-26T12:33:18.000Z",
+        "display_text_range": [
+          0,
+          133
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T13:33:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103825238907814225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1793220002151026688",
+              "start": 3,
+              "username": "El3ctricDtntor"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eDeIIVoYmM",
+              "end": 133,
+              "expanded_url": "https://x.com/El3ctricDtntor/status/2103151868897554939/photo/1",
+              "media_key": "3_2103151863633793024",
+              "start": 110,
+              "url": "https://t.co/eDeIIVoYmM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103825238907814225",
+        "lang": "ru",
+        "media_metadata": [
+          {
+            "media_key": "3_2103151863633793024"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 107
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103151868897554939",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @El3ctricDtntor: Когда я пишу \"п-чан выглядит как девочка но это просто феминный мальчик\" я имею ввиду это https://t.co/eDeIIVoYmM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103151863633793024"
+          ]
+        },
+        "author_id": "1793220002151026688",
+        "conversation_id": "2103151868897554939",
+        "created_at": "2026-09-24T15:57:34.000Z",
+        "display_text_range": [
+          0,
+          89
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T16:57:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103151868897554939"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eDeIIVoYmM",
+              "end": 113,
+              "expanded_url": "https://x.com/El3ctricDtntor/status/2103151868897554939/photo/1",
+              "media_key": "3_2103151863633793024",
+              "start": 90,
+              "url": "https://t.co/eDeIIVoYmM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103151868897554939",
+        "lang": "ru",
+        "media_metadata": [
+          {
+            "media_key": "3_2103151863633793024"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 143,
+          "impression_count": 5911,
+          "like_count": 1037,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 107
+        },
+        "reply_settings": "everyone",
+        "text": "Когда я пишу \"п-чан выглядит как девочка но это просто феминный мальчик\" я имею ввиду это https://t.co/eDeIIVoYmM"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "线下查无此人｜不安定｜LGBTQ全友好🌈👩‍❤️‍👩｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1\nbluesky：tongchan-2008 ←🔪🩸💊\n🚪8.8 仅好友位扩列纯乞讨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "rain_kawaii1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tong_u._.u_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tong_u._.u_",
+                "start": 0,
+                "url": "https://t.co/GZHx8f2s8R"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2103825238907814225",
+        "name": "tong_u._.u_",
+        "pinned_tweet_id": "2103761678697722165",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043915964559835136/1776143589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103533775343001600/xVd1jr9E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 165,
+          "like_count": 2191,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 986
+        },
+        "url": "https://t.co/GZHx8f2s8R",
+        "username": "rain_kawaiiii1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-22T09:59:17.000Z",
+        "description": "марету мой любимый вокапи а Мику главная муза 丫 (๑°□°๑)\nANGELS OF DELUSION FAN CLUB🕳️🕳️🕳️🕳️\notaku \nStarts with M and ends with U\nMARETU MARETU MARETU",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mangomangoteam.itch.io/dox-dox-anime-…",
+                "end": 23,
+                "expanded_url": "https://mangomangoteam.itch.io/dox-dox-anime-club",
+                "start": 0,
+                "url": "https://t.co/5SLtdttgfn"
+              }
+            ]
+          }
+        },
+        "id": "1793220002151026688",
+        "is_identity_verified": false,
+        "location": "ддв5лкляндия ",
+        "most_recent_tweet_id": "2103754109723533666",
+        "name": "Mahouᗜˬᗜ#AODFAN🪽🎀",
+        "pinned_tweet_id": "2094470566400966825",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1793220002151026688/1730122082",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010095670355513344/eXgKGnwW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 166,
+          "like_count": 6144,
+          "listed_count": 0,
+          "media_count": 525,
+          "tweet_count": 5644
+        },
+        "url": "https://t.co/5SLtdttgfn",
+        "username": "El3ctricDtntor",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

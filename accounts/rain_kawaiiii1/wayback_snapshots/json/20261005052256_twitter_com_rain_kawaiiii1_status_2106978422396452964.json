@@ -1,0 +1,497 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104827841770569728",
+        "3_2104827841728696321"
+      ],
+      "media_source_tweet_id": [
+        "2104827866831618251",
+        "2104827866831618251"
+      ]
+    },
+    "author_id": "2043915964559835136",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2106978422396452964",
+    "created_at": "2026-10-05T05:22:56.000Z",
+    "display_text_range": [
+      0,
+      112
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T06:22:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106978422396452964"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 62,
+          "start": 58,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 66,
+          "start": 63,
+          "tag": "线下"
+        },
+        {
+          "end": 70,
+          "start": 67,
+          "tag": "金主"
+        },
+        {
+          "end": 74,
+          "start": 71,
+          "tag": "半绿"
+        },
+        {
+          "end": 78,
+          "start": 75,
+          "tag": "非绿"
+        },
+        {
+          "end": 84,
+          "start": 79,
+          "tag": "全国可飞"
+        },
+        {
+          "end": 88,
+          "start": 85,
+          "tag": "萌妹"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1678471846226980864",
+          "start": 3,
+          "username": "ikukana239464"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EwYia9Hidd",
+          "end": 112,
+          "expanded_url": "https://x.com/ikukana239464/status/2104827866831618251/photo/1",
+          "media_key": "3_2104827841770569728",
+          "start": 89,
+          "url": "https://t.co/EwYia9Hidd"
+        },
+        {
+          "display_url": "pic.x.com/EwYia9Hidd",
+          "end": 112,
+          "expanded_url": "https://x.com/ikukana239464/status/2104827866831618251/photo/1",
+          "media_key": "3_2104827841728696321",
+          "start": 89,
+          "url": "https://t.co/EwYia9Hidd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106978422396452964",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2104827841770569728"
+      },
+      {
+        "media_key": "3_2104827841728696321"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104827866831618251",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ikukana239464: 哈喽这里小牙 千fo被害我又下海了qwq\n非绿也接哦 女孩子互转互fo大欢迎\n#门槛妹 #线下 #金主 #半绿 #非绿 #全国可飞 #萌妹 https://t.co/EwYia9Hidd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2104827841770569728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTXZxS4WQAAjZ3b.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1870,
+        "media_key": "3_2104827841728696321",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTXZxSuXUAEGUyg.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104827841770569728",
+            "3_2104827841728696321"
+          ],
+          "media_source_tweet_id": [
+            "2104827866831618251",
+            "2104827866831618251"
+          ]
+        },
+        "author_id": "2043915964559835136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2106978422396452964",
+        "created_at": "2026-10-05T05:22:56.000Z",
+        "display_text_range": [
+          0,
+          112
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T06:22:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106978422396452964"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 62,
+              "start": 58,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 66,
+              "start": 63,
+              "tag": "线下"
+            },
+            {
+              "end": 70,
+              "start": 67,
+              "tag": "金主"
+            },
+            {
+              "end": 74,
+              "start": 71,
+              "tag": "半绿"
+            },
+            {
+              "end": 78,
+              "start": 75,
+              "tag": "非绿"
+            },
+            {
+              "end": 84,
+              "start": 79,
+              "tag": "全国可飞"
+            },
+            {
+              "end": 88,
+              "start": 85,
+              "tag": "萌妹"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1678471846226980864",
+              "start": 3,
+              "username": "ikukana239464"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EwYia9Hidd",
+              "end": 112,
+              "expanded_url": "https://x.com/ikukana239464/status/2104827866831618251/photo/1",
+              "media_key": "3_2104827841770569728",
+              "start": 89,
+              "url": "https://t.co/EwYia9Hidd"
+            },
+            {
+              "display_url": "pic.x.com/EwYia9Hidd",
+              "end": 112,
+              "expanded_url": "https://x.com/ikukana239464/status/2104827866831618251/photo/1",
+              "media_key": "3_2104827841728696321",
+              "start": 89,
+              "url": "https://t.co/EwYia9Hidd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106978422396452964",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2104827841770569728"
+          },
+          {
+            "media_key": "3_2104827841728696321"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104827866831618251",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ikukana239464: 哈喽这里小牙 千fo被害我又下海了qwq\n非绿也接哦 女孩子互转互fo大欢迎\n#门槛妹 #线下 #金主 #半绿 #非绿 #全国可飞 #萌妹 https://t.co/EwYia9Hidd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104827841770569728",
+            "3_2104827841728696321"
+          ]
+        },
+        "author_id": "1678471846226980864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2104827866831618251",
+        "created_at": "2026-09-29T06:57:23.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T07:57:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104827866831618251"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 43,
+              "start": 39,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 47,
+              "start": 44,
+              "tag": "线下"
+            },
+            {
+              "end": 51,
+              "start": 48,
+              "tag": "金主"
+            },
+            {
+              "end": 55,
+              "start": 52,
+              "tag": "半绿"
+            },
+            {
+              "end": 59,
+              "start": 56,
+              "tag": "非绿"
+            },
+            {
+              "end": 65,
+              "start": 60,
+              "tag": "全国可飞"
+            },
+            {
+              "end": 69,
+              "start": 66,
+              "tag": "萌妹"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EwYia9Hidd",
+              "end": 93,
+              "expanded_url": "https://x.com/ikukana239464/status/2104827866831618251/photo/1",
+              "media_key": "3_2104827841770569728",
+              "start": 70,
+              "url": "https://t.co/EwYia9Hidd"
+            },
+            {
+              "display_url": "pic.x.com/EwYia9Hidd",
+              "end": 93,
+              "expanded_url": "https://x.com/ikukana239464/status/2104827866831618251/photo/1",
+              "media_key": "3_2104827841728696321",
+              "start": 70,
+              "url": "https://t.co/EwYia9Hidd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104827866831618251",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2104827841770569728"
+          },
+          {
+            "media_key": "3_2104827841728696321"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 820,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "哈喽这里小牙 千fo被害我又下海了qwq\n非绿也接哦 女孩子互转互fo大欢迎\n#门槛妹 #线下 #金主 #半绿 #非绿 #全国可飞 #萌妹 https://t.co/EwYia9Hidd"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "description": "线下查无此人｜不安定｜LGBTQ全友好🌈👩‍❤️‍👩｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1\nbluesky：tongchan-2008 ←🔪🩸💊\n🚪8.8 仅好友位扩列纯乞讨\n已成年休学中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "rain_kawaii1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tong_u._.u_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tong_u._.u_",
+                "start": 0,
+                "url": "https://t.co/GZHx8f1Ujj"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2106978422396452964",
+        "name": "tong_u._.u_",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043915964559835136/1776143589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103533775343001600/xVd1jr9E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 636,
+          "following_count": 175,
+          "like_count": 2464,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 1164
+        },
+        "url": "https://t.co/GZHx8f1Ujj",
+        "username": "rain_kawaiiii1",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-10T18:31:13.000Z",
+        "description": "188/288/388/520/1314",
+        "id": "1678471846226980864",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106971547173003280",
+        "name": "渡鸦miko",
+        "pinned_tweet_id": "2104827866831618251",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104825399025061888/x_BqTrFA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 5,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 13
+        },
+        "url": "",
+        "username": "ikukana239464",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

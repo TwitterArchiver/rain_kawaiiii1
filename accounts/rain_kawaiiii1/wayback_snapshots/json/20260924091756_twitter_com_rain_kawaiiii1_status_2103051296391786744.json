@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043915964559835136",
+    "conversation_id": "2102386578563936608",
+    "created_at": "2026-09-24T09:17:56.000Z",
+    "display_text_range": [
+      12,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T10:17:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103051296391786744"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1660701430875865108",
+          "start": 0,
+          "username": "Sadbandage"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103051296391786744",
+    "in_reply_to_user_id": "1660701430875865108",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102386578563936608",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sadbandage 听见这句话我一点沟通欲望也没有了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043915964559835136",
+        "conversation_id": "2102386578563936608",
+        "created_at": "2026-09-24T09:17:56.000Z",
+        "display_text_range": [
+          12,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T10:17:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103051296391786744"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1660701430875865108",
+              "start": 0,
+              "username": "Sadbandage"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103051296391786744",
+        "in_reply_to_user_id": "1660701430875865108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102386578563936608",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sadbandage 听见这句话我一点沟通欲望也没有了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1660701430875865108",
+        "conversation_id": "2102386578563936608",
+        "created_at": "2026-09-22T13:16:35.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T14:16:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102386578563936608"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2102386578563936608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 116432,
+          "like_count": 3176,
+          "quote_count": 13,
+          "reply_count": 264,
+          "retweet_count": 113
+        },
+        "reply_settings": "everyone",
+        "text": "我的小众怒点是别人说:我问过豆包了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "线下查无此人｜不安定｜LGBTQ全友好🌈👩‍❤️‍👩｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1\nbluesky：tongchan-2008 ←🔪🩸💊\n🚪8.8 仅好友位扩列纯乞讨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "rain_kawaii1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tong_u._.u_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tong_u._.u_",
+                "start": 0,
+                "url": "https://t.co/GZHx8f2s8R"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2103051296391786744",
+        "name": "tong_u._.u_",
+        "pinned_tweet_id": "2102659632435265719",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043915964559835136/1776143589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043920464872148992/gUpWTpWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 162,
+          "like_count": 2100,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 932
+        },
+        "url": "https://t.co/GZHx8f2s8R",
+        "username": "rain_kawaiiii1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-22T17:37:44.000Z",
+        "description": "🐈‍⬛",
+        "id": "1660701430875865108",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103029432919212427",
+        "name": "黒猫",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1660701430875865108/1787863213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093075763486404608/eSNMX7cp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 129,
+          "like_count": 1259,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 187
+        },
+        "url": "",
+        "username": "Sadbandage",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

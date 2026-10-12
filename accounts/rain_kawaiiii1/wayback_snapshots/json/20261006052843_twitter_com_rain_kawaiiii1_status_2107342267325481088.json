@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043915964559835136",
+    "conversation_id": "2107299215521276281",
+    "created_at": "2026-10-06T05:28:43.000Z",
+    "display_text_range": [
+      10,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T06:28:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107342267325481088"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2047425753227333632",
+          "start": 0,
+          "username": "YuganQwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107342267325481088",
+    "in_reply_to_user_id": "2047425753227333632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107299215521276281",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuganQwQ 我的普瑞就拿这个装的！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043915964559835136",
+        "conversation_id": "2107299215521276281",
+        "created_at": "2026-10-06T05:28:43.000Z",
+        "display_text_range": [
+          10,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T06:28:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107342267325481088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2047425753227333632",
+              "start": 0,
+              "username": "YuganQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107342267325481088",
+        "in_reply_to_user_id": "2047425753227333632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107299215521276281",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuganQwQ 我的普瑞就拿这个装的！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047425753227333632",
+        "conversation_id": "2107299215521276281",
+        "created_at": "2026-10-06T02:37:39.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T03:37:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107299215521276281"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaozhi_0801/s…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/xiaozhi_0801/status/2107167793330491666",
+              "start": 20,
+              "url": "https://t.co/wf9WHxKfvJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107299215521276281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 225,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107167793330491666",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好萌。。我要买这个粉红色的来罐普瑞胶囊 https://t.co/wf9WHxKfvJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "description": "线下查无此人｜不安定｜LGBTQ全友好🌈👩‍❤️‍👩｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1\nbluesky：tongchan-2008 ←🔪🩸💊\n🚪8.8 仅好友位扩列纯乞讨\n已成年休学中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "rain_kawaii1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tong_u._.u_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tong_u._.u_",
+                "start": 0,
+                "url": "https://t.co/GZHx8f1Ujj"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2107342267325481088",
+        "name": "tong_u._.u_",
+        "pinned_tweet_id": "2107025262856806842",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043915964559835136/1776143589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103533775343001600/xVd1jr9E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 772,
+          "following_count": 182,
+          "like_count": 2509,
+          "listed_count": 1,
+          "media_count": 98,
+          "tweet_count": 1214
+        },
+        "url": "https://t.co/GZHx8f1Ujj",
+        "username": "rain_kawaiiii1",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 查成分回fo 直fo是因为喜欢你呀 |\n前世@yuganbb823 宝宝@ci_shang85157\n锁推的人我关注不了，因为我不知道你是啥成分哈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "yuganbb823"
+              },
+              {
+                "end": 78,
+                "start": 64,
+                "username": "ci_shang85157"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuganqwq",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuganqwq",
+                "start": 0,
+                "url": "https://t.co/19gBB14uzC"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "is_identity_verified": false,
+        "location": "距离你4.5km",
+        "most_recent_tweet_id": "2107339870956040303",
+        "name": "为何人生如此悲惨2.0",
+        "pinned_tweet_id": "2105458187768131727",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047425753227333632/1786741767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 661,
+          "following_count": 551,
+          "like_count": 7133,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 1742
+        },
+        "url": "https://t.co/19gBB14uzC",
+        "username": "YuganQwQ",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

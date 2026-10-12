@@ -1,0 +1,449 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2106434014538354688"
+      ]
+    },
+    "author_id": "2043915964559835136",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "2106434027322503457",
+    "created_at": "2026-10-03T17:19:42.000Z",
+    "display_text_range": [
+      0,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T18:19:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2106434027322503457"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yCoguXIxUl",
+          "end": 48,
+          "expanded_url": "https://x.com/rain_kawaiiii1/status/2106434027322503457/photo/1",
+          "media_key": "3_2106434014538354688",
+          "start": 25,
+          "url": "https://t.co/yCoguXIxUl"
+        },
+        {
+          "display_url": "x.com/rain_kawaiiii1…",
+          "end": 72,
+          "expanded_url": "https://twitter.com/rain_kawaiiii1/status/2106306408291701228",
+          "start": 49,
+          "url": "https://t.co/cuk7m1T0lj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106434027322503457",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2106434014538354688"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106306408291701228",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "睡前捞一下 这个是点歌条 入门🚪就能获得一首歌哦 https://t.co/yCoguXIxUl https://t.co/cuk7m1T0lj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2106434014538354688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTuOk2tb0AAylVv.jpg",
+        "width": 358
+      },
+      {
+        "height": 680,
+        "media_key": "3_2106306222752477184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTsaWZNbMAA5YSt.jpg",
+        "width": 510
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106434014538354688"
+          ]
+        },
+        "author_id": "2043915964559835136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2106434027322503457",
+        "created_at": "2026-10-03T17:19:42.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T18:19:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106434027322503457"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yCoguXIxUl",
+              "end": 48,
+              "expanded_url": "https://x.com/rain_kawaiiii1/status/2106434027322503457/photo/1",
+              "media_key": "3_2106434014538354688",
+              "start": 25,
+              "url": "https://t.co/yCoguXIxUl"
+            },
+            {
+              "display_url": "x.com/rain_kawaiiii1…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/rain_kawaiiii1/status/2106306408291701228",
+              "start": 49,
+              "url": "https://t.co/cuk7m1T0lj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106434027322503457",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106434014538354688"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106306408291701228",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "睡前捞一下 这个是点歌条 入门🚪就能获得一首歌哦 https://t.co/yCoguXIxUl https://t.co/cuk7m1T0lj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106306222752477184"
+          ]
+        },
+        "author_id": "2043915964559835136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2106306408291701228",
+        "created_at": "2026-10-03T08:52:35.000Z",
+        "display_text_range": [
+          0,
+          88
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T09:51:53.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106306232281969004",
+          "2106306408291701228"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 70,
+              "start": 66,
+              "tag": "地雷系"
+            },
+            {
+              "end": 75,
+              "start": 71,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 84,
+              "start": 76,
+              "tag": "cosplay"
+            },
+            {
+              "end": 88,
+              "start": 85,
+              "tag": "可爱"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/I5UnaYniY5",
+              "end": 112,
+              "expanded_url": "https://x.com/rain_kawaiiii1/status/2106306408291701228/photo/1",
+              "media_key": "3_2106306222752477184",
+              "start": 89,
+              "url": "https://t.co/I5UnaYniY5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106306408291701228",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106306222752477184"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 914,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "求入门 🚪8.8\n可以点歌画画聊天（纯绿）\n更多业务过🚪咨询 也是纯绿的（）\n来加我吧\n可以互推互关大欢迎 求同类互关\n内涵🔪🩸💊\n#地雷系 #门槛妹 #cosplay #可爱 https://t.co/I5UnaYniY5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "线下查无此人｜不安定｜LGBTQ全友好🌈👩‍❤️‍👩｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1\nbluesky：tongchan-2008 ←🔪🩸💊\n🚪8.8 仅好友位扩列纯乞讨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "rain_kawaii1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tong_u._.u_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tong_u._.u_",
+                "start": 0,
+                "url": "https://t.co/GZHx8f2s8R"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2106434027322503457",
+        "name": "tong_u._.u_",
+        "pinned_tweet_id": "2106306408291701228",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043915964559835136/1776143589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103533775343001600/xVd1jr9E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 536,
+          "following_count": 169,
+          "like_count": 2407,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 1111
+        },
+        "url": "https://t.co/GZHx8f2s8R",
+        "username": "rain_kawaiiii1",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043915964559835136",
+    "conversation_id": "2105284234172899391",
+    "created_at": "2026-09-30T13:10:50.000Z",
+    "display_text_range": [
+      0,
+      95
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T14:10:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105284234172899391"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1975652243803181056",
+          "start": 3,
+          "username": "nanqnaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105284234172899391",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1880
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104686615947812971",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nanqnaa: hay personas q se levantan y genuinamente lo primero que piensan es en el suicidio"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043915964559835136",
+        "conversation_id": "2105284234172899391",
+        "created_at": "2026-09-30T13:10:50.000Z",
+        "display_text_range": [
+          0,
+          95
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T14:10:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105284234172899391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1975652243803181056",
+              "start": 3,
+              "username": "nanqnaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105284234172899391",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1880
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104686615947812971",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nanqnaa: hay personas q se levantan y genuinamente lo primero que piensan es en el suicidio"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1975652243803181056",
+        "conversation_id": "2104686615947812971",
+        "created_at": "2026-09-28T21:36:07.000Z",
+        "display_text_range": [
+          0,
+          82
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T22:36:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104686615947812971"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104686615947812971",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 341,
+          "impression_count": 110063,
+          "like_count": 10972,
+          "quote_count": 423,
+          "reply_count": 108,
+          "retweet_count": 1880
+        },
+        "reply_settings": "everyone",
+        "text": "hay personas q se levantan y genuinamente lo primero que piensan es en el suicidio"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "description": "线下查无此人｜不安定｜LGBTQ全友好🌈👩‍❤️‍👩｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1\nbluesky：tongchan-2008 ←🔪🩸💊\n🚪8.8 仅好友位扩列纯乞讨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "rain_kawaii1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tong_u._.u_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tong_u._.u_",
+                "start": 0,
+                "url": "https://t.co/GZHx8f2s8R"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2105284234172899391",
+        "name": "tong_u._.u_",
+        "pinned_tweet_id": "2105182271380893712",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043915964559835136/1776143589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103533775343001600/xVd1jr9E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 416,
+          "following_count": 168,
+          "like_count": 2302,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 1046
+        },
+        "url": "https://t.co/GZHx8f2s8R",
+        "username": "rain_kawaiiii1",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-07T20:00:01.000Z",
+        "description": "gorda ijadeputa de #shedtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 27,
+                "start": 19,
+                "tag": "shedtwt"
+              }
+            ]
+          }
+        },
+        "id": "1975652243803181056",
+        "is_identity_verified": false,
+        "location": "megacarcel de soacha",
+        "most_recent_tweet_id": "2105255821823164799",
+        "name": "nana zurda socialista",
+        "pinned_tweet_id": "2093951330700190064",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1975652243803181056/1789878446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101526059644542976/gKKInDYJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 156,
+          "like_count": 11124,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 1751
+        },
+        "url": "",
+        "username": "nanqnaa",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103760246108049408",
+        "3_2103760246112133120",
+        "3_2103760246170869760"
+      ]
+    },
+    "author_id": "2043915964559835136",
+    "conversation_id": "2103760270959227243",
+    "created_at": "2026-09-26T08:15:09.000Z",
+    "display_text_range": [
+      0,
+      65
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T09:15:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103760270959227243"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WBrmrrumLd",
+          "end": 89,
+          "expanded_url": "https://x.com/rain_kawaiiii1/status/2103760270959227243/photo/1",
+          "media_key": "3_2103760246108049408",
+          "start": 66,
+          "url": "https://t.co/WBrmrrumLd"
+        },
+        {
+          "display_url": "pic.x.com/WBrmrrumLd",
+          "end": 89,
+          "expanded_url": "https://x.com/rain_kawaiiii1/status/2103760270959227243/photo/1",
+          "media_key": "3_2103760246112133120",
+          "start": 66,
+          "url": "https://t.co/WBrmrrumLd"
+        },
+        {
+          "display_url": "pic.x.com/WBrmrrumLd",
+          "end": 89,
+          "expanded_url": "https://x.com/rain_kawaiiii1/status/2103760270959227243/photo/1",
+          "media_key": "3_2103760246170869760",
+          "start": 66,
+          "url": "https://t.co/WBrmrrumLd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103760270959227243",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2103760246108049408"
+      },
+      {
+        "media_key": "3_2103760246112133120"
+      },
+      {
+        "media_key": "3_2103760246170869760"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🚪8.8可以来找我聊天我可以给你唱歌画画跳舞😿😿纯绿哦开放两个号的朋友圈！！请助力我活下去。。p4是原相机实况没p过#餐券#地雷系 https://t.co/WBrmrrumLd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2103760246108049408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTIOzDHb0AA9QAG.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2103760246112133120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTIOzDIaIAALkRx.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2103760246170869760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTIOzDWaYAA558P.jpg",
+        "width": 1538
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103760246108049408",
+            "3_2103760246112133120",
+            "3_2103760246170869760"
+          ]
+        },
+        "author_id": "2043915964559835136",
+        "conversation_id": "2103760270959227243",
+        "created_at": "2026-09-26T08:15:09.000Z",
+        "display_text_range": [
+          0,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T09:15:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103760270959227243"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WBrmrrumLd",
+              "end": 89,
+              "expanded_url": "https://x.com/rain_kawaiiii1/status/2103760270959227243/photo/1",
+              "media_key": "3_2103760246108049408",
+              "start": 66,
+              "url": "https://t.co/WBrmrrumLd"
+            },
+            {
+              "display_url": "pic.x.com/WBrmrrumLd",
+              "end": 89,
+              "expanded_url": "https://x.com/rain_kawaiiii1/status/2103760270959227243/photo/1",
+              "media_key": "3_2103760246112133120",
+              "start": 66,
+              "url": "https://t.co/WBrmrrumLd"
+            },
+            {
+              "display_url": "pic.x.com/WBrmrrumLd",
+              "end": 89,
+              "expanded_url": "https://x.com/rain_kawaiiii1/status/2103760270959227243/photo/1",
+              "media_key": "3_2103760246170869760",
+              "start": 66,
+              "url": "https://t.co/WBrmrrumLd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103760270959227243",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103760246108049408"
+          },
+          {
+            "media_key": "3_2103760246112133120"
+          },
+          {
+            "media_key": "3_2103760246170869760"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🚪8.8可以来找我聊天我可以给你唱歌画画跳舞😿😿纯绿哦开放两个号的朋友圈！！请助力我活下去。。p4是原相机实况没p过#餐券#地雷系 https://t.co/WBrmrrumLd"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "线下查无此人｜不安定｜LGBTQ全友好🌈👩‍❤️‍👩｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1\nbluesky：tongchan-2008 ←🔪🩸💊\n🚪8.8 仅好友位扩列纯乞讨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "rain_kawaii1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tong_u._.u_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tong_u._.u_",
+                "start": 0,
+                "url": "https://t.co/GZHx8f2s8R"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2103760270959227243",
+        "name": "tong_u._.u_",
+        "pinned_tweet_id": "2102659632435265719",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043915964559835136/1776143589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103533775343001600/xVd1jr9E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 164,
+          "like_count": 2184,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 982
+        },
+        "url": "https://t.co/GZHx8f2s8R",
+        "username": "rain_kawaiiii1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
